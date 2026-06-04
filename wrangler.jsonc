@@ -3,6 +3,12 @@
   "name": "keisha-game",
   "compatibility_date": "2026-05-11",
   "main": "src/index.js",
+  "routes": [
+    {
+      "pattern": "keisha-game.arckemistry.com",
+      "custom_domain": true
+    }
+  ],
   "assets": {
     "directory": "./",
     "not_found_handling": "single-page-application"
