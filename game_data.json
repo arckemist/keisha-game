@@ -1,0 +1,1000 @@
+{
+  "kid": "keisha",
+  "subject": "Science",
+  "grade": 4,
+  "source_pdf": "Science Merge.pdf",
+  "generated_at": "2026-06-06",
+  "title": "Keisha's Science Quest",
+  "character": "ice_mage",
+  "config": {
+    "hero_hp": 5,
+    "skill_max": 1,
+    "small_enemy_hp": 1,
+    "boss_hp": 5,
+    "wave_count": 5,
+    "small_per_wave": 5,
+    "boss_per_wave": 1
+  },
+  "questions": [
+    {
+      "domain": "frictional_force",
+      "text": "Frictional force is a force that ____ motion.",
+      "options": {
+        "A": "speeds up",
+        "B": "opposes",
+        "C": "creates",
+        "D": "measures"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 1,
+      "image": null
+    },
+    {
+      "domain": "frictional_force",
+      "text": "Frictional force is produced when two surfaces ____ each other.",
+      "options": {
+        "A": "stick to",
+        "B": "repel",
+        "C": "rub against",
+        "D": "attract"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 2,
+      "image": null
+    },
+    {
+      "domain": "frictional_force",
+      "text": "Frictional force always acts in which direction compared to the motion?",
+      "options": {
+        "A": "Same direction",
+        "B": "Opposite direction",
+        "C": "Upward",
+        "D": "Downward"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 3,
+      "image": null
+    },
+    {
+      "domain": "frictional_force",
+      "text": "Frictional force between two rough surfaces is ____ than between two smooth surfaces.",
+      "options": {
+        "A": "smaller",
+        "B": "greater",
+        "C": "the same",
+        "D": "weaker"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 4,
+      "image": null
+    },
+    {
+      "domain": "frictional_force",
+      "text": "A book pushed across a desk slows down and stops because of:",
+      "options": {
+        "A": "muscular force",
+        "B": "gravitational force",
+        "C": "frictional force",
+        "D": "magnetic force"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 5,
+      "image": null
+    },
+    {
+      "domain": "frictional_force",
+      "text": "Tread patterns on tyres help a vehicle by:",
+      "options": {
+        "A": "reducing frictional force with the road",
+        "B": "increasing frictional force with the road",
+        "C": "making the tyres magnetic",
+        "D": "changing the tyre colour"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 6,
+      "image": null
+    },
+    {
+      "domain": "frictional_force",
+      "text": "Frictional force between the soles of our shoes and the ground helps us to:",
+      "options": {
+        "A": "float in the air",
+        "B": "walk without slipping",
+        "C": "see better",
+        "D": "hear sounds"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 7,
+      "image": null
+    },
+    {
+      "domain": "muscular_force",
+      "text": "Muscular force is applied when we use the ____ of our body.",
+      "options": {
+        "A": "bones",
+        "B": "muscles",
+        "C": "blood",
+        "D": "skin"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 8,
+      "image": null
+    },
+    {
+      "domain": "muscular_force",
+      "text": "Which of the following actions requires muscular force?",
+      "options": {
+        "A": "Sun shining",
+        "B": "Wind blowing",
+        "C": "Lifting a book",
+        "D": "Rain falling"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 9,
+      "image": null
+    },
+    {
+      "domain": "muscular_force",
+      "text": "A cyclist has to keep pedaling to keep moving forward. This is because:",
+      "options": {
+        "A": "frictional force opposes the motion",
+        "B": "magnetic force pushes the bike",
+        "C": "muscular force pushes the bike faster",
+        "D": "electric force slows the bike"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 10,
+      "image": null
+    },
+    {
+      "domain": "muscular_force",
+      "text": "Which action requires the LEAST muscular force?",
+      "options": {
+        "A": "Lifting heavy luggage",
+        "B": "Turning the pages of a book",
+        "C": "Climbing stairs",
+        "D": "Carrying a bag of rice"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 11,
+      "image": null
+    },
+    {
+      "domain": "muscular_force",
+      "text": "Even when we sleep, our body still uses muscular force to:",
+      "options": {
+        "A": "dream",
+        "B": "shut our eyes",
+        "C": "breathe loudly",
+        "D": "see the dark"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 12,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "Gravitational force is a force of attraction between the Earth and a(n):",
+      "options": {
+        "A": "magnet",
+        "B": "object",
+        "C": "sound",
+        "D": "light"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 13,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "Gravitational force pulls all things ____ the Earth.",
+      "options": {
+        "A": "away from",
+        "B": "towards",
+        "C": "around",
+        "D": "through"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 14,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "The ____ of an object is due to gravitational force acting on it.",
+      "options": {
+        "A": "size",
+        "B": "colour",
+        "C": "weight",
+        "D": "shape"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 15,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "A ripe apple falls from a tree because:",
+      "options": {
+        "A": "the wind blows it",
+        "B": "gravitational force pulls it down",
+        "C": "frictional force stops it",
+        "D": "magnetic force attracts it"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 16,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "Which of these is held in place by gravitational force?",
+      "options": {
+        "A": "A helium balloon",
+        "B": "The Earth orbiting the Sun",
+        "C": "A charged balloon",
+        "D": "A magnet on a fridge"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 17,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "A space satellite stays in orbit because:",
+      "options": {
+        "A": "it has its own engine",
+        "B": "gravitational force keeps it from floating away",
+        "C": "magnetic force pulls it",
+        "D": "electric force pushes it"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 18,
+      "image": null
+    },
+    {
+      "domain": "gravitational_force",
+      "text": "Astronauts in a spacecraft experience 'zero-gravity'. This means:",
+      "options": {
+        "A": "they become heavier",
+        "B": "they float around in the spacecraft",
+        "C": "they can fly to other planets",
+        "D": "gravitational force has stopped"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 19,
+      "image": null
+    },
+    {
+      "domain": "magnetic_force",
+      "text": "Materials that can be attracted by a magnet are called:",
+      "options": {
+        "A": "non-magnetic materials",
+        "B": "electric materials",
+        "C": "magnetic materials",
+        "D": "rough materials"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 20,
+      "image": null
+    },
+    {
+      "domain": "magnetic_force",
+      "text": "Which of these is a magnetic material?",
+      "options": {
+        "A": "Wood",
+        "B": "Plastic",
+        "C": "Iron",
+        "D": "Rubber"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 21,
+      "image": null
+    },
+    {
+      "domain": "magnetic_force",
+      "text": "Which of these is NOT a magnetic material?",
+      "options": {
+        "A": "Iron",
+        "B": "Steel",
+        "C": "Nickel",
+        "D": "Copper"
+      },
+      "answer": "D",
+      "difficulty": "medium",
+      "id": 22,
+      "image": null
+    },
+    {
+      "domain": "magnetic_force",
+      "text": "Magnets are used in refrigerators to help:",
+      "options": {
+        "A": "keep food cold",
+        "B": "close the doors tightly",
+        "C": "light up the inside",
+        "D": "make ice"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 23,
+      "image": null
+    },
+    {
+      "domain": "magnetic_force",
+      "text": "Electromagnets in a speaker convert:",
+      "options": {
+        "A": "light to heat",
+        "B": "electricity to sound",
+        "C": "sound to electricity",
+        "D": "heat to light"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 24,
+      "image": null
+    },
+    {
+      "domain": "magnetic_force",
+      "text": "Magnetic force is used in computers to:",
+      "options": {
+        "A": "print documents",
+        "B": "store data",
+        "C": "connect to the internet",
+        "D": "cool the processor"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 25,
+      "image": null
+    },
+    {
+      "domain": "electric_force",
+      "text": "All objects contain tiny particles that can be:",
+      "options": {
+        "A": "big or small",
+        "B": "hot or cold",
+        "C": "positive or negative",
+        "D": "fast or slow"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 26,
+      "image": null
+    },
+    {
+      "domain": "electric_force",
+      "text": "An object is charged when there is an unequal number of ____ particles inside it.",
+      "options": {
+        "A": "negative and positive",
+        "B": "big and small",
+        "C": "fast and slow",
+        "D": "old and new"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 27,
+      "image": null
+    },
+    {
+      "domain": "electric_force",
+      "text": "Opposite charges will ____ each other.",
+      "options": {
+        "A": "repel",
+        "B": "attract",
+        "C": "ignore",
+        "D": "multiply"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 28,
+      "image": null
+    },
+    {
+      "domain": "electric_force",
+      "text": "Like charges will ____ each other.",
+      "options": {
+        "A": "attract",
+        "B": "repel",
+        "C": "combine",
+        "D": "neutralise"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 29,
+      "image": null
+    },
+    {
+      "domain": "electric_force",
+      "text": "In a factory smoke filter, smoke particles become negatively charged and are attracted to:",
+      "options": {
+        "A": "negatively charged plates",
+        "B": "positively charged plates",
+        "C": "neutral water",
+        "D": "magnetic plates"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 30,
+      "image": null
+    },
+    {
+      "domain": "light_energy",
+      "text": "What is the main source of light on Earth?",
+      "options": {
+        "A": "The Moon",
+        "B": "The Sun",
+        "C": "Stars",
+        "D": "Electric lamps"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 31,
+      "image": null
+    },
+    {
+      "domain": "light_energy",
+      "text": "We need light to ____ the things around us.",
+      "options": {
+        "A": "hear",
+        "B": "see",
+        "C": "smell",
+        "D": "touch"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 32,
+      "image": null
+    },
+    {
+      "domain": "light_energy",
+      "text": "Which is NOT a source of light?",
+      "options": {
+        "A": "A torch",
+        "B": "A lamp",
+        "C": "A mirror",
+        "D": "The Sun"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 33,
+      "image": null
+    },
+    {
+      "domain": "heat_energy",
+      "text": "The main source of heat on Earth is:",
+      "options": {
+        "A": "Fire",
+        "B": "The Sun",
+        "C": "Electric heaters",
+        "D": "Friction"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 34,
+      "image": null
+    },
+    {
+      "domain": "heat_energy",
+      "text": "Heat energy makes things feel:",
+      "options": {
+        "A": "cold",
+        "B": "heavy",
+        "C": "warm or hot",
+        "D": "rough"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 35,
+      "image": null
+    },
+    {
+      "domain": "heat_energy",
+      "text": "We use heat energy to:",
+      "options": {
+        "A": "see colours",
+        "B": "cook food and dry clothes",
+        "C": "hear sounds",
+        "D": "breathe"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 36,
+      "image": null
+    },
+    {
+      "domain": "sound_energy",
+      "text": "Sounds are produced by ____ or moving objects.",
+      "options": {
+        "A": "vibrating",
+        "B": "shining",
+        "C": "magnetic",
+        "D": "electric"
+      },
+      "answer": "A",
+      "difficulty": "easy",
+      "id": 37,
+      "image": null
+    },
+    {
+      "domain": "sound_energy",
+      "text": "Which of these is a useful purpose of sound?",
+      "options": {
+        "A": "Cooking food",
+        "B": "Warning us of emergencies with sirens",
+        "C": "Heating water",
+        "D": "Lighting a room"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 38,
+      "image": null
+    },
+    {
+      "domain": "sound_energy",
+      "text": "An example of a SOFT sound is a:",
+      "options": {
+        "A": "thunder",
+        "B": "whisper",
+        "C": "fire alarm",
+        "D": "siren"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 39,
+      "image": null
+    },
+    {
+      "domain": "electrical_energy",
+      "text": "Electrical energy can be converted into:",
+      "options": {
+        "A": "light, heat and sound",
+        "B": "magnetic force only",
+        "C": "gravitational force only",
+        "D": "frictional force only"
+      },
+      "answer": "A",
+      "difficulty": "easy",
+      "id": 40,
+      "image": null
+    },
+    {
+      "domain": "electrical_energy",
+      "text": "Which device uses electrical energy from a socket to work?",
+      "options": {
+        "A": "A torch with batteries",
+        "B": "A washing machine",
+        "C": "An alarm clock with batteries",
+        "D": "A calculator with batteries"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 41,
+      "image": null
+    },
+    {
+      "domain": "electrical_energy",
+      "text": "Why is electrical energy one of the most useful forms of energy?",
+      "options": {
+        "A": "It is free",
+        "B": "It can be converted into many other forms of energy",
+        "C": "It makes sounds",
+        "D": "It is invisible"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 42,
+      "image": null
+    },
+    {
+      "domain": "kinetic_energy",
+      "text": "The energy that a moving object has is called:",
+      "options": {
+        "A": "potential energy",
+        "B": "kinetic energy",
+        "C": "chemical energy",
+        "D": "light energy"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 43,
+      "image": null
+    },
+    {
+      "domain": "kinetic_energy",
+      "text": "The faster an object moves, the ____ kinetic energy it has.",
+      "options": {
+        "A": "less",
+        "B": "more",
+        "C": "same amount of",
+        "D": "different type of"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 44,
+      "image": null
+    },
+    {
+      "domain": "potential_energy",
+      "text": "Energy that is stored in objects is called:",
+      "options": {
+        "A": "kinetic energy",
+        "B": "heat energy",
+        "C": "potential energy",
+        "D": "sound energy"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 45,
+      "image": null
+    },
+    {
+      "domain": "chemical_pe",
+      "text": "Chemical potential energy is stored in:",
+      "options": {
+        "A": "moving objects",
+        "B": "food, batteries and fuels",
+        "C": "light bulbs",
+        "D": "magnets"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 46,
+      "image": null
+    },
+    {
+      "domain": "chemical_pe",
+      "text": "When we eat food, our body uses the ____ potential energy stored in food.",
+      "options": {
+        "A": "kinetic",
+        "B": "gravitational",
+        "C": "chemical",
+        "D": "elastic"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 47,
+      "image": null
+    },
+    {
+      "domain": "gravitational_pe",
+      "text": "When an object is at a height above the ground, it has:",
+      "options": {
+        "A": "kinetic energy",
+        "B": "gravitational potential energy",
+        "C": "chemical energy",
+        "D": "sound energy"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 48,
+      "image": null
+    },
+    {
+      "domain": "gravitational_pe",
+      "text": "Joe is standing still at the top of a ramp. He has gravitational potential energy because of his:",
+      "options": {
+        "A": "speed",
+        "B": "weight",
+        "C": "position above the ground",
+        "D": "colour"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 49,
+      "image": null
+    },
+    {
+      "domain": "elastic_pe",
+      "text": "A stretched rubber band has:",
+      "options": {
+        "A": "kinetic energy",
+        "B": "gravitational potential energy",
+        "C": "elastic potential energy",
+        "D": "sound energy"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "id": 50,
+      "image": null
+    },
+    {
+      "domain": "solar_energy",
+      "text": "Energy from the Sun is also called ____ energy.",
+      "options": {
+        "A": "wind",
+        "B": "solar",
+        "C": "water",
+        "D": "fossil"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 51,
+      "image": null
+    },
+    {
+      "domain": "solar_energy",
+      "text": "Solar energy consists of both ____ and ____ energy.",
+      "options": {
+        "A": "sound and heat",
+        "B": "heat and light",
+        "C": "kinetic and potential",
+        "D": "magnetic and electric"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 52,
+      "image": null
+    },
+    {
+      "domain": "solar_energy",
+      "text": "Plants use light energy from the Sun to:",
+      "options": {
+        "A": "move around",
+        "B": "make food",
+        "C": "produce sound",
+        "D": "generate electricity directly"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 53,
+      "image": null
+    },
+    {
+      "domain": "fossil_fuels",
+      "text": "Fossil fuels are formed from:",
+      "options": {
+        "A": "living things that died millions of years ago",
+        "B": "rocks in the ground",
+        "C": "ocean water",
+        "D": "modern plastic"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 54,
+      "image": null
+    },
+    {
+      "domain": "fossil_fuels",
+      "text": "Examples of fossil fuels include:",
+      "options": {
+        "A": "wind and sunlight",
+        "B": "coal, oil and natural gas",
+        "C": "wood and paper",
+        "D": "water and steam"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 55,
+      "image": null
+    },
+    {
+      "domain": "biofuels",
+      "text": "Biofuels are fuels made from:",
+      "options": {
+        "A": "fossil fuels",
+        "B": "recently living things (plants, animals)",
+        "C": "plastic waste",
+        "D": "rocks"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 56,
+      "image": null
+    },
+    {
+      "domain": "energy_conservation",
+      "text": "Why should we conserve energy?",
+      "options": {
+        "A": "To make energy more expensive",
+        "B": "Because fossil fuels will run out one day",
+        "C": "To produce more pollution",
+        "D": "To reduce the Sun's heat"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 57,
+      "image": null
+    },
+    {
+      "domain": "energy_conservation",
+      "text": "Which of these saves electrical energy at home?",
+      "options": {
+        "A": "Leaving lights on when not in use",
+        "B": "Switching off lights when leaving a room",
+        "C": "Using more appliances at once",
+        "D": "Running the air-conditioner all day"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 58,
+      "image": null
+    },
+    {
+      "domain": "maglev",
+      "text": "Maglev is short for:",
+      "options": {
+        "A": "Magnetic levitation",
+        "B": "Magnesium level",
+        "C": "Magnet elevator",
+        "D": "Magic level"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 59,
+      "image": null
+    },
+    {
+      "domain": "maglev",
+      "text": "In a Maglev train, one set of magnets ____ the train up off the track.",
+      "options": {
+        "A": "attracts and pulls",
+        "B": "repels and pushes",
+        "C": "shines light on",
+        "D": "heats up"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 60,
+      "image": null
+    },
+    {
+      "domain": "light_reflection",
+      "text": "When light hits a surface and bounces off, this is called:",
+      "options": {
+        "A": "refraction",
+        "B": "reflection",
+        "C": "absorption",
+        "D": "evaporation"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 61,
+      "image": null
+    },
+    {
+      "domain": "light_reflection",
+      "text": "Light can be reflected by:",
+      "options": {
+        "A": "only mirrors",
+        "B": "only water",
+        "C": "many different surfaces including mirrors",
+        "D": "only the Sun"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 62,
+      "image": null
+    },
+    {
+      "domain": "light_reflection",
+      "text": "A mirror is an example of a surface that reflects ____ of the light that hits it.",
+      "options": {
+        "A": "none",
+        "B": "some",
+        "C": "most",
+        "D": "all"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 63,
+      "image": null
+    },
+    {
+      "domain": "periscope",
+      "text": "A periscope uses ____ to let us see over or around objects.",
+      "options": {
+        "A": "lenses",
+        "B": "mirrors",
+        "C": "magnets",
+        "D": "batteries"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 64,
+      "image": null
+    },
+    {
+      "domain": "periscope",
+      "text": "A periscope needs at least ____ mirror(s) to work.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 65,
+      "image": null
+    },
+    {
+      "domain": "sound_loudness",
+      "text": "The ____ from the source of a sound affects how loud we hear it.",
+      "options": {
+        "A": "colour",
+        "B": "distance",
+        "C": "shape",
+        "D": "weight"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 66,
+      "image": null
+    },
+    {
+      "domain": "sound_loudness",
+      "text": "The closer you are to a source of sound, the ____ it sounds.",
+      "options": {
+        "A": "softer",
+        "B": "louder",
+        "C": "same",
+        "D": "higher pitched"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 67,
+      "image": null
+    },
+    {
+      "domain": "energy_conversion",
+      "text": "When we switch on a television, electrical energy is converted to light, sound and ____ energy.",
+      "options": {
+        "A": "kinetic",
+        "B": "chemical",
+        "C": "heat",
+        "D": "magnetic"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 68,
+      "image": null
+    },
+    {
+      "domain": "energy_conversion",
+      "text": "When a battery powers a robot, chemical potential energy is converted into:",
+      "options": {
+        "A": "sound only",
+        "B": "light only",
+        "C": "electrical energy to make the robot move",
+        "D": "gravitational energy"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 69,
+      "image": null
+    },
+    {
+      "domain": "energy_conversion",
+      "text": "Fuels like charcoal are burnt to produce ____ energy for cooking.",
+      "options": {
+        "A": "light",
+        "B": "heat",
+        "C": "sound",
+        "D": "magnetic"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 70,
+      "image": null
+    }
+  ]
+}

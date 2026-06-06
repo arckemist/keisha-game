@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="200" height="220">
+  <defs>
+    <linearGradient id="dBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="50%" stop-color="#991b1b"/>
+      <stop offset="100%" stop-color="#450a0a"/>
+    </linearGradient>
+    <linearGradient id="dWing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#450a0a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wings (spread) -->
+  <path d="M 30 80 Q 0 60 10 100 Q 5 130 35 110 Z" fill="url(#dWing)" stroke="#1c0a0a" stroke-width="2"/>
+  <path d="M 30 80 L 10 100" stroke="#1c0a0a" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 30 80 L 20 130" stroke="#1c0a0a" stroke-width="1.5" opacity="0.6"/>
+
+  <path d="M 170 80 Q 200 60 190 100 Q 195 130 165 110 Z" fill="url(#dWing)" stroke="#1c0a0a" stroke-width="2"/>
+  <path d="M 170 80 L 190 100" stroke="#1c0a0a" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 170 80 L 180 130" stroke="#1c0a0a" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Body -->
+  <ellipse cx="100" cy="140" rx="60" ry="50" fill="url(#dBody)" stroke="#1c0a0a" stroke-width="2"/>
+
+  <!-- Belly (lighter) -->
+  <ellipse cx="100" cy="155" rx="40" ry="30" fill="#fca5a5" opacity="0.4"/>
+
+  <!-- Tail -->
+  <path d="M 145 170 Q 180 180 185 200 L 175 205 Q 170 190 145 180 Z" fill="url(#dBody)" stroke="#1c0a0a" stroke-width="1.5"/>
+  <polygon points="178,195 195,200 178,210" fill="#dc2626" stroke="#1c0a0a" stroke-width="1.5"/>
+
+  <!-- Legs (4) -->
+  <rect x="65" y="175" width="14" height="30" fill="url(#dBody)" stroke="#1c0a0a" stroke-width="1.5"/>
+  <rect x="120" y="175" width="14" height="30" fill="url(#dBody)" stroke="#1c0a0a" stroke-width="1.5"/>
+  <polygon points="62,205 82,205 78,215 66,215" fill="#1c0a0a"/>
+  <polygon points="117,205 137,205 133,215 121,215" fill="#1c0a0a"/>
+
+  <!-- Neck -->
+  <path d="M 75 110 Q 80 70 100 65 Q 120 70 125 110" fill="url(#dBody)" stroke="#1c0a0a" stroke-width="2"/>
+
+  <!-- Head -->
+  <ellipse cx="100" cy="60" rx="35" ry="28" fill="url(#dBody)" stroke="#1c0a0a" stroke-width="2"/>
+
+  <!-- Snout -->
+  <ellipse cx="100" cy="72" rx="20" ry="12" fill="#7f1d1d" stroke="#1c0a0a" stroke-width="1.5"/>
+
+  <!-- Horns -->
+  <path d="M 78 38 L 70 20 L 80 32 Z" fill="#fbbf24" stroke="#1c0a0a" stroke-width="1.5"/>
+  <path d="M 122 38 L 130 20 L 120 32 Z" fill="#fbbf24" stroke="#1c0a0a" stroke-width="1.5"/>
+
+  <!-- Spikes along back -->
+  <g fill="#fbbf24" stroke="#1c0a0a" stroke-width="1.5">
+    <polygon points="100,35 95,20 105,20"/>
+    <polygon points="85,42 78,28 90,30"/>
+    <polygon points="115,42 122,28 110,30"/>
+    <polygon points="70,80 60,68 75,72"/>
+    <polygon points="130,80 140,68 125,72"/>
+    <polygon points="65,100 55,90 70,95"/>
+    <polygon points="135,100 145,90 130,95"/>
+  </g>
+
+  <!-- Eyes (menacing, glowing) -->
+  <ellipse cx="88" cy="55" rx="5" ry="4" fill="#fbbf24"/>
+  <ellipse cx="112" cy="55" rx="5" ry="4" fill="#fbbf24"/>
+  <ellipse cx="88" cy="56" rx="2" ry="3" fill="#000"/>
+  <ellipse cx="112" cy="56" rx="2" ry="3" fill="#000"/>
+  <circle cx="88.5" cy="54" r="0.8" fill="#fff"/>
+  <circle cx="112.5" cy="54" r="0.8" fill="#fff"/>
+
+  <!-- Eyebrow ridges -->
+  <path d="M 80 48 L 95 50" stroke="#1c0a0a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 120 48 L 105 50" stroke="#1c0a0a" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Nostrils (smoke) -->
+  <ellipse cx="92" cy="70" rx="2" ry="3" fill="#000"/>
+  <ellipse cx="108" cy="70" rx="2" ry="3" fill="#000"/>
+
+  <!-- Teeth/fangs -->
+  <polygon points="92,80 95,90 98,80" fill="#fff" stroke="#000" stroke-width="1"/>
+  <polygon points="102,80 105,90 108,80" fill="#fff" stroke="#000" stroke-width="1"/>
+
+  <!-- Mouth line -->
+  <path d="M 85 78 Q 100 82 115 78" stroke="#000" stroke-width="1.5" fill="none"/>
+
+  <!-- Fire breath (subtle) -->
+  <ellipse cx="100" cy="95" rx="6" ry="8" fill="#f97316" opacity="0.4"/>
+  <ellipse cx="100" cy="100" rx="4" ry="5" fill="#fbbf24" opacity="0.6"/>
+</svg>

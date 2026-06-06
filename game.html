@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Keisha's Quest</title>
+  <link rel="stylesheet" href="game.css">
+</head>
+<body>
+  <div id="app">
+    <!-- LANDING SCREEN -->
+    <div id="screen-landing" class="screen">
+      <div class="landing-bg"></div>
+      <div class="landing-content">
+        <h1 class="game-title">❄️ Keisha's Quest</h1>
+        <p class="game-subtitle" id="landing-subtitle">Loading…</p>
+        <div class="character-portrait">
+          <img id="character-img" src="" alt="character">
+        </div>
+        <button id="btn-start" class="btn-primary">⚔️ Start Quest</button>
+        <p class="landing-hint">Pick your quest length · answer correctly to attack · wrong = hero takes damage</p>
+        <p id="landing-error" class="error-msg" style="display:none"></p>
+      </div>
+    </div>
+
+    <!-- FIGHT SCREEN -->
+    <div id="screen-fight" class="screen" style="display:none">
+      <div class="hud">
+        <div class="hud-left">
+          <div class="hp-bar" id="hp-bar">
+            <span class="hp-icon">❤️</span>
+            <div class="hp-hearts" id="hp-hearts"></div>
+          </div>
+          <div class="skill-bar" id="skill-bar">
+            <span class="skill-icon">✨</span>
+            <button id="btn-skill-use" class="btn-skill-use" disabled title="Tap to remove 2 wrong answers">
+              <span class="btn-skill-use-label">50/50</span>
+              <span class="btn-skill-use-status" id="btn-skill-use-status">Empty</span>
+            </button>
+          </div>
+        </div>
+        <div class="hud-center">
+          <div class="enemy-info">
+            <p class="enemy-name" id="enemy-name">—</p>
+            <p class="enemy-progress" id="enemy-progress">—</p>
+          </div>
+        </div>
+        <div class="hud-right">
+          <button id="btn-mute" class="btn-mute" title="Mute / unmute sound" aria-label="Mute">🔊</button>
+          <p class="floor-counter" id="floor-counter">Wave 1/5</p>
+        </div>
+      </div>
+
+      <div class="battlefield">
+        <div class="hero-side">
+          <img id="hero-sprite" class="hero-sprite" src="assets/characters/keisha_ice_mage.svg" alt="hero">
+        </div>
+        <div class="enemy-side">
+          <img id="enemy-sprite" class="enemy-sprite" src="" alt="enemy">
+        </div>
+        <div id="damage-floater" class="damage-floater"></div>
+      </div>
+
+      <div class="question-area" id="question-area">
+        <p class="question-domain" id="question-domain">Domain</p>
+        <p class="question-text" id="question-text">Question text</p>
+        <div class="answer-grid" id="answer-grid">
+          <button class="answer-btn" data-opt="A" id="ans-A"><span class="opt-letter">A</span><span class="opt-text">—</span></button>
+          <button class="answer-btn" data-opt="B" id="ans-B"><span class="opt-letter">B</span><span class="opt-text">—</span></button>
+          <button class="answer-btn" data-opt="C" id="ans-C"><span class="opt-letter">C</span><span class="opt-text">—</span></button>
+          <button class="answer-btn" data-opt="D" id="ans-D"><span class="opt-letter">D</span><span class="opt-text">—</span></button>
+        </div>
+        <p class="feedback" id="feedback" style="display:none"></p>
+      </div>
+    </div>
+
+    <!-- REST SCREEN (after boss) -->
+    <div id="screen-rest" class="screen" style="display:none">
+      <div class="rest-content">
+        <h2>🏕️ Camp</h2>
+        <p class="rest-flavor">You defeated a boss! Take a moment to recover.</p>
+        <div class="rest-choices">
+          <button id="btn-heal" class="btn-secondary">
+            <span class="rest-icon">❤️</span>
+            <span class="rest-label">Heal</span>
+            <span class="rest-desc">Restore 2 HP</span>
+          </button>
+          <button id="btn-skill" class="btn-secondary">
+            <span class="rest-icon">✨</span>
+            <span class="rest-label">Skill</span>
+            <span class="rest-desc">Restore 1 Skill</span>
+          </button>
+        </div>
+        <button id="btn-skip-rest" class="btn-text">Skip rest</button>
+      </div>
+    </div>
+
+    <!-- VICTORY SCREEN -->
+    <div id="screen-victory" class="screen" style="display:none">
+      <div class="end-content">
+        <h1 class="end-title">🎉 You Did It!</h1>
+        <p class="end-flavor">You defeated the final boss!</p>
+        <div class="end-stats" id="end-stats"></div>
+        <button class="btn-primary" onclick="location.reload()">⚔️ Play Again</button>
+      </div>
+    </div>
+    <!-- LOSE SCREEN -->
+    <div id="screen-lose" class="screen" style="display:none">
+      <div class="end-content">
+        <h1 class="end-title">💪 You Almost Made It!</h1>
+        <p class="end-flavor" id="lose-flavor">You put up a great fight!</p>
+        <div class="end-stats" id="lose-stats"></div>
+        <div class="review-list" id="review-list"></div>
+        <button class="btn-primary" onclick="location.reload()">🔄 Try Again</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" width="160" height="200">
+  <defs>
+    <linearGradient id="gSkin" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#84cc16"/>
+      <stop offset="100%" stop-color="#4d7c0f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Feet -->
+  <ellipse cx="65" cy="190" rx="15" ry="8" fill="#4d7c0f"/>
+  <ellipse cx="95" cy="190" rx="15" ry="8" fill="#4d7c0f"/>
+
+  <!-- Legs -->
+  <rect x="55" y="160" width="20" height="30" fill="url(#gSkin)" stroke="#365314" stroke-width="1.5"/>
+  <rect x="85" y="160" width="20" height="30" fill="url(#gSkin)" stroke="#365314" stroke-width="1.5"/>
+
+  <!-- Tunic -->
+  <path d="M 45 110 Q 45 100 80 100 Q 115 100 115 110 L 120 170 L 40 170 Z" fill="#92400e" stroke="#451a03" stroke-width="2"/>
+  <!-- Belt -->
+  <rect x="45" y="140" width="75" height="8" fill="#451a03"/>
+  <rect x="78" y="138" width="8" height="12" fill="#fbbf24" stroke="#451a03" stroke-width="1"/>
+
+  <!-- Arms -->
+  <ellipse cx="38" cy="135" rx="10" ry="25" fill="url(#gSkin)" stroke="#365314" stroke-width="1.5" transform="rotate(-20 38 135)"/>
+  <ellipse cx="122" cy="135" rx="10" ry="25" fill="url(#gSkin)" stroke="#365314" stroke-width="1.5" transform="rotate(20 122 135)"/>
+
+  <!-- Hands (claws) -->
+  <circle cx="32" cy="158" r="7" fill="#84cc16" stroke="#365314" stroke-width="1"/>
+  <circle cx="128" cy="158" r="7" fill="#84cc16" stroke="#365314" stroke-width="1"/>
+  <line x1="28" y1="163" x2="26" y2="168" stroke="#365314" stroke-width="1.5"/>
+  <line x1="32" y1="164" x2="32" y2="170" stroke="#365314" stroke-width="1.5"/>
+  <line x1="36" y1="163" x2="38" y2="168" stroke="#365314" stroke-width="1.5"/>
+  <line x1="124" y1="163" x2="122" y2="168" stroke="#365314" stroke-width="1.5"/>
+  <line x1="128" y1="164" x2="128" y2="170" stroke="#365314" stroke-width="1.5"/>
+  <line x1="132" y1="163" x2="134" y2="168" stroke="#365314" stroke-width="1.5"/>
+
+  <!-- Club (left hand) -->
+  <rect x="22" y="120" width="8" height="50" fill="#92400e" stroke="#451a03" stroke-width="1.5" transform="rotate(-15 26 145)"/>
+  <ellipse cx="18" cy="115" rx="10" ry="8" fill="#78350f" stroke="#451a03" stroke-width="1.5"/>
+
+  <!-- Neck -->
+  <rect x="72" y="90" width="16" height="12" fill="url(#gSkin)" stroke="#365314" stroke-width="1"/>
+
+  <!-- Head (big, pointy ears) -->
+  <ellipse cx="80" cy="70" rx="30" ry="28" fill="url(#gSkin)" stroke="#365314" stroke-width="2"/>
+
+  <!-- Ears (long pointy) -->
+  <path d="M 50 60 L 30 35 L 55 50 Z" fill="url(#gSkin)" stroke="#365314" stroke-width="2"/>
+  <path d="M 110 60 L 130 35 L 105 50 Z" fill="url(#gSkin)" stroke="#365314" stroke-width="2"/>
+
+  <!-- Eyes (yellow, beady) -->
+  <ellipse cx="68" cy="68" rx="4" ry="5" fill="#fbbf24"/>
+  <ellipse cx="92" cy="68" rx="4" ry="5" fill="#fbbf24"/>
+  <ellipse cx="68" cy="69" rx="1.5" ry="2.5" fill="#000"/>
+  <ellipse cx="92" cy="69" rx="1.5" ry="2.5" fill="#000"/>
+
+  <!-- Eyebrows (mean) -->
+  <path d="M 60 60 L 75 62" stroke="#365314" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 100 60 L 85 62" stroke="#365314" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Nose (big) -->
+  <ellipse cx="80" cy="78" rx="5" ry="4" fill="#4d7c0f" stroke="#365314" stroke-width="1"/>
+  <circle cx="78" cy="78" r="0.8" fill="#000"/>
+  <circle cx="82" cy="78" r="0.8" fill="#000"/>
+
+  <!-- Mouth (snarl, fangs) -->
+  <path d="M 65 87 Q 80 95 95 87" stroke="#365314" stroke-width="1.5" fill="none"/>
+  <polygon points="70,87 73,95 76,87" fill="#fff" stroke="#000" stroke-width="0.5"/>
+  <polygon points="84,87 87,95 90,87" fill="#fff" stroke="#000" stroke-width="0.5"/>
+
+  <!-- Topknot / mohawk hair -->
+  <path d="M 70 45 Q 75 30 80 32 Q 85 30 90 45" fill="#365314" stroke="#1a2e02" stroke-width="1.5"/>
+  <circle cx="80" cy="28" r="3" fill="#dc2626"/>
+</svg>

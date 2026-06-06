@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280">
+  <defs>
+    <linearGradient id="capeGradC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbcfe8"/>
+      <stop offset="100%" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <linearGradient id="armorGradC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fce7f3"/>
+      <stop offset="100%" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <radialGradient id="cheekGradC" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bladeGradC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+    <linearGradient id="hairGradC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#374151"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Cape (small, behind body) -->
+  <path d="M 75 175 Q 65 210 60 245 L 75 250 L 90 245 L 95 215 Z" fill="url(#capeGradC)" stroke="#ec4899" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 125 175 Q 135 210 140 245 L 125 250 L 110 245 L 105 215 Z" fill="url(#capeGradC)" stroke="#ec4899" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cape highlights -->
+  <path d="M 78 180 Q 72 215 70 240" stroke="#fbcfe8" stroke-width="1" fill="none" opacity="0.7"/>
+  <path d="M 122 180 Q 128 215 130 240" stroke="#fbcfe8" stroke-width="1" fill="none" opacity="0.7"/>
+
+  <!-- Boots (small) -->
+  <ellipse cx="85" cy="255" rx="13" ry="7" fill="#831843" stroke="#831843" stroke-width="1"/>
+  <ellipse cx="115" cy="255" rx="13" ry="7" fill="#831843" stroke="#831843" stroke-width="1"/>
+  <ellipse cx="85" cy="252" rx="13" ry="2" fill="#ec4899"/>
+
+  <!-- Legs (short chibi) -->
+  <rect x="78" y="225" width="14" height="30" fill="url(#armorGradC)" stroke="#ec4899" stroke-width="1.5" rx="3"/>
+  <rect x="108" y="225" width="14" height="30" fill="url(#armorGradC)" stroke="#ec4899" stroke-width="1.5" rx="3"/>
+
+  <!-- Skirt / tasset -->
+  <path d="M 70 205 L 130 205 L 135 230 L 65 230 Z" fill="url(#armorGradC)" stroke="#ec4899" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Torso (small chibi) -->
+  <path d="M 75 165 Q 75 155 100 155 Q 125 155 125 165 L 128 210 L 72 210 Z" fill="url(#armorGradC)" stroke="#ec4899" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Chest plate heart -->
+  <path d="M 92 175 Q 92 170 96 170 L 100 174 L 104 170 Q 108 170 108 175 Q 108 180 100 188 Q 92 180 92 175 Z" fill="#ec4899" stroke="#831843" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="100" cy="178" r="1.5" fill="#fef3c7"/>
+
+  <!-- Arms (short chibi) -->
+  <ellipse cx="68" cy="195" rx="9" ry="20" fill="url(#armorGradC)" stroke="#ec4899" stroke-width="1.5" transform="rotate(-10 68 195)"/>
+  <ellipse cx="132" cy="170" rx="9" ry="20" fill="url(#armorGradC)" stroke="#ec4899" stroke-width="1.5" transform="rotate(15 132 170)"/>
+
+  <!-- Hands (tiny) -->
+  <circle cx="62" cy="215" r="6" fill="#fde2c4" stroke="#92400e" stroke-width="1"/>
+  <circle cx="138" cy="155" r="6" fill="#fde2c4" stroke="#92400e" stroke-width="1"/>
+
+  <!-- Sword (right hand, raised) - cute golden sword -->
+  <rect x="135" y="60" width="6" height="100" fill="url(#bladeGradC)" stroke="#d97706" stroke-width="1.5" rx="2"/>
+  <!-- Crossguard -->
+  <rect x="123" y="155" width="30" height="6" fill="#fbbf24" stroke="#92400e" stroke-width="1.5" rx="2"/>
+  <circle cx="123" cy="158" r="3" fill="#fbbf24" stroke="#92400e" stroke-width="1"/>
+  <circle cx="153" cy="158" r="3" fill="#fbbf24" stroke="#92400e" stroke-width="1"/>
+  <!-- Handle -->
+  <rect x="136" y="160" width="4" height="10" fill="#92400e"/>
+  <!-- Sword tip sparkle -->
+  <circle cx="138" cy="60" r="3" fill="#fef3c7"/>
+  <path d="M 138 55 L 138 65 M 133 60 L 143 60" stroke="#fef3c7" stroke-width="1"/>
+
+  <!-- Neck (short) -->
+  <rect x="92" y="148" width="16" height="10" fill="#fde2c4" stroke="#92400e" stroke-width="1"/>
+
+  <!-- HEAD - BIG CHIBI (head 2x larger than body width) -->
+  <ellipse cx="100" cy="95" rx="48" ry="52" fill="#fde2c4" stroke="#92400e" stroke-width="2.5"/>
+
+  <!-- Hair (long wavy, big volume for chibi) -->
+  <path d="M 55 95 Q 50 75 60 55 Q 70 35 100 30 Q 130 35 140 55 Q 150 75 145 95
+           L 148 115 Q 152 145 145 165 L 138 168 L 135 162
+           Q 142 145 138 115 L 130 100 L 100 100 L 70 100 L 62 115
+           Q 58 145 65 162 L 62 168 L 55 165 Q 48 145 52 115 Z"
+        fill="url(#hairGradC)" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Hair shine highlights -->
+  <path d="M 70 50 Q 80 42 100 42" stroke="#6b7280" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 60 80 Q 65 75 70 80" stroke="#6b7280" stroke-width="1.5" fill="none" opacity="0.5"/>
+
+  <!-- Front bangs (cute curve) -->
+  <path d="M 70 65 Q 78 50 100 52 Q 122 50 130 65 Q 122 72 110 67 Q 100 70 90 67 Q 78 72 70 65 Z" fill="url(#hairGradC)" stroke="#000" stroke-width="1"/>
+
+  <!-- Side hair tufts (cute) -->
+  <ellipse cx="55" cy="105" rx="5" ry="15" fill="url(#hairGradC)" stroke="#000" stroke-width="1"/>
+  <ellipse cx="145" cy="105" rx="5" ry="15" fill="url(#hairGradC)" stroke="#000" stroke-width="1"/>
+
+  <!-- BIG CHIBI EYES (huge, sparkly) -->
+  <!-- Eye whites -->
+  <ellipse cx="82" cy="95" rx="11" ry="14" fill="white" stroke="#92400e" stroke-width="2"/>
+  <ellipse cx="118" cy="95" rx="11" ry="14" fill="white" stroke="#92400e" stroke-width="2"/>
+  <!-- Iris (large) -->
+  <ellipse cx="83" cy="97" rx="8" ry="11" fill="#7c2d12"/>
+  <ellipse cx="117" cy="97" rx="8" ry="11" fill="#7c2d12"/>
+  <!-- Pupil -->
+  <ellipse cx="83" cy="99" rx="3" ry="5" fill="#1f2937"/>
+  <ellipse cx="117" cy="99" rx="3" ry="5" fill="#1f2937"/>
+  <!-- BIG sparkle highlight (top) -->
+  <circle cx="80" cy="91" r="3" fill="white"/>
+  <circle cx="114" cy="91" r="3" fill="white"/>
+  <!-- Small sparkle (bottom) -->
+  <circle cx="86" cy="103" r="1.5" fill="white"/>
+  <circle cx="120" cy="103" r="1.5" fill="white"/>
+  <!-- Star sparkle -->
+  <path d="M 75 88 L 76 90 L 78 90 L 76 92 L 77 94 L 75 93 L 73 94 L 74 92 L 72 90 L 74 90 Z" fill="white" opacity="0.9"/>
+  <path d="M 109 88 L 110 90 L 112 90 L 110 92 L 111 94 L 109 93 L 107 94 L 108 92 L 106 90 L 108 90 Z" fill="white" opacity="0.9"/>
+
+  <!-- Cute eyebrows (small, expressive) -->
+  <path d="M 73 78 Q 82 75 91 78" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 109 78 Q 118 75 127 78" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Tiny nose (cute chibi style) -->
+  <ellipse cx="100" cy="110" rx="2" ry="1.5" fill="#f9a8d4"/>
+
+  <!-- Big cute smile -->
+  <path d="M 88 120 Q 100 132 112 120 Q 100 125 88 120 Z" fill="#831843" stroke="#831843" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Tongue dot -->
+  <ellipse cx="100" cy="125" rx="3" ry="2" fill="#ec4899" opacity="0.8"/>
+
+  <!-- BIG BLUSH cheeks (signature kawaii) -->
+  <ellipse cx="65" cy="112" rx="8" ry="6" fill="url(#cheekGradC)"/>
+  <ellipse cx="135" cy="112" rx="8" ry="6" fill="url(#cheekGradC)"/>
+
+  <!-- Hair flower accessory (cute!) -->
+  <g transform="translate(135 60)">
+    <circle cx="0" cy="0" r="6" fill="#fbbf24" stroke="#92400e" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="2" fill="#fbbf24"/>
+    <ellipse cx="0" cy="-6" rx="2.5" ry="3" fill="#fde68a" stroke="#92400e" stroke-width="1"/>
+    <ellipse cx="6" cy="0" rx="3" ry="2.5" fill="#fde68a" stroke="#92400e" stroke-width="1"/>
+    <ellipse cx="0" cy="6" rx="2.5" ry="3" fill="#fde68a" stroke="#92400e" stroke-width="1"/>
+    <ellipse cx="-6" cy="0" rx="3" ry="2.5" fill="#fde68a" stroke="#92400e" stroke-width="1"/>
+  </g>
+</svg>

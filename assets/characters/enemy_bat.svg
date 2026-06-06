@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" width="160" height="200">
+  <defs>
+    <linearGradient id="batBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6b21a8"/>
+      <stop offset="100%" stop-color="#3b0764"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Shadow -->
+  <ellipse cx="80" cy="190" rx="40" ry="6" fill="#000" opacity="0.3"/>
+
+  <!-- Wings (left) -->
+  <path d="M 60 100 Q 30 80 15 100 Q 10 110 20 120 Q 30 110 45 115 Q 30 130 25 145 Q 35 140 50 130 Q 40 145 45 155 L 55 130 Z" fill="url(#batBody)" stroke="#3b0764" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Wings (right) -->
+  <path d="M 100 100 Q 130 80 145 100 Q 150 110 140 120 Q 130 110 115 115 Q 130 130 135 145 Q 125 140 110 130 Q 120 145 115 155 L 105 130 Z" fill="url(#batBody)" stroke="#3b0764" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Body -->
+  <ellipse cx="80" cy="115" rx="25" ry="35" fill="url(#batBody)" stroke="#3b0764" stroke-width="2"/>
+
+  <!-- Body details (furry texture lines) -->
+  <line x1="70" y1="105" x2="90" y2="105" stroke="#1e1b4b" stroke-width="1" opacity="0.5"/>
+  <line x1="65" y1="120" x2="95" y2="120" stroke="#1e1b4b" stroke-width="1" opacity="0.5"/>
+  <line x1="68" y1="135" x2="92" y2="135" stroke="#1e1b4b" stroke-width="1" opacity="0.5"/>
+
+  <!-- Ears (pointy) -->
+  <path d="M 65 75 L 55 50 L 70 65 Z" fill="url(#batBody)" stroke="#3b0764" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 95 75 L 105 50 L 90 65 Z" fill="url(#batBody)" stroke="#3b0764" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Inner ear -->
+  <path d="M 65 70 L 60 58 L 67 65 Z" fill="#ec4899"/>
+  <path d="M 95 70 L 100 58 L 93 65 Z" fill="#ec4899"/>
+
+  <!-- Eyes (glowing red) -->
+  <ellipse cx="70" cy="95" rx="5" ry="6" fill="#dc2626"/>
+  <ellipse cx="90" cy="95" rx="5" ry="6" fill="#dc2626"/>
+  <ellipse cx="70" cy="96" rx="2" ry="3" fill="#7f1d1d"/>
+  <ellipse cx="90" cy="96" rx="2" ry="3" fill="#7f1d1d"/>
+  <circle cx="71" cy="93" r="0.8" fill="white"/>
+  <circle cx="91" cy="93" r="0.8" fill="white"/>
+
+  <!-- Mouth (fangs) -->
+  <path d="M 70 110 Q 80 118 90 110" stroke="#3b0764" stroke-width="1.5" fill="none"/>
+  <polygon points="73,110 75,118 77,110" fill="white" stroke="#000" stroke-width="0.5"/>
+  <polygon points="83,110 85,118 87,110" fill="white" stroke="#000" stroke-width="0.5"/>
+
+  <!-- Tiny feet -->
+  <ellipse cx="72" cy="160" rx="4" ry="3" fill="#3b0764"/>
+  <ellipse cx="88" cy="160" rx="4" ry="3" fill="#3b0764"/>
+</svg>

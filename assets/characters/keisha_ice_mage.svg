@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280">
+  <defs>
+    <linearGradient id="robeGradC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+    <linearGradient id="hairGradKC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#374151"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <radialGradient id="cheekGradKC" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#fb923c" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#fb923c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGlowC" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#dbeafe" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#60a5fa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1e40af" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skinGradC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Robe bottom (wide flowing) -->
+  <path d="M 50 205 L 60 270 L 140 270 L 150 205 Z" fill="url(#robeGradC)" stroke="#1e3a8a" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Robe snowflake patterns -->
+  <g stroke="#dbeafe" stroke-width="1.2" fill="none" opacity="0.7" stroke-linecap="round">
+    <g transform="translate(75 230)">
+      <line x1="-4" y1="0" x2="4" y2="0"/>
+      <line x1="0" y1="-4" x2="0" y2="4"/>
+      <line x1="-3" y1="-3" x2="3" y2="3"/>
+      <line x1="-3" y1="3" x2="3" y2="-3"/>
+    </g>
+    <g transform="translate(125 245)">
+      <line x1="-3.5" y1="0" x2="3.5" y2="0"/>
+      <line x1="0" y1="-3.5" x2="0" y2="3.5"/>
+    </g>
+    <g transform="translate(100 255)">
+      <line x1="-3" y1="0" x2="3" y2="0"/>
+      <line x1="0" y1="-3" x2="0" y2="3"/>
+    </g>
+  </g>
+
+  <!-- Robe upper body -->
+  <path d="M 70 165 Q 70 155 100 155 Q 130 155 130 165 L 145 215 L 55 215 Z" fill="url(#robeGradC)" stroke="#1e3a8a" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- High mandarin collar (cute) -->
+  <path d="M 85 155 Q 85 168 100 168 Q 115 168 115 155 Z" fill="#1e40af" stroke="#0c1f5e" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="100" y1="156" x2="100" y2="166" stroke="#dbeafe" stroke-width="1" opacity="0.6"/>
+
+  <!-- Arms / sleeves (short chibi) -->
+  <ellipse cx="60" cy="190" rx="13" ry="20" fill="url(#robeGradC)" stroke="#1e3a8a" stroke-width="1.5" transform="rotate(-15 60 190)"/>
+  <ellipse cx="140" cy="180" rx="13" ry="20" fill="url(#robeGradC)" stroke="#1e3a8a" stroke-width="1.5" transform="rotate(20 140 180)"/>
+
+  <!-- Sleeve cuffs (cute fur trim) -->
+  <ellipse cx="50" cy="210" rx="11" ry="5" fill="#dbeafe" stroke="#1e3a8a" stroke-width="1.5" transform="rotate(-15 50 210)"/>
+  <ellipse cx="150" cy="195" rx="11" ry="5" fill="#dbeafe" stroke="#1e3a8a" stroke-width="1.5" transform="rotate(20 150 195)"/>
+
+  <!-- Hands (tiny) -->
+  <circle cx="48" cy="218" r="6" fill="url(#skinGradC)" stroke="#92400e" stroke-width="1"/>
+  <circle cx="152" cy="190" r="6" fill="url(#skinGradC)" stroke="#92400e" stroke-width="1"/>
+
+  <!-- Staff (cute, smaller for chibi) -->
+  <line x1="152" y1="190" x2="152" y2="60" stroke="#92400e" stroke-width="5" stroke-linecap="round"/>
+  <line x1="152" y1="190" x2="152" y2="60" stroke="#451a03" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+  <!-- Staff wraps (gold) -->
+  <line x1="148" y1="120" x2="156" y2="125" stroke="#fbbf24" stroke-width="2"/>
+  <line x1="148" y1="140" x2="156" y2="145" stroke="#fbbf24" stroke-width="2"/>
+  <line x1="148" y1="160" x2="156" y2="165" stroke="#fbbf24" stroke-width="2"/>
+
+  <!-- Staff orb (cute snowflake) -->
+  <circle cx="152" cy="50" r="20" fill="url(#orbGlowC)"/>
+  <circle cx="152" cy="50" r="13" fill="#dbeafe" stroke="#1e3a8a" stroke-width="2"/>
+  <!-- Big snowflake -->
+  <g transform="translate(152 50)" stroke="#1e40af" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <line x1="-7" y1="0" x2="7" y2="0"/>
+    <line x1="0" y1="-7" x2="0" y2="7"/>
+    <line x1="-5" y1="-5" x2="5" y2="5"/>
+    <line x1="-5" y1="5" x2="5" y2="-5"/>
+    <circle cx="0" cy="0" r="1.5" fill="#1e40af"/>
+  </g>
+
+  <!-- Magic sparkles around orb -->
+  <g fill="#dbeafe">
+    <circle cx="172" cy="38" r="1.5"/>
+    <circle cx="132" cy="40" r="1.5"/>
+    <circle cx="178" cy="60" r="1"/>
+    <circle cx="128" cy="62" r="1"/>
+    <path d="M 168 75 L 169 77 L 171 77 L 169 79 L 170 81 L 168 80 L 166 81 L 167 79 L 165 77 L 167 77 Z" opacity="0.9"/>
+  </g>
+
+  <!-- Neck (short chibi) -->
+  <rect x="92" y="148" width="16" height="10" fill="url(#skinGradC)" stroke="#92400e" stroke-width="1"/>
+
+  <!-- BIG CHIBI HEAD (2x larger) -->
+  <ellipse cx="100" cy="95" rx="48" ry="52" fill="url(#skinGradC)" stroke="#92400e" stroke-width="2.5"/>
+
+  <!-- Hair (long curly, BIG volume for chibi) -->
+  <path d="M 55 95 Q 50 75 60 55 Q 70 35 100 30 Q 130 35 140 55 Q 150 75 145 95
+           L 150 130 Q 155 170 145 200 L 138 205 L 132 198
+           Q 142 170 138 130 L 130 100 L 100 100 L 70 100 L 62 130
+           Q 58 170 68 198 L 62 205 L 55 200 Q 45 170 50 130 Z"
+        fill="url(#hairGradKC)" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Hair curl circles (signature curly texture, BIG for chibi) -->
+  <circle cx="50" cy="120" r="8" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+  <circle cx="46" cy="145" r="9" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+  <circle cx="50" cy="170" r="8" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+  <circle cx="150" cy="120" r="8" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+  <circle cx="154" cy="145" r="9" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+  <circle cx="150" cy="170" r="8" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+
+  <!-- Front bangs (curly, cute) -->
+  <path d="M 68 60 Q 75 45 95 48 Q 100 42 105 48 Q 125 45 132 60 Q 125 70 112 62 Q 100 65 88 62 Q 75 70 68 60 Z" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+
+  <!-- Side hair tufts -->
+  <ellipse cx="55" cy="105" rx="5" ry="15" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+  <ellipse cx="145" cy="105" rx="5" ry="15" fill="url(#hairGradKC)" stroke="#000" stroke-width="1"/>
+
+  <!-- BIG CHIBI EYES (blue, magical) -->
+  <ellipse cx="82" cy="95" rx="11" ry="14" fill="white" stroke="#92400e" stroke-width="2"/>
+  <ellipse cx="118" cy="95" rx="11" ry="14" fill="white" stroke="#92400e" stroke-width="2"/>
+  <!-- Iris (large, blue) -->
+  <ellipse cx="83" cy="97" rx="8" ry="11" fill="#1e3a8a"/>
+  <ellipse cx="117" cy="97" rx="8" ry="11" fill="#1e3a8a"/>
+  <!-- Pupil -->
+  <ellipse cx="83" cy="99" rx="3" ry="5" fill="#0c1f5e"/>
+  <ellipse cx="117" cy="99" rx="3" ry="5" fill="#0c1f5e"/>
+  <!-- BIG sparkle highlight -->
+  <circle cx="80" cy="91" r="3" fill="white"/>
+  <circle cx="114" cy="91" r="3" fill="white"/>
+  <!-- Small sparkle -->
+  <circle cx="86" cy="103" r="1.5" fill="white"/>
+  <circle cx="120" cy="103" r="1.5" fill="white"/>
+  <!-- Star sparkle -->
+  <path d="M 75 88 L 76 90 L 78 90 L 76 92 L 77 94 L 75 93 L 73 94 L 74 92 L 72 90 L 74 90 Z" fill="white" opacity="0.9"/>
+  <path d="M 109 88 L 110 90 L 112 90 L 110 92 L 111 94 L 109 93 L 107 94 L 108 92 L 106 90 L 108 90 Z" fill="white" opacity="0.9"/>
+
+  <!-- Cute eyebrows -->
+  <path d="M 73 78 Q 82 75 91 78" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 109 78 Q 118 75 127 78" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Tiny nose -->
+  <ellipse cx="100" cy="110" rx="2" ry="1.5" fill="#fb923c" opacity="0.6"/>
+
+  <!-- Soft smile (cute, smaller) -->
+  <path d="M 90 120 Q 100 128 110 120" stroke="#92400e" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Tongue dot -->
+  <ellipse cx="100" cy="123" rx="2.5" ry="1.5" fill="#ec4899" opacity="0.8"/>
+
+  <!-- BIG BLUSH CHEEKS (cute kawaii style) -->
+  <ellipse cx="65" cy="112" rx="8" ry="6" fill="url(#cheekGradKC)"/>
+  <ellipse cx="135" cy="112" rx="8" ry="6" fill="url(#cheekGradKC)"/>
+
+  <!-- Hair snowflake accessory (cute!) -->
+  <g transform="translate(60 55)">
+    <g stroke="#1e40af" stroke-width="1.5" fill="none" stroke-linecap="round">
+      <line x1="-5" y1="0" x2="5" y2="0"/>
+      <line x1="0" y1="-5" x2="0" y2="5"/>
+      <line x1="-3.5" y1="-3.5" x2="3.5" y2="3.5"/>
+      <line x1="-3.5" y1="3.5" x2="3.5" y2="-3.5"/>
+    </g>
+    <circle cx="0" cy="0" r="1.5" fill="#1e40af"/>
+  </g>
+</svg>
