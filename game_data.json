@@ -1,11 +1,11 @@
 {
   "kid": "keisha",
-  "subject": "Science",
+  "subject": "Social Studies",
   "grade": 4,
-  "source_pdf": "Science Merge.pdf",
-  "generated_at": "2026-06-06",
-  "title": "Keisha's Science Quest",
-  "character": "ice_mage",
+  "source_pdf": "SS Keisha.pdf",
+  "generated_at": "2026-06-07T08:08:39.368986Z",
+  "title": "Keisha's Social Studies Quest",
+  "character": "mage",
   "config": {
     "hero_hp": 5,
     "skill_max": 1,
@@ -17,984 +17,984 @@
   },
   "questions": [
     {
-      "domain": "frictional_force",
-      "text": "Frictional force is a force that ____ motion.",
+      "domain": "kerajaan_islam",
+      "text": "Which Indonesian kingdom was the first Islamic kingdom in the archipelago?",
+      "image": null,
       "options": {
-        "A": "speeds up",
-        "B": "opposes",
-        "C": "creates",
-        "D": "measures"
+        "A": "Samudera Pasai",
+        "B": "Demak",
+        "C": "Gowa-Tallo",
+        "D": "Ternate"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "easy",
-      "id": 1,
-      "image": null
+      "id": 1
     },
     {
-      "domain": "frictional_force",
-      "text": "Frictional force is produced when two surfaces ____ each other.",
+      "domain": "kerajaan_islam",
+      "text": "Which Islamic kingdom was founded by Sunan Giri and became a center of Islamic learning in Java?",
+      "image": null,
       "options": {
-        "A": "stick to",
-        "B": "repel",
-        "C": "rub against",
-        "D": "attract"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 2,
-      "image": null
-    },
-    {
-      "domain": "frictional_force",
-      "text": "Frictional force always acts in which direction compared to the motion?",
-      "options": {
-        "A": "Same direction",
-        "B": "Opposite direction",
-        "C": "Upward",
-        "D": "Downward"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 3,
-      "image": null
-    },
-    {
-      "domain": "frictional_force",
-      "text": "Frictional force between two rough surfaces is ____ than between two smooth surfaces.",
-      "options": {
-        "A": "smaller",
-        "B": "greater",
-        "C": "the same",
-        "D": "weaker"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 4,
-      "image": null
-    },
-    {
-      "domain": "frictional_force",
-      "text": "A book pushed across a desk slows down and stops because of:",
-      "options": {
-        "A": "muscular force",
-        "B": "gravitational force",
-        "C": "frictional force",
-        "D": "magnetic force"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 5,
-      "image": null
-    },
-    {
-      "domain": "frictional_force",
-      "text": "Tread patterns on tyres help a vehicle by:",
-      "options": {
-        "A": "reducing frictional force with the road",
-        "B": "increasing frictional force with the road",
-        "C": "making the tyres magnetic",
-        "D": "changing the tyre colour"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 6,
-      "image": null
-    },
-    {
-      "domain": "frictional_force",
-      "text": "Frictional force between the soles of our shoes and the ground helps us to:",
-      "options": {
-        "A": "float in the air",
-        "B": "walk without slipping",
-        "C": "see better",
-        "D": "hear sounds"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 7,
-      "image": null
-    },
-    {
-      "domain": "muscular_force",
-      "text": "Muscular force is applied when we use the ____ of our body.",
-      "options": {
-        "A": "bones",
-        "B": "muscles",
-        "C": "blood",
-        "D": "skin"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 8,
-      "image": null
-    },
-    {
-      "domain": "muscular_force",
-      "text": "Which of the following actions requires muscular force?",
-      "options": {
-        "A": "Sun shining",
-        "B": "Wind blowing",
-        "C": "Lifting a book",
-        "D": "Rain falling"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 9,
-      "image": null
-    },
-    {
-      "domain": "muscular_force",
-      "text": "A cyclist has to keep pedaling to keep moving forward. This is because:",
-      "options": {
-        "A": "frictional force opposes the motion",
-        "B": "magnetic force pushes the bike",
-        "C": "muscular force pushes the bike faster",
-        "D": "electric force slows the bike"
+        "A": "Demak Sultanate",
+        "B": "Gowa-Tallo",
+        "C": "Ternate-Tidore",
+        "D": "Aceh"
       },
       "answer": "A",
       "difficulty": "medium",
-      "id": 10,
-      "image": null
+      "id": 2
     },
     {
-      "domain": "muscular_force",
-      "text": "Which action requires the LEAST muscular force?",
+      "domain": "kerajaan_islam",
+      "text": "The Kingdom of Gowa-Tallo was located on the island of:",
+      "image": null,
       "options": {
-        "A": "Lifting heavy luggage",
-        "B": "Turning the pages of a book",
-        "C": "Climbing stairs",
-        "D": "Carrying a bag of rice"
+        "A": "Java",
+        "B": "Sumatra",
+        "C": "Sulawesi",
+        "D": "Kalimantan"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 3
+    },
+    {
+      "domain": "kerajaan_islam",
+      "text": "Which Islamic kingdom was famous for producing cloves and nutmeg in the Maluku islands?",
+      "image": null,
+      "options": {
+        "A": "Ternate-Tidore",
+        "B": "Samudera Pasai",
+        "C": "Demak",
+        "D": "Gowa-Tallo"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 4
+    },
+    {
+      "domain": "kerajaan_islam",
+      "text": "An Islamic kingdom located in North Sumatra, founded in the 13th century, was:",
+      "image": null,
+      "options": {
+        "A": "Samudera Pasai",
+        "B": "Demak",
+        "C": "Gowa-Tallo",
+        "D": "Ternate"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 5
+    },
+    {
+      "domain": "kerajaan_islam",
+      "text": "A sultanate located in South Sulawesi, known for its maritime trade, was:",
+      "image": null,
+      "options": {
+        "A": "Demak",
+        "B": "Gowa-Tallo",
+        "C": "Ternate",
+        "D": "Samudera Pasai"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 11,
-      "image": null
+      "id": 6
     },
     {
-      "domain": "muscular_force",
-      "text": "Even when we sleep, our body still uses muscular force to:",
+      "domain": "kerajaan_islam",
+      "text": "Which kingdom was the first to adopt Islam in the Indonesian archipelago?",
+      "image": null,
       "options": {
-        "A": "dream",
-        "B": "shut our eyes",
-        "C": "breathe loudly",
-        "D": "see the dark"
+        "A": "Demak",
+        "B": "Gowa-Tallo",
+        "C": "Samudera Pasai",
+        "D": "Ternate"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 7
+    },
+    {
+      "domain": "kerajaan_islam",
+      "text": "The spread of Islam in Indonesia was mainly helped by:",
+      "image": null,
+      "options": {
+        "A": "military conquest only",
+        "B": "trade and the Wali Songo (nine saints)",
+        "C": "colonial governments",
+        "D": "the UN"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 12,
-      "image": null
+      "id": 8
     },
     {
-      "domain": "gravitational_force",
-      "text": "Gravitational force is a force of attraction between the Earth and a(n):",
+      "domain": "kerajaan_hindu",
+      "text": "The oldest Hindu kingdom in Indonesia was located in:",
+      "image": null,
       "options": {
-        "A": "magnet",
-        "B": "object",
-        "C": "sound",
-        "D": "light"
+        "A": "Java",
+        "B": "Sumatra",
+        "C": "Kalimantan",
+        "D": "Sulawesi"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 9
+    },
+    {
+      "domain": "kerajaan_hindu",
+      "text": "The Tarumanegara kingdom was located on the island of:",
+      "image": null,
+      "options": {
+        "A": "Sumatra",
+        "B": "Java",
+        "C": "Kalimantan",
+        "D": "Bali"
       },
       "answer": "B",
       "difficulty": "easy",
-      "id": 13,
-      "image": null
+      "id": 10
     },
     {
-      "domain": "gravitational_force",
-      "text": "Gravitational force pulls all things ____ the Earth.",
+      "domain": "kerajaan_hindu",
+      "text": "The first Hindu kingdom in Indonesia, Kutai, was located in:",
+      "image": null,
       "options": {
-        "A": "away from",
-        "B": "towards",
-        "C": "around",
-        "D": "through"
+        "A": "West Java",
+        "B": "East Kalimantan",
+        "C": "South Sumatra",
+        "D": "Central Java"
       },
       "answer": "B",
-      "difficulty": "easy",
-      "id": 14,
-      "image": null
+      "difficulty": "medium",
+      "id": 11
     },
     {
-      "domain": "gravitational_force",
-      "text": "The ____ of an object is due to gravitational force acting on it.",
+      "domain": "kerajaan_hindu",
+      "text": "Which of the following is a relic (peninggalan) of a Hindu kingdom in Indonesia?",
+      "image": null,
       "options": {
-        "A": "size",
-        "B": "colour",
-        "C": "weight",
-        "D": "shape"
+        "A": "Borobudur Temple",
+        "B": "Cangkuang Temple",
+        "C": "Prambanan Temple",
+        "D": "Demak Mosque"
       },
       "answer": "C",
       "difficulty": "easy",
-      "id": 15,
-      "image": null
+      "id": 12
     },
     {
-      "domain": "gravitational_force",
-      "text": "A ripe apple falls from a tree because:",
+      "domain": "kerajaan_hindu",
+      "text": "Which inscription (prasasti) is the oldest evidence of Hindu presence in the archipelago?",
+      "image": null,
       "options": {
-        "A": "the wind blows it",
-        "B": "gravitational force pulls it down",
-        "C": "frictional force stops it",
-        "D": "magnetic force attracts it"
+        "A": "Yupa Inscription",
+        "B": "Ciaruteun Inscription",
+        "C": "Kota Kapur Inscription",
+        "D": "Talang Tuwo Inscription"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 13
+    },
+    {
+      "domain": "kerajaan_hindu",
+      "text": "The Ciaruteun inscription is associated with which Hindu kingdom?",
+      "image": null,
+      "options": {
+        "A": "Kutai",
+        "B": "Tarumanegara",
+        "C": "Majapahit",
+        "D": "Sriwijaya"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 14
+    },
+    {
+      "domain": "kerajaan_buddha",
+      "text": "Sriwijaya was a powerful kingdom based on the island of:",
+      "image": null,
+      "options": {
+        "A": "Java",
+        "B": "Sumatra",
+        "C": "Kalimantan",
+        "D": "Sulawesi"
       },
       "answer": "B",
       "difficulty": "easy",
-      "id": 16,
-      "image": null
+      "id": 15
     },
     {
-      "domain": "gravitational_force",
-      "text": "Which of these is held in place by gravitational force?",
+      "domain": "kerajaan_buddha",
+      "text": "Sriwijaya became wealthy mainly through controlling trade at the Strait of:",
+      "image": null,
       "options": {
-        "A": "A helium balloon",
-        "B": "The Earth orbiting the Sun",
-        "C": "A charged balloon",
-        "D": "A magnet on a fridge"
+        "A": "Malacca",
+        "B": "Sunda",
+        "C": "Lombok",
+        "D": "Makassar"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 16
+    },
+    {
+      "domain": "kerajaan_buddha",
+      "text": "Borobudur Temple is a magnificent Buddhist monument built by the:",
+      "image": null,
+      "options": {
+        "A": "Sailendra dynasty",
+        "B": "Sanjaya dynasty",
+        "C": "Majapahit empire",
+        "D": "Mataram kingdom"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 17
+    },
+    {
+      "domain": "kerajaan_buddha",
+      "text": "Borobudur Temple is located in:",
+      "image": null,
+      "options": {
+        "A": "Central Java",
+        "B": "West Java",
+        "C": "East Java",
+        "D": "Bali"
+      },
+      "answer": "A",
+      "difficulty": "easy",
+      "id": 18
+    },
+    {
+      "domain": "kerajaan_buddha",
+      "text": "Borobudur Temple is decorated with:",
+      "image": null,
+      "options": {
+        "A": "stupa and relief panels",
+        "B": "mosaic tiles from Persia",
+        "C": "European marble statues",
+        "D": "Egyptian hieroglyphs"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 19
+    },
+    {
+      "domain": "kerajaan_buddha",
+      "text": "Sriwijaya was a center of learning for:",
+      "image": null,
+      "options": {
+        "A": "Hindu law",
+        "B": "Buddhism (Mahayana)",
+        "C": "Christian theology",
+        "D": "Islam"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 17,
-      "image": null
+      "id": 20
     },
     {
-      "domain": "gravitational_force",
-      "text": "A space satellite stays in orbit because:",
+      "domain": "koperasi_logo",
+      "text": "In the Koperasi Indonesia logo, the chain symbolizes:",
+      "image": null,
       "options": {
-        "A": "it has its own engine",
-        "B": "gravitational force keeps it from floating away",
-        "C": "magnetic force pulls it",
-        "D": "electric force pushes it"
+        "A": "wealth",
+        "B": "solidarity and unity",
+        "C": "farming",
+        "D": "school"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 18,
-      "image": null
+      "id": 21
     },
     {
-      "domain": "gravitational_force",
-      "text": "Astronauts in a spacecraft experience 'zero-gravity'. This means:",
+      "domain": "koperasi_logo",
+      "text": "In the Koperasi Indonesia logo, the scales (timbangan) symbolize:",
+      "image": null,
       "options": {
-        "A": "they become heavier",
-        "B": "they float around in the spacecraft",
-        "C": "they can fly to other planets",
-        "D": "gravitational force has stopped"
+        "A": "trade and economy",
+        "B": "social justice",
+        "C": "agriculture",
+        "D": "fishery"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 19,
-      "image": null
+      "id": 22
     },
     {
-      "domain": "magnetic_force",
-      "text": "Materials that can be attracted by a magnet are called:",
+      "domain": "koperasi_logo",
+      "text": "In the Koperasi Indonesia logo, the rice and cotton (padi dan kapas) symbolize:",
+      "image": null,
       "options": {
-        "A": "non-magnetic materials",
-        "B": "electric materials",
-        "C": "magnetic materials",
-        "D": "rough materials"
+        "A": "military strength",
+        "B": "justice and prosperity",
+        "C": "basic needs (food and clothing)",
+        "D": "farming and textile industries"
       },
       "answer": "C",
-      "difficulty": "easy",
-      "id": 20,
-      "image": null
+      "difficulty": "medium",
+      "id": 23
     },
     {
-      "domain": "magnetic_force",
-      "text": "Which of these is a magnetic material?",
+      "domain": "koperasi_logo",
+      "text": "In the Koperasi Indonesia logo, the star symbolizes:",
+      "image": null,
       "options": {
-        "A": "Wood",
-        "B": "Plastic",
-        "C": "Iron",
-        "D": "Rubber"
+        "A": "Indonesia's independence",
+        "B": "the first principle of Pancasila (belief in God)",
+        "C": "cooperative principles",
+        "D": "the founder of cooperatives"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 24
+    },
+    {
+      "domain": "koperasi_logo",
+      "text": "Which symbol in the Koperasi Indonesia logo represents solidarity and unity among members?",
+      "image": null,
+      "options": {
+        "A": "scales",
+        "B": "star",
+        "C": "chain",
+        "D": "rice and cotton"
       },
       "answer": "C",
-      "difficulty": "easy",
-      "id": 21,
-      "image": null
+      "difficulty": "medium",
+      "id": 25
     },
     {
-      "domain": "magnetic_force",
-      "text": "Which of these is NOT a magnetic material?",
+      "domain": "koperasi_logo",
+      "text": "Which symbol in the Koperasi Indonesia logo represents social justice and fairness?",
+      "image": null,
       "options": {
-        "A": "Iron",
-        "B": "Steel",
-        "C": "Nickel",
-        "D": "Copper"
+        "A": "chain",
+        "B": "scales",
+        "C": "rice and cotton",
+        "D": "star"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 26
+    },
+    {
+      "domain": "koperasi_logo",
+      "text": "The rice and cotton in the Koperasi Indonesia logo represent:",
+      "image": null,
+      "options": {
+        "A": "Indonesian staple foods",
+        "B": "basic needs — food and clothing",
+        "C": "the two main islands",
+        "D": "wealth and poverty"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 27
+    },
+    {
+      "domain": "koperasi_logo",
+      "text": "The star at the top of the Koperasi Indonesia logo represents:",
+      "image": null,
+      "options": {
+        "A": "the first principle of Pancasila (belief in the One Almighty God)",
+        "B": "Indonesia's flag color",
+        "C": "success in business",
+        "D": "the five cooperative principles"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 28
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "The first modern cooperative was established by the Rochdale Pioneers in:",
+      "image": null,
+      "options": {
+        "A": "France, 1789",
+        "B": "England, 1844",
+        "C": "Germany, 1871",
+        "D": "Indonesia, 1945"
+      },
+      "answer": "B",
+      "difficulty": "easy",
+      "id": 29
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "The Rochdale Pioneers lived in:",
+      "image": null,
+      "options": {
+        "A": "France",
+        "B": "Germany",
+        "C": "England",
+        "D": "America"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 30
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "Which principle says 'one member, one vote' in a cooperative?",
+      "image": null,
+      "options": {
+        "A": "open membership",
+        "B": "democratic member control",
+        "C": "limited interest on capital",
+        "D": "autonomy and independence"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 31
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "Which cooperative principle means that membership is open to anyone who wants to join?",
+      "image": null,
+      "options": {
+        "A": "voluntary and open membership",
+        "B": "democratic member control",
+        "C": "autonomy and independence",
+        "D": "concern for community"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 32
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "The Rochdale Pioneers' cooperative principles include all of the following EXCEPT:",
+      "image": null,
+      "options": {
+        "A": "open membership",
+        "B": "one member, one vote",
+        "C": "maximizing profit for owners",
+        "D": "education and training for members"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 33
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "Which principle states that a cooperative should not be controlled by outside parties, including the government?",
+      "image": null,
+      "options": {
+        "A": "voluntary and open membership",
+        "B": "autonomy and independence",
+        "C": "concern for community",
+        "D": "cooperation among cooperatives"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 34
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "A cooperative's profit (SHU — Sisa Hasil Usaha) is distributed to its members based on:",
+      "image": null,
+      "options": {
+        "A": "how many shares they own",
+        "B": "their participation in the cooperative's transactions",
+        "C": "the time since they joined",
+        "D": "equal amount to each member regardless"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 35
+    },
+    {
+      "domain": "rochdale_principles",
+      "text": "The Rochdale Pioneers' principles still guide cooperatives worldwide. How many principles are there?",
+      "image": null,
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 36
+    },
+    {
+      "domain": "koperasi_types",
+      "text": "Which cooperative is classified based on membership rather than business activity?",
+      "image": null,
+      "options": {
+        "A": "Koperasi Jasa",
+        "B": "Koperasi Konsumen",
+        "C": "Koperasi Produsen",
+        "D": "Koperasi Pegawai Republik Indonesia (KPRI)"
       },
       "answer": "D",
       "difficulty": "medium",
-      "id": 22,
-      "image": null
+      "id": 37
     },
     {
-      "domain": "magnetic_force",
-      "text": "Magnets are used in refrigerators to help:",
+      "domain": "koperasi_types",
+      "text": "KPRI (Koperasi Pegawai Republik Indonesia) members are:",
+      "image": null,
       "options": {
-        "A": "keep food cold",
-        "B": "close the doors tightly",
-        "C": "light up the inside",
-        "D": "make ice"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 23,
-      "image": null
-    },
-    {
-      "domain": "magnetic_force",
-      "text": "Electromagnets in a speaker convert:",
-      "options": {
-        "A": "light to heat",
-        "B": "electricity to sound",
-        "C": "sound to electricity",
-        "D": "heat to light"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 24,
-      "image": null
-    },
-    {
-      "domain": "magnetic_force",
-      "text": "Magnetic force is used in computers to:",
-      "options": {
-        "A": "print documents",
-        "B": "store data",
-        "C": "connect to the internet",
-        "D": "cool the processor"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 25,
-      "image": null
-    },
-    {
-      "domain": "electric_force",
-      "text": "All objects contain tiny particles that can be:",
-      "options": {
-        "A": "big or small",
-        "B": "hot or cold",
-        "C": "positive or negative",
-        "D": "fast or slow"
+        "A": "farmers",
+        "B": "factory workers",
+        "C": "civil servants / government employees",
+        "D": "students"
       },
       "answer": "C",
-      "difficulty": "easy",
-      "id": 26,
-      "image": null
+      "difficulty": "medium",
+      "id": 38
     },
     {
-      "domain": "electric_force",
-      "text": "An object is charged when there is an unequal number of ____ particles inside it.",
+      "domain": "koperasi_types",
+      "text": "A school cooperative (Koperasi Sekolah) is a type of consumer cooperative whose members are:",
+      "image": null,
       "options": {
-        "A": "negative and positive",
-        "B": "big and small",
-        "C": "fast and slow",
-        "D": "old and new"
+        "A": "teachers only",
+        "B": "students and teachers",
+        "C": "parents only",
+        "D": "the surrounding community"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 39
+    },
+    {
+      "domain": "koperasi_types",
+      "text": "A village unit cooperative (KUD — Koperasi Unit Desa) operates mainly in:",
+      "image": null,
+      "options": {
+        "A": "big cities",
+        "B": "rural areas / villages",
+        "C": "factory zones",
+        "D": "ports only"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 40
+    },
+    {
+      "domain": "koperasi_types",
+      "text": "A service cooperative (Koperasi Jasa) provides services such as:",
+      "image": null,
+      "options": {
+        "A": "only agricultural products",
+        "B": "transportation, tourism, or insurance",
+        "C": "only food and drinks",
+        "D": "only loans"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 41
+    },
+    {
+      "domain": "koperasi_types",
+      "text": "A producer cooperative (Koperasi Produsen) helps its members by:",
+      "image": null,
+      "options": {
+        "A": "buying their products in bulk at better prices",
+        "B": "selling only imported goods",
+        "C": "providing school supplies",
+        "D": "running banks only"
       },
       "answer": "A",
       "difficulty": "medium",
-      "id": 27,
-      "image": null
+      "id": 42
     },
     {
-      "domain": "electric_force",
-      "text": "Opposite charges will ____ each other.",
+      "domain": "koperasi_types",
+      "text": "A consumer cooperative (Koperasi Konsumen) helps its members by:",
+      "image": null,
       "options": {
-        "A": "repel",
-        "B": "attract",
-        "C": "ignore",
-        "D": "multiply"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 28,
-      "image": null
-    },
-    {
-      "domain": "electric_force",
-      "text": "Like charges will ____ each other.",
-      "options": {
-        "A": "attract",
-        "B": "repel",
-        "C": "combine",
-        "D": "neutralise"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 29,
-      "image": null
-    },
-    {
-      "domain": "electric_force",
-      "text": "In a factory smoke filter, smoke particles become negatively charged and are attracted to:",
-      "options": {
-        "A": "negatively charged plates",
-        "B": "positively charged plates",
-        "C": "neutral water",
-        "D": "magnetic plates"
+        "A": "producing goods for export",
+        "B": "buying goods in bulk and selling to members at lower prices",
+        "C": "giving out free money",
+        "D": "only running insurance"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 30,
-      "image": null
+      "id": 43
     },
     {
-      "domain": "light_energy",
-      "text": "What is the main source of light on Earth?",
+      "domain": "koperasi_types",
+      "text": "KUD stands for:",
+      "image": null,
       "options": {
-        "A": "The Moon",
-        "B": "The Sun",
-        "C": "Stars",
-        "D": "Electric lamps"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 31,
-      "image": null
-    },
-    {
-      "domain": "light_energy",
-      "text": "We need light to ____ the things around us.",
-      "options": {
-        "A": "hear",
-        "B": "see",
-        "C": "smell",
-        "D": "touch"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 32,
-      "image": null
-    },
-    {
-      "domain": "light_energy",
-      "text": "Which is NOT a source of light?",
-      "options": {
-        "A": "A torch",
-        "B": "A lamp",
-        "C": "A mirror",
-        "D": "The Sun"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 33,
-      "image": null
-    },
-    {
-      "domain": "heat_energy",
-      "text": "The main source of heat on Earth is:",
-      "options": {
-        "A": "Fire",
-        "B": "The Sun",
-        "C": "Electric heaters",
-        "D": "Friction"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 34,
-      "image": null
-    },
-    {
-      "domain": "heat_energy",
-      "text": "Heat energy makes things feel:",
-      "options": {
-        "A": "cold",
-        "B": "heavy",
-        "C": "warm or hot",
-        "D": "rough"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 35,
-      "image": null
-    },
-    {
-      "domain": "heat_energy",
-      "text": "We use heat energy to:",
-      "options": {
-        "A": "see colours",
-        "B": "cook food and dry clothes",
-        "C": "hear sounds",
-        "D": "breathe"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 36,
-      "image": null
-    },
-    {
-      "domain": "sound_energy",
-      "text": "Sounds are produced by ____ or moving objects.",
-      "options": {
-        "A": "vibrating",
-        "B": "shining",
-        "C": "magnetic",
-        "D": "electric"
+        "A": "Koperasi Unit Desa",
+        "B": "Koperasi Umum Daerah",
+        "C": "Koperasi Usaha Dagang",
+        "D": "Koperasi Untuk Desa"
       },
       "answer": "A",
       "difficulty": "easy",
-      "id": 37,
-      "image": null
+      "id": 44
     },
     {
-      "domain": "sound_energy",
-      "text": "Which of these is a useful purpose of sound?",
+      "domain": "koperasi_types",
+      "text": "Which cooperative type would a palm oil farmer most likely join?",
+      "image": null,
       "options": {
-        "A": "Cooking food",
-        "B": "Warning us of emergencies with sirens",
-        "C": "Heating water",
-        "D": "Lighting a room"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 38,
-      "image": null
-    },
-    {
-      "domain": "sound_energy",
-      "text": "An example of a SOFT sound is a:",
-      "options": {
-        "A": "thunder",
-        "B": "whisper",
-        "C": "fire alarm",
-        "D": "siren"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 39,
-      "image": null
-    },
-    {
-      "domain": "electrical_energy",
-      "text": "Electrical energy can be converted into:",
-      "options": {
-        "A": "light, heat and sound",
-        "B": "magnetic force only",
-        "C": "gravitational force only",
-        "D": "frictional force only"
-      },
-      "answer": "A",
-      "difficulty": "easy",
-      "id": 40,
-      "image": null
-    },
-    {
-      "domain": "electrical_energy",
-      "text": "Which device uses electrical energy from a socket to work?",
-      "options": {
-        "A": "A torch with batteries",
-        "B": "A washing machine",
-        "C": "An alarm clock with batteries",
-        "D": "A calculator with batteries"
+        "A": "Koperasi Sekolah",
+        "B": "KUD (Koperasi Unit Desa)",
+        "C": "KPRI",
+        "D": "Koperasi Jasa"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 41,
-      "image": null
+      "id": 45
     },
     {
-      "domain": "electrical_energy",
-      "text": "Why is electrical energy one of the most useful forms of energy?",
+      "domain": "koperasi_types",
+      "text": "A government civil servant who wants to save and borrow money would most likely join:",
+      "image": null,
       "options": {
-        "A": "It is free",
-        "B": "It can be converted into many other forms of energy",
-        "C": "It makes sounds",
-        "D": "It is invisible"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 42,
-      "image": null
-    },
-    {
-      "domain": "kinetic_energy",
-      "text": "The energy that a moving object has is called:",
-      "options": {
-        "A": "potential energy",
-        "B": "kinetic energy",
-        "C": "chemical energy",
-        "D": "light energy"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 43,
-      "image": null
-    },
-    {
-      "domain": "kinetic_energy",
-      "text": "The faster an object moves, the ____ kinetic energy it has.",
-      "options": {
-        "A": "less",
-        "B": "more",
-        "C": "same amount of",
-        "D": "different type of"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 44,
-      "image": null
-    },
-    {
-      "domain": "potential_energy",
-      "text": "Energy that is stored in objects is called:",
-      "options": {
-        "A": "kinetic energy",
-        "B": "heat energy",
-        "C": "potential energy",
-        "D": "sound energy"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 45,
-      "image": null
-    },
-    {
-      "domain": "chemical_pe",
-      "text": "Chemical potential energy is stored in:",
-      "options": {
-        "A": "moving objects",
-        "B": "food, batteries and fuels",
-        "C": "light bulbs",
-        "D": "magnets"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 46,
-      "image": null
-    },
-    {
-      "domain": "chemical_pe",
-      "text": "When we eat food, our body uses the ____ potential energy stored in food.",
-      "options": {
-        "A": "kinetic",
-        "B": "gravitational",
-        "C": "chemical",
-        "D": "elastic"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 47,
-      "image": null
-    },
-    {
-      "domain": "gravitational_pe",
-      "text": "When an object is at a height above the ground, it has:",
-      "options": {
-        "A": "kinetic energy",
-        "B": "gravitational potential energy",
-        "C": "chemical energy",
-        "D": "sound energy"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 48,
-      "image": null
-    },
-    {
-      "domain": "gravitational_pe",
-      "text": "Joe is standing still at the top of a ramp. He has gravitational potential energy because of his:",
-      "options": {
-        "A": "speed",
-        "B": "weight",
-        "C": "position above the ground",
-        "D": "colour"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 49,
-      "image": null
-    },
-    {
-      "domain": "elastic_pe",
-      "text": "A stretched rubber band has:",
-      "options": {
-        "A": "kinetic energy",
-        "B": "gravitational potential energy",
-        "C": "elastic potential energy",
-        "D": "sound energy"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 50,
-      "image": null
-    },
-    {
-      "domain": "solar_energy",
-      "text": "Energy from the Sun is also called ____ energy.",
-      "options": {
-        "A": "wind",
-        "B": "solar",
-        "C": "water",
-        "D": "fossil"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 51,
-      "image": null
-    },
-    {
-      "domain": "solar_energy",
-      "text": "Solar energy consists of both ____ and ____ energy.",
-      "options": {
-        "A": "sound and heat",
-        "B": "heat and light",
-        "C": "kinetic and potential",
-        "D": "magnetic and electric"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 52,
-      "image": null
-    },
-    {
-      "domain": "solar_energy",
-      "text": "Plants use light energy from the Sun to:",
-      "options": {
-        "A": "move around",
-        "B": "make food",
-        "C": "produce sound",
-        "D": "generate electricity directly"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 53,
-      "image": null
-    },
-    {
-      "domain": "fossil_fuels",
-      "text": "Fossil fuels are formed from:",
-      "options": {
-        "A": "living things that died millions of years ago",
-        "B": "rocks in the ground",
-        "C": "ocean water",
-        "D": "modern plastic"
+        "A": "KPRI",
+        "B": "Koperasi Sekolah",
+        "C": "KUD",
+        "D": "Koperasi Produsen"
       },
       "answer": "A",
       "difficulty": "medium",
-      "id": 54,
-      "image": null
+      "id": 46
     },
     {
-      "domain": "fossil_fuels",
-      "text": "Examples of fossil fuels include:",
+      "domain": "koperasi_types",
+      "text": "High school students who want to buy stationery at a discount would join:",
+      "image": null,
       "options": {
-        "A": "wind and sunlight",
-        "B": "coal, oil and natural gas",
-        "C": "wood and paper",
-        "D": "water and steam"
+        "A": "KPRI",
+        "B": "Koperasi Sekolah",
+        "C": "KUD",
+        "D": "Koperasi Simpan Pinjam"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 55,
-      "image": null
+      "id": 47
     },
     {
-      "domain": "biofuels",
-      "text": "Biofuels are fuels made from:",
+      "domain": "koperasi_types",
+      "text": "A taxi driver wanting cooperative transportation services would join:",
+      "image": null,
       "options": {
-        "A": "fossil fuels",
-        "B": "recently living things (plants, animals)",
-        "C": "plastic waste",
-        "D": "rocks"
+        "A": "Koperasi Produsen",
+        "B": "Koperasi Konsumen",
+        "C": "Koperasi Jasa",
+        "D": "KUD"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "id": 48
+    },
+    {
+      "domain": "koperasi_types",
+      "text": "A cooperative that sells rice, sugar, and cooking oil to its members at lower prices is a:",
+      "image": null,
+      "options": {
+        "A": "Koperasi Produsen",
+        "B": "Koperasi Konsumen",
+        "C": "Koperasi Jasa",
+        "D": "Koperasi Simpan Pinjam"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 56,
-      "image": null
+      "id": 49
     },
     {
-      "domain": "energy_conservation",
-      "text": "Why should we conserve energy?",
+      "domain": "koperasi_types",
+      "text": "Which cooperative's main business is savings and loans (simpan pinjam) for its members?",
+      "image": null,
       "options": {
-        "A": "To make energy more expensive",
-        "B": "Because fossil fuels will run out one day",
-        "C": "To produce more pollution",
-        "D": "To reduce the Sun's heat"
+        "A": "Koperasi Produsen",
+        "B": "Koperasi Konsumen",
+        "C": "Koperasi Jasa",
+        "D": "Koperasi Simpan Pinjam"
       },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 57,
-      "image": null
+      "answer": "D",
+      "difficulty": "medium",
+      "id": 50
     },
     {
-      "domain": "energy_conservation",
-      "text": "Which of these saves electrical energy at home?",
+      "domain": "koperasi_types",
+      "text": "Indonesian cooperatives celebrate Hari Koperasi Indonesia (Indonesian Cooperative Day) every:",
+      "image": null,
       "options": {
-        "A": "Leaving lights on when not in use",
-        "B": "Switching off lights when leaving a room",
-        "C": "Using more appliances at once",
-        "D": "Running the air-conditioner all day"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 58,
-      "image": null
-    },
-    {
-      "domain": "maglev",
-      "text": "Maglev is short for:",
-      "options": {
-        "A": "Magnetic levitation",
-        "B": "Magnesium level",
-        "C": "Magnet elevator",
-        "D": "Magic level"
+        "A": "12 July",
+        "B": "17 August",
+        "C": "1 May",
+        "D": "28 October"
       },
       "answer": "A",
       "difficulty": "medium",
-      "id": 59,
-      "image": null
+      "id": 51
     },
     {
-      "domain": "maglev",
-      "text": "In a Maglev train, one set of magnets ____ the train up off the track.",
+      "domain": "koperasi_types",
+      "text": "The father of Indonesian cooperatives is:",
+      "image": null,
       "options": {
-        "A": "attracts and pulls",
-        "B": "repels and pushes",
-        "C": "shines light on",
-        "D": "heats up"
+        "A": "Soekarno",
+        "B": "Mohammad Hatta",
+        "C": "Suharto",
+        "D": "Tan Malaka"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 60,
-      "image": null
+      "id": 52
     },
     {
-      "domain": "light_reflection",
-      "text": "When light hits a surface and bounces off, this is called:",
+      "domain": "uud_1945_art33",
+      "text": "Based on Article 33 paragraph (1) of the 1945 Constitution, Indonesia's economic system is structured on:",
+      "image": null,
       "options": {
-        "A": "refraction",
-        "B": "reflection",
-        "C": "absorption",
-        "D": "evaporation"
+        "A": "free market competition",
+        "B": "state monopoly",
+        "C": "foreign investment",
+        "D": "joint enterprises based on family principles"
+      },
+      "answer": "D",
+      "difficulty": "medium",
+      "id": 53
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "Article 33 paragraph (1) of the 1945 Constitution states that the economy shall be organized as:",
+      "image": null,
+      "options": {
+        "A": "a common endeavor based on the principles of the family system",
+        "B": "a private capital venture",
+        "C": "a foreign-controlled market",
+        "D": "a state-owned enterprise only"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 54
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "The phrase 'keluarga' (family) in Article 33 paragraph (1) means that:",
+      "image": null,
+      "options": {
+        "A": "only family businesses are allowed",
+        "B": "the economy should be run with mutual cooperation and shared welfare",
+        "C": "the government controls all business",
+        "D": "foreign companies are welcome"
       },
       "answer": "B",
-      "difficulty": "easy",
-      "id": 61,
-      "image": null
+      "difficulty": "medium",
+      "id": 55
     },
     {
-      "domain": "light_reflection",
-      "text": "Light can be reflected by:",
+      "domain": "uud_1945_art33",
+      "text": "According to Article 33 paragraph (1), branches of production that are important to the state should be:",
+      "image": null,
       "options": {
-        "A": "only mirrors",
-        "B": "only water",
-        "C": "many different surfaces including mirrors",
-        "D": "only the Sun"
+        "A": "fully privatized",
+        "B": "controlled by the state",
+        "C": "left to foreign investors",
+        "D": "given to NGOs only"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 56
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "How many paragraphs (ayat) are there in Article 33 of the 1945 Constitution?",
+      "image": null,
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
       },
       "answer": "C",
       "difficulty": "medium",
-      "id": 62,
-      "image": null
+      "id": 57
     },
     {
-      "domain": "light_reflection",
-      "text": "A mirror is an example of a surface that reflects ____ of the light that hits it.",
+      "domain": "uud_1945_art33",
+      "text": "Article 33 paragraph (2) of the 1945 Constitution says:",
+      "image": null,
       "options": {
-        "A": "none",
-        "B": "some",
-        "C": "most",
-        "D": "all"
+        "A": "production shall be done by all, for all",
+        "B": "only state companies may produce",
+        "C": "foreign investment is forbidden",
+        "D": "all businesses must be cooperatives"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 58
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "Article 33 paragraph (3) emphasizes:",
+      "image": null,
+      "options": {
+        "A": "free market prices",
+        "B": "the welfare of the people, not individual profit",
+        "C": "privatization of state enterprises",
+        "D": "exploitation of natural resources"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 59
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "Article 33 paragraph (4) says the national economy is based on:",
+      "image": null,
+      "options": {
+        "A": "monopolies and state control",
+        "B": "economic democracy with principles of togetherness, family, and welfare",
+        "C": "capitalism and free trade",
+        "D": "foreign direct investment only"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 60
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "The Indonesian word 'kekeluargaan' in Article 33 means:",
+      "image": null,
+      "options": {
+        "A": "capitalism",
+        "B": "togetherness / family-like cooperation",
+        "C": "individualism",
+        "D": "monopoly"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 61
+    },
+    {
+      "domain": "uud_1945_art33",
+      "text": "The principle of 'gotong royong' (mutual cooperation) in the Indonesian economy is enshrined in:",
+      "image": null,
+      "options": {
+        "A": "Pancasila only",
+        "B": "Article 33 of the 1945 Constitution",
+        "C": "The UN Charter",
+        "D": "ASEAN agreement"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 62
+    },
+    {
+      "domain": "koperasi_vs_business",
+      "text": "A 'Koperasi Simpan Pinjam' (Credit Union) is different from a conventional bank because:",
+      "image": null,
+      "options": {
+        "A": "a credit union is run by its members, a bank by shareholders focused on profit",
+        "B": "a credit union gives out free money",
+        "C": "a bank is run by its members",
+        "D": "there is no difference at all"
+      },
+      "answer": "A",
+      "difficulty": "medium",
+      "id": 63
+    },
+    {
+      "domain": "koperasi_vs_business",
+      "text": "Compared to a regular business, a cooperative prioritizes:",
+      "image": null,
+      "options": {
+        "A": "maximizing profit for one owner",
+        "B": "welfare of its members and the community",
+        "C": "giving free shares to anyone",
+        "D": "selling to foreign countries only"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 64
+    },
+    {
+      "domain": "koperasi_vs_business",
+      "text": "In a cooperative, decision-making follows the principle of:",
+      "image": null,
+      "options": {
+        "A": "the owner decides everything",
+        "B": "one member, one vote (democratic control)",
+        "C": "the government decides",
+        "D": "random draw"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "id": 65
+    },
+    {
+      "domain": "koperasi_vs_business",
+      "text": "You are a factory worker who wants to save money safely and sometimes borrow small loans with low interest. The cooperative most suitable for you is:",
+      "image": null,
+      "options": {
+        "A": "Koperasi Sekolah",
+        "B": "KUD",
+        "C": "Koperasi Simpan Pinjam (Credit Union)",
+        "D": "KPRI"
       },
       "answer": "C",
       "difficulty": "medium",
-      "id": 63,
-      "image": null
+      "id": 66
     },
     {
-      "domain": "periscope",
-      "text": "A periscope uses ____ to let us see over or around objects.",
+      "domain": "koperasi_vs_business",
+      "text": "A regular company (PT / Perseroan Terbatas) and a cooperative differ mainly in:",
+      "image": null,
       "options": {
-        "A": "lenses",
-        "B": "mirrors",
-        "C": "magnets",
-        "D": "batteries"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 64,
-      "image": null
-    },
-    {
-      "domain": "periscope",
-      "text": "A periscope needs at least ____ mirror(s) to work.",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
+        "A": "the products they sell",
+        "B": "ownership and purpose (PT = shareholder profit; cooperative = member welfare)",
+        "C": "the language they use",
+        "D": "there is no difference"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 65,
-      "image": null
+      "id": 67
     },
     {
-      "domain": "sound_loudness",
-      "text": "The ____ from the source of a sound affects how loud we hear it.",
+      "domain": "koperasi_vs_business",
+      "text": "The 'SHU' (Sisa Hasil Usaha) in a cooperative is:",
+      "image": null,
       "options": {
-        "A": "colour",
-        "B": "distance",
-        "C": "shape",
-        "D": "weight"
+        "A": "the profit that must be given only to managers",
+        "B": "the remaining profit that is shared with members based on their participation",
+        "C": "a type of loan from the bank",
+        "D": "a foreign-currency term"
       },
       "answer": "B",
-      "difficulty": "easy",
-      "id": 66,
-      "image": null
+      "difficulty": "medium",
+      "id": 68
     },
     {
-      "domain": "sound_loudness",
-      "text": "The closer you are to a source of sound, the ____ it sounds.",
+      "domain": "koperasi_vs_business",
+      "text": "Which of the following is NOT a characteristic of a cooperative?",
+      "image": null,
       "options": {
-        "A": "softer",
-        "B": "louder",
-        "C": "same",
-        "D": "higher pitched"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 67,
-      "image": null
-    },
-    {
-      "domain": "energy_conversion",
-      "text": "When we switch on a television, electrical energy is converted to light, sound and ____ energy.",
-      "options": {
-        "A": "kinetic",
-        "B": "chemical",
-        "C": "heat",
-        "D": "magnetic"
+        "A": "open and voluntary membership",
+        "B": "one member, one vote",
+        "C": "profit maximization for one shareholder",
+        "D": "autonomy and independence"
       },
       "answer": "C",
       "difficulty": "medium",
-      "id": 68,
-      "image": null
+      "id": 69
     },
     {
-      "domain": "energy_conversion",
-      "text": "When a battery powers a robot, chemical potential energy is converted into:",
+      "domain": "koperasi_vs_business",
+      "text": "The motto of Indonesian cooperatives is:",
+      "image": null,
       "options": {
-        "A": "sound only",
-        "B": "light only",
-        "C": "electrical energy to make the robot move",
-        "D": "gravitational energy"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 69,
-      "image": null
-    },
-    {
-      "domain": "energy_conversion",
-      "text": "Fuels like charcoal are burnt to produce ____ energy for cooking.",
-      "options": {
-        "A": "light",
-        "B": "heat",
-        "C": "sound",
-        "D": "magnetic"
+        "A": "One for all, all for one",
+        "B": "Together we are strong (Bersama kita kuat)",
+        "C": "Profit above all",
+        "D": "Mine is mine"
       },
       "answer": "B",
       "difficulty": "medium",
-      "id": 70,
-      "image": null
+      "id": 70
     }
   ]
 }
