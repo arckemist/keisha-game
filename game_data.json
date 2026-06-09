@@ -1,10 +1,10 @@
 {
   "kid": "keisha",
-  "subject": "Social Studies",
+  "subject": "PABP Islam",
   "grade": 4,
-  "source_pdf": "SS Keisha.pdf",
-  "generated_at": "2026-06-07T08:08:39.368986Z",
-  "title": "Keisha's Social Studies Quest",
+  "source_pdf": "Adobe Scan Jun 09, 2026.pdf",
+  "generated_at": "2026-06-09T13:20:00.000000Z",
+  "title": "Keisha's PABP Islam Quest",
   "character": "mage",
   "config": {
     "hero_hp": 5,
@@ -17,984 +17,984 @@
   },
   "questions": [
     {
-      "domain": "kerajaan_islam",
-      "text": "Which Indonesian kingdom was the first Islamic kingdom in the archipelago?",
+      "id": 1,
+      "domain": "surah_at_tin",
+      "text": "Surah At-Tin adalah surah yang ke berapa dalam Al-Qur'an?",
       "image": null,
       "options": {
-        "A": "Samudera Pasai",
-        "B": "Demak",
-        "C": "Gowa-Tallo",
-        "D": "Ternate"
-      },
-      "answer": "A",
-      "difficulty": "easy",
-      "id": 1
-    },
-    {
-      "domain": "kerajaan_islam",
-      "text": "Which Islamic kingdom was founded by Sunan Giri and became a center of Islamic learning in Java?",
-      "image": null,
-      "options": {
-        "A": "Demak Sultanate",
-        "B": "Gowa-Tallo",
-        "C": "Ternate-Tidore",
-        "D": "Aceh"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 2
-    },
-    {
-      "domain": "kerajaan_islam",
-      "text": "The Kingdom of Gowa-Tallo was located on the island of:",
-      "image": null,
-      "options": {
-        "A": "Java",
-        "B": "Sumatra",
-        "C": "Sulawesi",
-        "D": "Kalimantan"
+        "A": "90",
+        "B": "93",
+        "C": "95",
+        "D": "100"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 3
+      "difficulty": "easy"
     },
     {
-      "domain": "kerajaan_islam",
-      "text": "Which Islamic kingdom was famous for producing cloves and nutmeg in the Maluku islands?",
+      "id": 2,
+      "domain": "surah_at_tin",
+      "text": "Surah At-Tin terdiri dari berapa ayat?",
       "image": null,
       "options": {
-        "A": "Ternate-Tidore",
-        "B": "Samudera Pasai",
-        "C": "Demak",
-        "D": "Gowa-Tallo"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 4
-    },
-    {
-      "domain": "kerajaan_islam",
-      "text": "An Islamic kingdom located in North Sumatra, founded in the 13th century, was:",
-      "image": null,
-      "options": {
-        "A": "Samudera Pasai",
-        "B": "Demak",
-        "C": "Gowa-Tallo",
-        "D": "Ternate"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 5
-    },
-    {
-      "domain": "kerajaan_islam",
-      "text": "A sultanate located in South Sulawesi, known for its maritime trade, was:",
-      "image": null,
-      "options": {
-        "A": "Demak",
-        "B": "Gowa-Tallo",
-        "C": "Ternate",
-        "D": "Samudera Pasai"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 6
-    },
-    {
-      "domain": "kerajaan_islam",
-      "text": "Which kingdom was the first to adopt Islam in the Indonesian archipelago?",
-      "image": null,
-      "options": {
-        "A": "Demak",
-        "B": "Gowa-Tallo",
-        "C": "Samudera Pasai",
-        "D": "Ternate"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 7
-    },
-    {
-      "domain": "kerajaan_islam",
-      "text": "The spread of Islam in Indonesia was mainly helped by:",
-      "image": null,
-      "options": {
-        "A": "military conquest only",
-        "B": "trade and the Wali Songo (nine saints)",
-        "C": "colonial governments",
-        "D": "the UN"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 8
-    },
-    {
-      "domain": "kerajaan_hindu",
-      "text": "The oldest Hindu kingdom in Indonesia was located in:",
-      "image": null,
-      "options": {
-        "A": "Java",
-        "B": "Sumatra",
-        "C": "Kalimantan",
-        "D": "Sulawesi"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 9
-    },
-    {
-      "domain": "kerajaan_hindu",
-      "text": "The Tarumanegara kingdom was located on the island of:",
-      "image": null,
-      "options": {
-        "A": "Sumatra",
-        "B": "Java",
-        "C": "Kalimantan",
-        "D": "Bali"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 10
-    },
-    {
-      "domain": "kerajaan_hindu",
-      "text": "The first Hindu kingdom in Indonesia, Kutai, was located in:",
-      "image": null,
-      "options": {
-        "A": "West Java",
-        "B": "East Kalimantan",
-        "C": "South Sumatra",
-        "D": "Central Java"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 11
-    },
-    {
-      "domain": "kerajaan_hindu",
-      "text": "Which of the following is a relic (peninggalan) of a Hindu kingdom in Indonesia?",
-      "image": null,
-      "options": {
-        "A": "Borobudur Temple",
-        "B": "Cangkuang Temple",
-        "C": "Prambanan Temple",
-        "D": "Demak Mosque"
-      },
-      "answer": "C",
-      "difficulty": "easy",
-      "id": 12
-    },
-    {
-      "domain": "kerajaan_hindu",
-      "text": "Which inscription (prasasti) is the oldest evidence of Hindu presence in the archipelago?",
-      "image": null,
-      "options": {
-        "A": "Yupa Inscription",
-        "B": "Ciaruteun Inscription",
-        "C": "Kota Kapur Inscription",
-        "D": "Talang Tuwo Inscription"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 13
-    },
-    {
-      "domain": "kerajaan_hindu",
-      "text": "The Ciaruteun inscription is associated with which Hindu kingdom?",
-      "image": null,
-      "options": {
-        "A": "Kutai",
-        "B": "Tarumanegara",
-        "C": "Majapahit",
-        "D": "Sriwijaya"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 14
-    },
-    {
-      "domain": "kerajaan_buddha",
-      "text": "Sriwijaya was a powerful kingdom based on the island of:",
-      "image": null,
-      "options": {
-        "A": "Java",
-        "B": "Sumatra",
-        "C": "Kalimantan",
-        "D": "Sulawesi"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 15
-    },
-    {
-      "domain": "kerajaan_buddha",
-      "text": "Sriwijaya became wealthy mainly through controlling trade at the Strait of:",
-      "image": null,
-      "options": {
-        "A": "Malacca",
-        "B": "Sunda",
-        "C": "Lombok",
-        "D": "Makassar"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 16
-    },
-    {
-      "domain": "kerajaan_buddha",
-      "text": "Borobudur Temple is a magnificent Buddhist monument built by the:",
-      "image": null,
-      "options": {
-        "A": "Sailendra dynasty",
-        "B": "Sanjaya dynasty",
-        "C": "Majapahit empire",
-        "D": "Mataram kingdom"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 17
-    },
-    {
-      "domain": "kerajaan_buddha",
-      "text": "Borobudur Temple is located in:",
-      "image": null,
-      "options": {
-        "A": "Central Java",
-        "B": "West Java",
-        "C": "East Java",
-        "D": "Bali"
-      },
-      "answer": "A",
-      "difficulty": "easy",
-      "id": 18
-    },
-    {
-      "domain": "kerajaan_buddha",
-      "text": "Borobudur Temple is decorated with:",
-      "image": null,
-      "options": {
-        "A": "stupa and relief panels",
-        "B": "mosaic tiles from Persia",
-        "C": "European marble statues",
-        "D": "Egyptian hieroglyphs"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 19
-    },
-    {
-      "domain": "kerajaan_buddha",
-      "text": "Sriwijaya was a center of learning for:",
-      "image": null,
-      "options": {
-        "A": "Hindu law",
-        "B": "Buddhism (Mahayana)",
-        "C": "Christian theology",
-        "D": "Islam"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 20
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "In the Koperasi Indonesia logo, the chain symbolizes:",
-      "image": null,
-      "options": {
-        "A": "wealth",
-        "B": "solidarity and unity",
-        "C": "farming",
-        "D": "school"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 21
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "In the Koperasi Indonesia logo, the scales (timbangan) symbolize:",
-      "image": null,
-      "options": {
-        "A": "trade and economy",
-        "B": "social justice",
-        "C": "agriculture",
-        "D": "fishery"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 22
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "In the Koperasi Indonesia logo, the rice and cotton (padi dan kapas) symbolize:",
-      "image": null,
-      "options": {
-        "A": "military strength",
-        "B": "justice and prosperity",
-        "C": "basic needs (food and clothing)",
-        "D": "farming and textile industries"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 23
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "In the Koperasi Indonesia logo, the star symbolizes:",
-      "image": null,
-      "options": {
-        "A": "Indonesia's independence",
-        "B": "the first principle of Pancasila (belief in God)",
-        "C": "cooperative principles",
-        "D": "the founder of cooperatives"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 24
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "Which symbol in the Koperasi Indonesia logo represents solidarity and unity among members?",
-      "image": null,
-      "options": {
-        "A": "scales",
-        "B": "star",
-        "C": "chain",
-        "D": "rice and cotton"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 25
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "Which symbol in the Koperasi Indonesia logo represents social justice and fairness?",
-      "image": null,
-      "options": {
-        "A": "chain",
-        "B": "scales",
-        "C": "rice and cotton",
-        "D": "star"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 26
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "The rice and cotton in the Koperasi Indonesia logo represent:",
-      "image": null,
-      "options": {
-        "A": "Indonesian staple foods",
-        "B": "basic needs — food and clothing",
-        "C": "the two main islands",
-        "D": "wealth and poverty"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 27
-    },
-    {
-      "domain": "koperasi_logo",
-      "text": "The star at the top of the Koperasi Indonesia logo represents:",
-      "image": null,
-      "options": {
-        "A": "the first principle of Pancasila (belief in the One Almighty God)",
-        "B": "Indonesia's flag color",
-        "C": "success in business",
-        "D": "the five cooperative principles"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 28
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "The first modern cooperative was established by the Rochdale Pioneers in:",
-      "image": null,
-      "options": {
-        "A": "France, 1789",
-        "B": "England, 1844",
-        "C": "Germany, 1871",
-        "D": "Indonesia, 1945"
-      },
-      "answer": "B",
-      "difficulty": "easy",
-      "id": 29
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "The Rochdale Pioneers lived in:",
-      "image": null,
-      "options": {
-        "A": "France",
-        "B": "Germany",
-        "C": "England",
-        "D": "America"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 30
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "Which principle says 'one member, one vote' in a cooperative?",
-      "image": null,
-      "options": {
-        "A": "open membership",
-        "B": "democratic member control",
-        "C": "limited interest on capital",
-        "D": "autonomy and independence"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 31
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "Which cooperative principle means that membership is open to anyone who wants to join?",
-      "image": null,
-      "options": {
-        "A": "voluntary and open membership",
-        "B": "democratic member control",
-        "C": "autonomy and independence",
-        "D": "concern for community"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 32
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "The Rochdale Pioneers' cooperative principles include all of the following EXCEPT:",
-      "image": null,
-      "options": {
-        "A": "open membership",
-        "B": "one member, one vote",
-        "C": "maximizing profit for owners",
-        "D": "education and training for members"
-      },
-      "answer": "C",
-      "difficulty": "medium",
-      "id": 33
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "Which principle states that a cooperative should not be controlled by outside parties, including the government?",
-      "image": null,
-      "options": {
-        "A": "voluntary and open membership",
-        "B": "autonomy and independence",
-        "C": "concern for community",
-        "D": "cooperation among cooperatives"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 34
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "A cooperative's profit (SHU — Sisa Hasil Usaha) is distributed to its members based on:",
-      "image": null,
-      "options": {
-        "A": "how many shares they own",
-        "B": "their participation in the cooperative's transactions",
-        "C": "the time since they joined",
-        "D": "equal amount to each member regardless"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 35
-    },
-    {
-      "domain": "rochdale_principles",
-      "text": "The Rochdale Pioneers' principles still guide cooperatives worldwide. How many principles are there?",
-      "image": null,
-      "options": {
-        "A": "3",
-        "B": "5",
-        "C": "7",
+        "A": "6",
+        "B": "7",
+        "C": "8",
         "D": "10"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 36
+      "difficulty": "easy"
     },
     {
-      "domain": "koperasi_types",
-      "text": "Which cooperative is classified based on membership rather than business activity?",
+      "id": 3,
+      "domain": "surah_at_tin",
+      "text": "Surah At-Tin termasuk surah apa?",
       "image": null,
       "options": {
-        "A": "Koperasi Jasa",
-        "B": "Koperasi Konsumen",
-        "C": "Koperasi Produsen",
-        "D": "Koperasi Pegawai Republik Indonesia (KPRI)"
+        "A": "Madaniyah",
+        "B": "Makiyah",
+        "C": "Jahmiyah",
+        "D": "Basmalah"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "domain": "surah_at_tin",
+      "text": "Nama surah At-Tin diambil dari kata At-Tin yang terdapat pada ayat ke berapa?",
+      "image": null,
+      "options": {
+        "A": "Pertama",
+        "B": "Kedua",
+        "C": "Ketiga",
+        "D": "Keempat"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "domain": "surah_at_tin",
+      "text": "Lafal 'وَالتِّيْنِ' memiliki arti...",
+      "image": null,
+      "options": {
+        "A": "Demi buah Tin",
+        "B": "Demi buah Zaitun",
+        "C": "Demi gunung Sinai",
+        "D": "Demi negeri yang aman"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "domain": "surah_at_tin",
+      "text": "Lafal 'فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُوْنٍ' — arti dari kata 'أَجْرٌ' yang digarisbawahi adalah...",
+      "image": null,
+      "options": {
+        "A": "Adil",
+        "B": "Buah",
+        "C": "Pahala",
+        "D": "Pembukaan"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "domain": "surah_at_tin",
+      "text": "Salah satu isi pesan pokok surah At-Tin adalah...",
+      "image": null,
+      "options": {
+        "A": "Manusia diciptakan dalam bentuk yang sempurna",
+        "B": "Matahari terbenam di timur",
+        "C": "Bulan lebih besar dari bumi",
+        "D": "Langit berwarna biru"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "domain": "surah_at_tin",
+      "text": "Manusia adalah makhluk yang diciptakan dalam bentuk yang paling...",
+      "image": null,
+      "options": {
+        "A": "Jelek",
+        "B": "Biasa",
+        "C": "Baik",
+        "D": "Asing"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "domain": "surah_at_tin",
+      "text": "Ayat 1 surah At-Tin dimulai dengan sumpah 'Demi buah Tin dan buah...'",
+      "image": null,
+      "options": {
+        "A": "Apel",
+        "B": "Zaitun",
+        "C": "Mangga",
+        "D": "Jeruk"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "domain": "hadis_silaturahmi",
+      "text": "Salah satu isi pokok hadis tentang silaturahmi adalah...",
+      "image": null,
+      "options": {
+        "A": "Silaturahmi dapat memperpanjang umur",
+        "B": "Silaturahmi membuat hati menjadi keras",
+        "C": "Silaturahmi membuang waktu",
+        "D": "Silaturahmi tidak penting"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "domain": "hadis_silaturahmi",
+      "text": "Selain memperpanjang umur, isi pokok hadis silaturahmi yang lain adalah...",
+      "image": null,
+      "options": {
+        "A": "Memperbanyak musuh",
+        "B": "Memperluas rezeki",
+        "C": "Mengurangi teman",
+        "D": "Membuat sedih"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "domain": "hadis_silaturahmi",
+      "text": "Penerapan hadis silaturahmi dalam kehidupan sehari-hari yang paling tepat adalah...",
+      "image": null,
+      "options": {
+        "A": "Berkunjung dengan niat silaturahmi",
+        "B": "Menjauhi tetangga",
+        "C": "Tidak menyapa saudara",
+        "D": "Berbohong kepada keluarga"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "domain": "hadis_silaturahmi",
+      "text": "Berikut ini adalah penerapan hadis silaturahmi, kecuali...",
+      "image": null,
+      "options": {
+        "A": "Menjaga hubungan silaturahmi",
+        "B": "Menyambung tali persaudaraan",
+        "C": "Menghindari saudara yang membutuhkan",
+        "D": "Berkunjung ke rumah kerabat"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "domain": "hadis_silaturahmi",
+      "text": "Salah satu hikmah silaturahmi adalah...",
+      "image": null,
+      "options": {
+        "A": "Memperkuat tali persaudaraan",
+        "B": "Memutus tali keluarga",
+        "C": "Mendapat musuh baru",
+        "D": "Menghilangkan rezeki"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "domain": "hadis_silaturahmi",
+      "text": "Hikmah silaturahmi yang lain adalah...",
+      "image": null,
+      "options": {
+        "A": "Mendapat masalah",
+        "B": "Mendapatkan rahmat",
+        "C": "Mendapat kesusahan",
+        "D": "Mendapat penyakit"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "domain": "hadis_silaturahmi",
+      "text": "Sikap yang bertentangan dengan nilai silaturahmi adalah...",
+      "image": null,
+      "options": {
+        "A": "Saling mengunjungi",
+        "B": "Berbagi rezeki",
+        "C": "Memutus hubungan dengan keluarga",
+        "D": "Mendoakan saudara"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 17,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Apa yang dimaksud dengan izhar dalam hukum tajwid?",
+      "image": null,
+      "options": {
+        "A": "Jelas",
+        "B": "Buram",
+        "C": "Berbayang",
+        "D": "Samar"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Idgham artinya adalah...",
+      "image": null,
+      "options": {
+        "A": "Mendengung",
+        "B": "Memasukkan",
+        "C": "Menyembunyikan",
+        "D": "Menjelaskan"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Ikhfa artinya adalah...",
+      "image": null,
+      "options": {
+        "A": "Memasukkan",
+        "B": "Mendengung",
+        "C": "Menyamakan",
+        "D": "Mengubah"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Iqlab artinya adalah...",
+      "image": null,
+      "options": {
+        "A": "Mendengung",
+        "B": "Nunsukun",
+        "C": "Memasukkan",
+        "D": "Menjelaskan"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 21,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Ketika nun sukun atau tanwin bertemu dengan huruf 'ب' (ba), maka disebut...",
+      "image": null,
+      "options": {
+        "A": "Izhar",
+        "B": "Iqlab",
+        "C": "Idgham",
+        "D": "Ikhfa"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 22,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Huruf 'ك' (kaf) termasuk dalam hukum tajwid...",
+      "image": null,
+      "options": {
+        "A": "Izhar",
+        "B": "Ikhfa",
+        "C": "Idgham",
+        "D": "Iqlab"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Yang termasuk huruf-huruf ikhfa adalah...",
+      "image": null,
+      "options": {
+        "A": "fa, kaf, tsa, sin",
+        "B": "alif, ba, ta, tsa",
+        "C": "jim, dal, ra, za",
+        "D": "mim, nun, waw, ya"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 24,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Huruf 'ث' (tsa) termasuk dalam hukum bacaan...",
+      "image": null,
+      "options": {
+        "A": "Izhar",
+        "B": "Ikhfa",
+        "C": "Idgham",
+        "D": "Iqlab"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Contoh penerapan izhar adalah ketika nun sukun bertemu huruf...",
+      "image": null,
+      "options": {
+        "A": "Ba",
+        "B": "Kaf",
+        "C": "Jim",
+        "D": "Lam"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 26,
+      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
+      "text": "Manakah yang merupakan huruf ikhfa dari daftar berikut?",
+      "image": null,
+      "options": {
+        "A": "Ba",
+        "B": "Kaf",
+        "C": "Dal",
+        "D": "Jim"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 27,
+      "domain": "nabi_rasul_sifat",
+      "text": "Perbedaan nabi dan rasul adalah...",
+      "image": null,
+      "options": {
+        "A": "Nabi tidak diberi kitab, rasul diberi kitab",
+        "B": "Nabi dan rasul sama saja",
+        "C": "Nabi lebih utama dari rasul",
+        "D": "Rasul tidak menerima wahyu"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 28,
+      "domain": "nabi_rasul_sifat",
+      "text": "Rasul ululazmi adalah rasul yang memiliki kesabaran yang...",
+      "image": null,
+      "options": {
+        "A": "Biasa",
+        "B": "Luar biasa",
+        "C": "Sedikit",
+        "D": "Tidak ada"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 29,
+      "domain": "nabi_rasul_sifat",
+      "text": "Yang termasuk rasul ululazmi adalah...",
+      "image": null,
+      "options": {
+        "A": "Nabi Nuh, Nabi Ibrahim, Nabi Musa, Nabi Isa, Nabi Muhammad",
+        "B": "Nabi Adam, Nabi Idris, Nabi Hud, Nabi Shaleh, Nabi Luth",
+        "C": "Nabi Yunus, Nabi Ayyub, Nabi Dzulkifli, Nabi Harun, Nabi Sulaiman",
+        "D": "Nabi Daud, Nabi Zakaria, Nabi Yahya, Nabi Ismail, Nabi Ishaq"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "domain": "nabi_rasul_sifat",
+      "text": "Yang TIDAK termasuk rasul ululazmi ialah...",
+      "image": null,
+      "options": {
+        "A": "Nabi Nuh",
+        "B": "Nabi Ibrahim",
+        "C": "Nabi Ismail",
+        "D": "Nabi Isa"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 31,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat wajib rasul yang artinya 'jujur' adalah...",
+      "image": null,
+      "options": {
+        "A": "Amanah",
+        "B": "Tablig",
+        "C": "Sidik",
+        "D": "Fatanah"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 32,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat wajib rasul yang artinya 'dapat dipercaya' adalah...",
+      "image": null,
+      "options": {
+        "A": "Sidik",
+        "B": "Amanah",
+        "C": "Tablig",
+        "D": "Fatanah"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 33,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat wajib rasul yang artinya 'menyampaikan' adalah...",
+      "image": null,
+      "options": {
+        "A": "Sidik",
+        "B": "Amanah",
+        "C": "Tablig",
+        "D": "Fatanah"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat wajib rasul yang artinya 'cerdas' adalah...",
+      "image": null,
+      "options": {
+        "A": "Sidik",
+        "B": "Amanah",
+        "C": "Tablig",
+        "D": "Fatanah"
       },
       "answer": "D",
-      "difficulty": "medium",
-      "id": 37
+      "difficulty": "medium"
     },
     {
-      "domain": "koperasi_types",
-      "text": "KPRI (Koperasi Pegawai Republik Indonesia) members are:",
+      "id": 35,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat mustahil rasul 'Kitman' artinya...",
       "image": null,
       "options": {
-        "A": "farmers",
-        "B": "factory workers",
-        "C": "civil servants / government employees",
-        "D": "students"
+        "A": "Bohong",
+        "B": "Bodoh",
+        "C": "Menyembunyikan",
+        "D": "Berkhianat"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 38
+      "difficulty": "hard"
     },
     {
-      "domain": "koperasi_types",
-      "text": "A school cooperative (Koperasi Sekolah) is a type of consumer cooperative whose members are:",
+      "id": 36,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat mustahil rasul 'Kizib' artinya...",
       "image": null,
       "options": {
-        "A": "teachers only",
-        "B": "students and teachers",
-        "C": "parents only",
-        "D": "the surrounding community"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 39
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "A village unit cooperative (KUD — Koperasi Unit Desa) operates mainly in:",
-      "image": null,
-      "options": {
-        "A": "big cities",
-        "B": "rural areas / villages",
-        "C": "factory zones",
-        "D": "ports only"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 40
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "A service cooperative (Koperasi Jasa) provides services such as:",
-      "image": null,
-      "options": {
-        "A": "only agricultural products",
-        "B": "transportation, tourism, or insurance",
-        "C": "only food and drinks",
-        "D": "only loans"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 41
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "A producer cooperative (Koperasi Produsen) helps its members by:",
-      "image": null,
-      "options": {
-        "A": "buying their products in bulk at better prices",
-        "B": "selling only imported goods",
-        "C": "providing school supplies",
-        "D": "running banks only"
+        "A": "Bohong",
+        "B": "Bodoh",
+        "C": "Menyembunyikan",
+        "D": "Berkhianat"
       },
       "answer": "A",
-      "difficulty": "medium",
-      "id": 42
+      "difficulty": "hard"
     },
     {
-      "domain": "koperasi_types",
-      "text": "A consumer cooperative (Koperasi Konsumen) helps its members by:",
+      "id": 37,
+      "domain": "nabi_rasul_sifat",
+      "text": "Sifat mustahil rasul 'Baladah' artinya...",
       "image": null,
       "options": {
-        "A": "producing goods for export",
-        "B": "buying goods in bulk and selling to members at lower prices",
-        "C": "giving out free money",
-        "D": "only running insurance"
+        "A": "Bohong",
+        "B": "Bodoh",
+        "C": "Menyembunyikan",
+        "D": "Berkhianat"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 43
+      "difficulty": "hard"
     },
     {
-      "domain": "koperasi_types",
-      "text": "KUD stands for:",
+      "id": 38,
+      "domain": "nabi_rasul_sifat",
+      "text": "Iman kepada rasul termasuk rukun iman yang ke...",
       "image": null,
       "options": {
-        "A": "Koperasi Unit Desa",
-        "B": "Koperasi Umum Daerah",
-        "C": "Koperasi Usaha Dagang",
-        "D": "Koperasi Untuk Desa"
-      },
-      "answer": "A",
-      "difficulty": "easy",
-      "id": 44
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "Which cooperative type would a palm oil farmer most likely join?",
-      "image": null,
-      "options": {
-        "A": "Koperasi Sekolah",
-        "B": "KUD (Koperasi Unit Desa)",
-        "C": "KPRI",
-        "D": "Koperasi Jasa"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 45
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "A government civil servant who wants to save and borrow money would most likely join:",
-      "image": null,
-      "options": {
-        "A": "KPRI",
-        "B": "Koperasi Sekolah",
-        "C": "KUD",
-        "D": "Koperasi Produsen"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 46
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "High school students who want to buy stationery at a discount would join:",
-      "image": null,
-      "options": {
-        "A": "KPRI",
-        "B": "Koperasi Sekolah",
-        "C": "KUD",
-        "D": "Koperasi Simpan Pinjam"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 47
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "A taxi driver wanting cooperative transportation services would join:",
-      "image": null,
-      "options": {
-        "A": "Koperasi Produsen",
-        "B": "Koperasi Konsumen",
-        "C": "Koperasi Jasa",
-        "D": "KUD"
+        "A": "Kedua",
+        "B": "Ketiga",
+        "C": "Keempat",
+        "D": "Kelima"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 48
+      "difficulty": "medium"
     },
     {
-      "domain": "koperasi_types",
-      "text": "A cooperative that sells rice, sugar, and cooking oil to its members at lower prices is a:",
+      "id": 39,
+      "domain": "iman_nabi_rasul_penerapan",
+      "text": "Salah satu tujuan diutusnya para rasul adalah...",
       "image": null,
       "options": {
-        "A": "Koperasi Produsen",
-        "B": "Koperasi Konsumen",
-        "C": "Koperasi Jasa",
-        "D": "Koperasi Simpan Pinjam"
+        "A": "Menyampaikan wahyu kepada umatnya",
+        "B": "Mengumpulkan harta sebanyak-banyaknya",
+        "C": "Mendapatkan keturunan banyak",
+        "D": "Mendirikan kerajaan besar"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 40,
+      "domain": "iman_nabi_rasul_penerapan",
+      "text": "Tujuan diutusnya para rasul yang lain adalah...",
+      "image": null,
+      "options": {
+        "A": "Menyempurnakan akhlak",
+        "B": "Membuat manusia saling bermusuhan",
+        "C": "Menghilangkan akhlak",
+        "D": "Membuat manusia lupa"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 41,
+      "domain": "iman_nabi_rasul_penerapan",
+      "text": "Penerapan iman kepada nabi dan rasul dalam kehidupan sehari-hari adalah...",
+      "image": null,
+      "options": {
+        "A": "Meneladani ketaatan para rasul",
+        "B": "Mengabaikan nasihat rasul",
+        "C": "Menolak ajaran rasul",
+        "D": "Melanggar perintah rasul"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 42,
+      "domain": "iman_nabi_rasul_penerapan",
+      "text": "Salah satu penerapan iman kepada nabi dalam sehari-hari adalah...",
+      "image": null,
+      "options": {
+        "A": "Melupakan ajaran rasul",
+        "B": "Meneladani pelajaran yang disampaikan rasul",
+        "C": "Membantah perintah rasul",
+        "D": "Menolak dakwah rasul"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 49
+      "difficulty": "medium"
     },
     {
-      "domain": "koperasi_types",
-      "text": "Which cooperative's main business is savings and loans (simpan pinjam) for its members?",
+      "id": 43,
+      "domain": "iman_nabi_rasul_penerapan",
+      "text": "Jumlah rasul dan nabi Allah yang wajib kita imani ada...",
       "image": null,
       "options": {
-        "A": "Koperasi Produsen",
-        "B": "Koperasi Konsumen",
-        "C": "Koperasi Jasa",
-        "D": "Koperasi Simpan Pinjam"
+        "A": "10",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 44,
+      "domain": "iman_nabi_rasul_penerapan",
+      "text": "Nabi terakhir yang diutus oleh Allah adalah Nabi...",
+      "image": null,
+      "options": {
+        "A": "Isa",
+        "B": "Ibrahim",
+        "C": "Musa",
+        "D": "Muhammad"
       },
       "answer": "D",
-      "difficulty": "medium",
-      "id": 50
+      "difficulty": "easy"
     },
     {
-      "domain": "koperasi_types",
-      "text": "Indonesian cooperatives celebrate Hari Koperasi Indonesia (Indonesian Cooperative Day) every:",
+      "id": 45,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Hukum shalat Jum'at bagi laki-laki muslim yang sudah baligh, berakal, dan tidak ada uzur adalah...",
       "image": null,
       "options": {
-        "A": "12 July",
-        "B": "17 August",
-        "C": "1 May",
-        "D": "28 October"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 51
-    },
-    {
-      "domain": "koperasi_types",
-      "text": "The father of Indonesian cooperatives is:",
-      "image": null,
-      "options": {
-        "A": "Soekarno",
-        "B": "Mohammad Hatta",
-        "C": "Suharto",
-        "D": "Tan Malaka"
+        "A": "Makruh",
+        "B": "Fardu ain",
+        "C": "Haram",
+        "D": "Sunah muakad"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 52
+      "difficulty": "easy"
     },
     {
-      "domain": "uud_1945_art33",
-      "text": "Based on Article 33 paragraph (1) of the 1945 Constitution, Indonesia's economic system is structured on:",
+      "id": 46,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Dalil kewajiban shalat Jum'at terdapat dalam surah...",
       "image": null,
       "options": {
-        "A": "free market competition",
-        "B": "state monopoly",
-        "C": "foreign investment",
-        "D": "joint enterprises based on family principles"
+        "A": "Al-Baqarah ayat 183",
+        "B": "Al-Jumu'ah ayat 9",
+        "C": "Al-Ikhlas ayat 2",
+        "D": "An-Nas ayat 1"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 47,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Berikut yang BUKAN termasuk syarat wajib shalat Jum'at adalah...",
+      "image": null,
+      "options": {
+        "A": "Islam",
+        "B": "Laki-laki",
+        "C": "Baligh",
+        "D": "Sehat jasmani"
       },
       "answer": "D",
-      "difficulty": "medium",
-      "id": 53
+      "difficulty": "medium"
     },
     {
-      "domain": "uud_1945_art33",
-      "text": "Article 33 paragraph (1) of the 1945 Constitution states that the economy shall be organized as:",
+      "id": 48,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Seseorang tidak wajib melaksanakan shalat Jum'at apabila...",
       "image": null,
       "options": {
-        "A": "a common endeavor based on the principles of the family system",
-        "B": "a private capital venture",
-        "C": "a foreign-controlled market",
-        "D": "a state-owned enterprise only"
-      },
-      "answer": "A",
-      "difficulty": "medium",
-      "id": 54
-    },
-    {
-      "domain": "uud_1945_art33",
-      "text": "The phrase 'keluarga' (family) in Article 33 paragraph (1) means that:",
-      "image": null,
-      "options": {
-        "A": "only family businesses are allowed",
-        "B": "the economy should be run with mutual cooperation and shared welfare",
-        "C": "the government controls all business",
-        "D": "foreign companies are welcome"
+        "A": "Laki-laki dewasa",
+        "B": "Sedang bepergian (safar)",
+        "C": "Tinggal di desa",
+        "D": "Sudah baligh"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 55
+      "difficulty": "medium"
     },
     {
-      "domain": "uud_1945_art33",
-      "text": "According to Article 33 paragraph (1), branches of production that are important to the state should be:",
+      "id": 49,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Orang yang berkhotbah pada shalat Jum'at disebut dengan...",
       "image": null,
       "options": {
-        "A": "fully privatized",
-        "B": "controlled by the state",
-        "C": "left to foreign investors",
-        "D": "given to NGOs only"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 56
-    },
-    {
-      "domain": "uud_1945_art33",
-      "text": "How many paragraphs (ayat) are there in Article 33 of the 1945 Constitution?",
-      "image": null,
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "5"
+        "A": "Imam",
+        "B": "Makmum",
+        "C": "Khatib",
+        "D": "Bilal"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 57
+      "difficulty": "easy"
     },
     {
-      "domain": "uud_1945_art33",
-      "text": "Article 33 paragraph (2) of the 1945 Constitution says:",
+      "id": 50,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Berikut ini yang termasuk rukun khotbah adalah...",
       "image": null,
       "options": {
-        "A": "production shall be done by all, for all",
-        "B": "only state companies may produce",
-        "C": "foreign investment is forbidden",
-        "D": "all businesses must be cooperatives"
+        "A": "Memuji Allah",
+        "B": "Menyanyi bersama",
+        "C": "Menari di mimbar",
+        "D": "Tidur di masjid"
       },
       "answer": "A",
-      "difficulty": "medium",
-      "id": 58
+      "difficulty": "medium"
     },
     {
-      "domain": "uud_1945_art33",
-      "text": "Article 33 paragraph (3) emphasizes:",
+      "id": 51,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Jumlah rakaat shalat Jum'at berjumlah...",
       "image": null,
       "options": {
-        "A": "free market prices",
-        "B": "the welfare of the people, not individual profit",
-        "C": "privatization of state enterprises",
-        "D": "exploitation of natural resources"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 59
-    },
-    {
-      "domain": "uud_1945_art33",
-      "text": "Article 33 paragraph (4) says the national economy is based on:",
-      "image": null,
-      "options": {
-        "A": "monopolies and state control",
-        "B": "economic democracy with principles of togetherness, family, and welfare",
-        "C": "capitalism and free trade",
-        "D": "foreign direct investment only"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 60
-    },
-    {
-      "domain": "uud_1945_art33",
-      "text": "The Indonesian word 'kekeluargaan' in Article 33 means:",
-      "image": null,
-      "options": {
-        "A": "capitalism",
-        "B": "togetherness / family-like cooperation",
-        "C": "individualism",
-        "D": "monopoly"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 61
-    },
-    {
-      "domain": "uud_1945_art33",
-      "text": "The principle of 'gotong royong' (mutual cooperation) in the Indonesian economy is enshrined in:",
-      "image": null,
-      "options": {
-        "A": "Pancasila only",
-        "B": "Article 33 of the 1945 Constitution",
-        "C": "The UN Charter",
-        "D": "ASEAN agreement"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 62
-    },
-    {
-      "domain": "koperasi_vs_business",
-      "text": "A 'Koperasi Simpan Pinjam' (Credit Union) is different from a conventional bank because:",
-      "image": null,
-      "options": {
-        "A": "a credit union is run by its members, a bank by shareholders focused on profit",
-        "B": "a credit union gives out free money",
-        "C": "a bank is run by its members",
-        "D": "there is no difference at all"
+        "A": "2 rakaat",
+        "B": "3 rakaat",
+        "C": "4 rakaat",
+        "D": "5 rakaat"
       },
       "answer": "A",
-      "difficulty": "medium",
-      "id": 63
+      "difficulty": "easy"
     },
     {
-      "domain": "koperasi_vs_business",
-      "text": "Compared to a regular business, a cooperative prioritizes:",
+      "id": 52,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Shalat Jum'at didahului oleh...",
       "image": null,
       "options": {
-        "A": "maximizing profit for one owner",
-        "B": "welfare of its members and the community",
-        "C": "giving free shares to anyone",
-        "D": "selling to foreign countries only"
+        "A": "1 khotbah",
+        "B": "2 khotbah",
+        "C": "3 khotbah",
+        "D": "Tidak ada khotbah"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 64
+      "difficulty": "easy"
     },
     {
-      "domain": "koperasi_vs_business",
-      "text": "In a cooperative, decision-making follows the principle of:",
+      "id": 53,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Sunnah shalat Jum'at yang utama adalah...",
       "image": null,
       "options": {
-        "A": "the owner decides everything",
-        "B": "one member, one vote (democratic control)",
-        "C": "the government decides",
-        "D": "random draw"
+        "A": "Mandi",
+        "B": "Tidur siang",
+        "C": "Bermain game",
+        "D": "Menonton TV"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 54,
+      "domain": "shalat_jumat_hukum_syarat",
+      "text": "Makmum masbuk yang tertinggal satu rakaat shalat Jum'at harus...",
+      "image": null,
+      "options": {
+        "A": "Membatalkan shalat",
+        "B": "Menambah satu rakaat setelah imam salam",
+        "C": "Pulang dan mengulang",
+        "D": "Mengganti di hari Sabtu"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 65
+      "difficulty": "hard"
     },
     {
-      "domain": "koperasi_vs_business",
-      "text": "You are a factory worker who wants to save money safely and sometimes borrow small loans with low interest. The cooperative most suitable for you is:",
+      "id": 55,
+      "domain": "adab_guru_siswa",
+      "text": "Saat pelajaran berlangsung dan teman mengajak mengobrol, sikap terbaik kita adalah...",
       "image": null,
       "options": {
-        "A": "Koperasi Sekolah",
-        "B": "KUD",
-        "C": "Koperasi Simpan Pinjam (Credit Union)",
-        "D": "KPRI"
+        "A": "Ikut mengobrol karena sudah paham",
+        "B": "Mengabaikan guru",
+        "C": "Tetap fokus dan menghargai guru",
+        "D": "Keluar kelas diam-diam"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 66
+      "difficulty": "easy"
     },
     {
-      "domain": "koperasi_vs_business",
-      "text": "A regular company (PT / Perseroan Terbatas) and a cooperative differ mainly in:",
+      "id": 56,
+      "domain": "adab_guru_siswa",
+      "text": "Jika tidak setuju dengan penjelasan guru, sikap yang tepat adalah...",
       "image": null,
       "options": {
-        "A": "the products they sell",
-        "B": "ownership and purpose (PT = shareholder profit; cooperative = member welfare)",
-        "C": "the language they use",
-        "D": "there is no difference"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 67
-    },
-    {
-      "domain": "koperasi_vs_business",
-      "text": "The 'SHU' (Sisa Hasil Usaha) in a cooperative is:",
-      "image": null,
-      "options": {
-        "A": "the profit that must be given only to managers",
-        "B": "the remaining profit that is shared with members based on their participation",
-        "C": "a type of loan from the bank",
-        "D": "a foreign-currency term"
-      },
-      "answer": "B",
-      "difficulty": "medium",
-      "id": 68
-    },
-    {
-      "domain": "koperasi_vs_business",
-      "text": "Which of the following is NOT a characteristic of a cooperative?",
-      "image": null,
-      "options": {
-        "A": "open and voluntary membership",
-        "B": "one member, one vote",
-        "C": "profit maximization for one shareholder",
-        "D": "autonomy and independence"
+        "A": "Membantah dengan keras",
+        "B": "Diam saja tanpa hormat",
+        "C": "Menyampaikan dengan sopan dan santun",
+        "D": "Mengajak teman menolak"
       },
       "answer": "C",
-      "difficulty": "medium",
-      "id": 69
+      "difficulty": "easy"
     },
     {
-      "domain": "koperasi_vs_business",
-      "text": "The motto of Indonesian cooperatives is:",
+      "id": 57,
+      "domain": "adab_guru_siswa",
+      "text": "Hadis tentang menghormati orang yang mengajarkan ilmu menunjukkan bahwa...",
       "image": null,
       "options": {
-        "A": "One for all, all for one",
-        "B": "Together we are strong (Bersama kita kuat)",
-        "C": "Profit above all",
-        "D": "Mine is mine"
+        "A": "Guru tidak perlu dihormati",
+        "B": "Guru memiliki kedudukan mulia",
+        "C": "Guru hanya teman biasa",
+        "D": "Guru harus ditakuti"
       },
       "answer": "B",
-      "difficulty": "medium",
-      "id": 70
+      "difficulty": "medium"
+    },
+    {
+      "id": 58,
+      "domain": "adab_guru_siswa",
+      "text": "Membantu guru membawa buku tanpa diminta menunjukkan perilaku...",
+      "image": null,
+      "options": {
+        "A": "Ingin dipuji",
+        "B": "Sikap berlebihan",
+        "C": "Akhlak terpuji kepada guru",
+        "D": "Membebani diri"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 59,
+      "domain": "adab_guru_siswa",
+      "text": "Salah satu cara berbakti kepada guru adalah...",
+      "image": null,
+      "options": {
+        "A": "Bersikap sombong",
+        "B": "Bersikap sopan",
+        "C": "Memotong pembicaraan guru",
+        "D": "Melawan nasihat guru"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 60,
+      "domain": "adab_guru_siswa",
+      "text": "Cara berbakti kepada guru yang lain adalah...",
+      "image": null,
+      "options": {
+        "A": "Senantiasa bersikap rendah hati",
+        "B": "Membantah pendapat guru",
+        "C": "Mengabaikan nasihat guru",
+        "D": "Tidak memberi salam"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 61,
+      "domain": "adab_guru_siswa",
+      "text": "Manfaat berbakti kepada guru adalah...",
+      "image": null,
+      "options": {
+        "A": "Guru marah kepada kita",
+        "B": "Kita mendapat pahala",
+        "C": "Dikeluarkan dari sekolah",
+        "D": "Tidak punya teman"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 62,
+      "domain": "adab_guru_siswa",
+      "text": "Saat bertemu guru di jalan, sikap yang Islami adalah...",
+      "image": null,
+      "options": {
+        "A": "Berlari menjauh",
+        "B": "Beri salam kepada guru dengan sopan",
+        "C": "Diam dan pura-pura tidak lihat",
+        "D": "Menyembunyikan diri"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 63,
+      "domain": "doa_masjid",
+      "text": "Lafal doa masuk masjid adalah...",
+      "image": null,
+      "options": {
+        "A": "Bismillahirrahmanirrahim",
+        "B": "Allahumaghfirlii waftahlii abwaaba rohmatika",
+        "C": "Subhanallah",
+        "D": "Allahu Akbar"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 64,
+      "domain": "doa_masjid",
+      "text": "Arti doa masuk masjid 'Allahumaghfirlii waftahlii abwaaba rohmatika' adalah...",
+      "image": null,
+      "options": {
+        "A": "Ya Allah, ampunilah aku",
+        "B": "Ya Allah, ampunilah aku dan bukakanlah untukku pintu-pintu rahmat-Mu",
+        "C": "Ya Allah, berilah aku rezeki",
+        "D": "Ya Allah, jagalah aku"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 65,
+      "domain": "doa_masjid",
+      "text": "Lafal doa keluar masjid adalah...",
+      "image": null,
+      "options": {
+        "A": "Bismillahirrahmanirrahim",
+        "B": "Allahumaghfirlii waftahlii abwaaba faddlika",
+        "C": "Subhanallah",
+        "D": "Allahu Akbar"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 66,
+      "domain": "doa_masjid",
+      "text": "Perbedaan doa masuk dan keluar masjid adalah pada kata...",
+      "image": null,
+      "options": {
+        "A": "Allahumaghfirlii",
+        "B": "abwaaba",
+        "C": "rohmatika/faddlika",
+        "D": "waftahlii"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 67,
+      "domain": "hijrah_nabi",
+      "text": "Sikap Kafir Quraisy kepada Nabi Muhammad sebelum hijrah adalah...",
+      "image": null,
+      "options": {
+        "A": "Ramah dan baik",
+        "B": "Kasar kepada Nabi",
+        "C": "Membantu dakwah Nabi",
+        "D": "Diam saja"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 68,
+      "domain": "hijrah_nabi",
+      "text": "Nabi Muhammad ingin melakukan...",
+      "image": null,
+      "options": {
+        "A": "Perjalanan jauh",
+        "B": "Dakwah",
+        "C": "Perdagangan",
+        "D": "Pernikahan"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 69,
+      "domain": "hijrah_nabi",
+      "text": "Yang membantu Nabi Muhammad dalam berdakwah adalah...",
+      "image": null,
+      "options": {
+        "A": "Musuhnya",
+        "B": "Kafir Quraisy",
+        "C": "Teman-temannya",
+        "D": "Orang asing"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 70,
+      "domain": "hijrah_nabi",
+      "text": "Hasil dari dakwah Nabi Muhammad SAW adalah...",
+      "image": null,
+      "options": {
+        "A": "Nabi gagal",
+        "B": "Nabi berhasil",
+        "C": "Nabi menyerah",
+        "D": "Nabi pergi selamanya"
+      },
+      "answer": "B",
+      "difficulty": "easy"
     }
   ]
 }
