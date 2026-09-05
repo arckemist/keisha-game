@@ -1,10 +1,10 @@
 {
   "kid": "keisha",
-  "subject": "PABP Islam",
-  "grade": 4,
-  "source_pdf": "Adobe Scan Jun 09, 2026.pdf",
-  "generated_at": "2026-06-09T13:20:00.000000Z",
-  "title": "Keisha's PABP Islam Quest",
+  "subject": "Pendidikan Pancasila",
+  "grade": "Grade 5",
+  "source_pdf": "Latihan Soal Class Test Term 1 G5 - Pendidikan Pancasila (gotong royong, BPUPK/PPKI, Pancasila)",
+  "generated_at": "2026-09-05T00:00:00+07:00",
+  "title": "Keisha's Pancasila Quest",
   "character": "mage",
   "config": {
     "hero_hp": 5,
@@ -18,50 +18,442 @@
   "questions": [
     {
       "id": 1,
-      "domain": "surah_at_tin",
-      "text": "Surah At-Tin adalah surah yang ke berapa dalam Al-Qur'an?",
+      "domain": "gotong_royong",
+      "text": "Yang BUKAN termasuk gotong royong yang dilakukan di kabupaten adalah ___",
       "image": null,
       "options": {
-        "A": "90",
-        "B": "93",
-        "C": "95",
-        "D": "100"
+        "A": "Menanam pohon di pinggir jalan",
+        "B": "Membantu tetangga yang sedang ada hajatan",
+        "C": "Membantu memperbaiki rumah",
+        "D": "Membantu memperbaiki jembatan yang roboh"
       },
-      "answer": "C",
+      "answer": "A",
       "difficulty": "easy"
     },
     {
       "id": 2,
-      "domain": "surah_at_tin",
-      "text": "Surah At-Tin terdiri dari berapa ayat?",
+      "domain": "gotong_royong",
+      "text": "Gotong royong berupa memberikan uang atau makanan merupakan gotong royong dengan memberi ___",
       "image": null,
       "options": {
-        "A": "6",
-        "B": "7",
-        "C": "8",
-        "D": "10"
-      },
-      "answer": "C",
-      "difficulty": "easy"
-    },
-    {
-      "id": 3,
-      "domain": "surah_at_tin",
-      "text": "Surah At-Tin termasuk surah apa?",
-      "image": null,
-      "options": {
-        "A": "Madaniyah",
-        "B": "Makiyah",
-        "C": "Jahmiyah",
-        "D": "Basmalah"
+        "A": "Tenaga",
+        "B": "Barang",
+        "C": "Beban",
+        "D": "Ucapan"
       },
       "answer": "B",
       "difficulty": "easy"
     },
     {
+      "id": 3,
+      "domain": "gotong_royong",
+      "text": "Membantu memperbaiki jembatan yang roboh termasuk gotong royong tingkat ___",
+      "image": null,
+      "options": {
+        "A": "RT",
+        "B": "Keluarga",
+        "C": "Kabupaten",
+        "D": "Kelas"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
       "id": 4,
-      "domain": "surah_at_tin",
-      "text": "Nama surah At-Tin diambil dari kata At-Tin yang terdapat pada ayat ke berapa?",
+      "domain": "gotong_royong",
+      "text": "Membersihkan halaman kelas bersama-sama adalah contoh gotong royong di ___",
+      "image": null,
+      "options": {
+        "A": "Sekolah",
+        "B": "Desa",
+        "C": "Kabupaten",
+        "D": "Kota"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "domain": "gotong_royong",
+      "text": "Gotong royong mengajarkan kita untuk hidup ___",
+      "image": null,
+      "options": {
+        "A": "Egois",
+        "B": "Saling menolong",
+        "C": "Berdiam diri",
+        "D": "Bersaing"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "domain": "gotong_royong",
+      "text": "Contoh gotong royong memberi tenaga adalah ___",
+      "image": null,
+      "options": {
+        "A": "Memberi uang",
+        "B": "Menyumbang makanan",
+        "C": "Membersihkan selokan bersama",
+        "D": "Memberi baju"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "domain": "gotong_royong",
+      "text": "Gotong royong di tingkat RT biasanya dilakukan dengan cara ___",
+      "image": null,
+      "options": {
+        "A": "Kerja bakti",
+        "B": "Lomba",
+        "C": "Belanja",
+        "D": "Liburan"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "domain": "gotong_royong",
+      "text": "Manfaat terbesar gotong royong bagi masyarakat adalah pekerjaan berat menjadi ___",
+      "image": null,
+      "options": {
+        "A": "Lebih berat",
+        "B": "Lebih ringan",
+        "C": "Lebih mahal",
+        "D": "Lebih lama"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "domain": "gotong_royong",
+      "text": "Sikap yang harus dijaga saat gotong royong adalah ___",
+      "image": null,
+      "options": {
+        "A": "Memilih-milih pekerjaan",
+        "B": "Bekerja sungguh-sungguh",
+        "C": "Menunggu perintah",
+        "D": "Diam saja"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "domain": "gotong_royong",
+      "text": "Kerja bakti membersihkan lingkungan dilakukan oleh ___",
+      "image": null,
+      "options": {
+        "A": "Satu orang saja",
+        "B": "Warga bersama-sama",
+        "C": "Tetangga sebelah saja",
+        "D": "Petugas kebersihan saja"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "domain": "bpupk_ppki",
+      "text": "BPUPK singkatan dari ___",
+      "image": null,
+      "options": {
+        "A": "Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan",
+        "B": "Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia",
+        "C": "Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia",
+        "D": "Badan Penyelidikan Usaha Persiapan Kemerdekaan"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "domain": "bpupk_ppki",
+      "text": "Pancasila disahkan oleh PPKI pada tanggal ___",
+      "image": null,
+      "options": {
+        "A": "17 Agustus 1945",
+        "B": "18 Agustus 1945",
+        "C": "1 Juni 1945",
+        "D": "22 Juni 1945"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "domain": "bpupk_ppki",
+      "text": "Mengapa Jepang membentuk BPUPK? Untuk ___",
+      "image": null,
+      "options": {
+        "A": "Menarik simpati bangsa Indonesia",
+        "B": "Mengajari Indonesia berperang",
+        "C": "Menjajah Indonesia lagi",
+        "D": "Membuka sekolah baru"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "domain": "bpupk_ppki",
+      "text": "PPKI singkatan dari ___",
+      "image": null,
+      "options": {
+        "A": "Panitia Persiapan Kemerdekaan Indonesia",
+        "B": "Penyelidik Usaha Persiapan Kemerdekaan",
+        "C": "Badan Penyelidik Usaha-Usaha Persiapan",
+        "D": "Panitia Kecil Kemerdekaan Indonesia"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "domain": "bpupk_ppki",
+      "text": "BPUPK dibentuk oleh pemerintah pendudukan ___",
+      "image": null,
+      "options": {
+        "A": "Belanda",
+        "B": "Portugis",
+        "C": "Jepang",
+        "D": "Inggris"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 16,
+      "domain": "bpupk_ppki",
+      "text": "Tugas utama BPUPK adalah ___",
+      "image": null,
+      "options": {
+        "A": "Menyusun dasar negara Indonesia merdeka",
+        "B": "Memperbaiki jalan raya",
+        "C": "Membuat seragam sekolah",
+        "D": "Menghitung pajak"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "domain": "bpupk_ppki",
+      "text": "Setelah BPUPK dibubarkan, tugasnya melanjutkan penyusunan dasar negara diambil alih oleh ___",
+      "image": null,
+      "options": {
+        "A": "PPKI",
+        "B": "KNIP",
+        "C": "DPR",
+        "D": "BPK"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "domain": "bpupk_ppki",
+      "text": "Proklamasi kemerdekaan Indonesia dibacakan pada tanggal ___",
+      "image": null,
+      "options": {
+        "A": "18 Agustus 1945",
+        "B": "17 Agustus 1945",
+        "C": "1 Juni 1945",
+        "D": "10 November 1945"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "domain": "bpupk_ppki",
+      "text": "Pada tanggal 18 Agustus 1945, PPKI mengesahkan ___",
+      "image": null,
+      "options": {
+        "A": "UUD 1945 dan Pancasila",
+        "B": "Bendera merah",
+        "C": "Lagu Indonesia Raya",
+        "D": "Garuda Pancasila"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "domain": "bpupk_ppki",
+      "text": "Kemerdekaan Indonesia diproklamasikan oleh ___",
+      "image": null,
+      "options": {
+        "A": "Soekarno dan Mohammad Hatta",
+        "B": "Jenderal Sudirman",
+        "C": "Sutan Sjahrir",
+        "D": "Tan Malaka"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 21,
+      "domain": "pancasila_makna",
+      "text": "Kedudukan Pancasila sebagai kepribadian bangsa artinya ___",
+      "image": null,
+      "options": {
+        "A": "Identitas bangsa Indonesia yang tidak dimiliki negara manapun",
+        "B": "Pedoman bagi bangsa Indonesia",
+        "C": "Dasar utama kehidupan bernegara",
+        "D": "Sumber dari segala sumber hukum"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 22,
+      "domain": "pancasila_makna",
+      "text": "Makna 'Pancasila merupakan sumber dari segala sumber hukum di Indonesia' adalah ___",
+      "image": null,
+      "options": {
+        "A": "Pancasila ditulis di buku hukum",
+        "B": "Semua aturan dan peraturan di Indonesia bersumber dari Pancasila",
+        "C": "Pancasila dibuat oleh hakim",
+        "D": "Pancasila hanya berlaku di pengadilan"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "domain": "pancasila_makna",
+      "text": "Pancasila adalah dasar ___",
+      "image": null,
+      "options": {
+        "A": "Bermain",
+        "B": "Bernegara Republik Indonesia",
+        "C": "Berjualan",
+        "D": "Bercocok tanam"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "domain": "pancasila_makna",
+      "text": "Pancasila sebagai pedoman hidup berarti menjadi ___",
+      "image": null,
+      "options": {
+        "A": "Panduan dalam berperilaku sehari-hari",
+        "B": "Koleksi bacaan",
+        "C": "Lambang sekolah",
+        "D": "Nyanyian nasional"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "domain": "pancasila_makna",
+      "text": "Pancasila terdiri dari ___ sila",
+      "image": null,
+      "options": {
+        "A": "Tiga",
+        "B": "Empat",
+        "C": "Lima",
+        "D": "Enam"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "domain": "pancasila_makna",
+      "text": "Bunyi sila pertama Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Ketuhanan Yang Maha Esa",
+        "B": "Kemanusiaan yang Adil dan Beradab",
+        "C": "Persatuan Indonesia",
+        "D": "Keadilan sosial"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "domain": "pancasila_makna",
+      "text": "Bunyi sila ketiga Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Kerakyatan",
+        "B": "Persatuan Indonesia",
+        "C": "Keadilan sosial",
+        "D": "Kemanusiaan"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 28,
+      "domain": "pancasila_makna",
+      "text": "Sila kedua Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Ketuhanan Yang Maha Esa",
+        "B": "Persatuan Indonesia",
+        "C": "Kemanusiaan yang Adil dan Beradab",
+        "D": "Keadilan sosial bagi seluruh rakyat Indonesia"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 29,
+      "domain": "pancasila_makna",
+      "text": "Sila keempat Pancasila adalah Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam ___",
+      "image": null,
+      "options": {
+        "A": "Permusyawaratan/perwakilan",
+        "B": "Pertandingan",
+        "C": "Perjalanan",
+        "D": "Permainan"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "domain": "pancasila_makna",
+      "text": "Sila kelima Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Keadilan sosial bagi seluruh rakyat Indonesia",
+        "B": "Persatuan Indonesia",
+        "C": "Ketuhanan Yang Maha Esa",
+        "D": "Kemanusiaan yang adil"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 31,
+      "domain": "sila_nilai_penerapan",
+      "text": "Contoh penerapan sila pertama (Ketuhanan Yang Maha Esa) adalah ___",
+      "image": null,
+      "options": {
+        "A": "Berdoa setiap hari",
+        "B": "Menyumbang korban bencana",
+        "C": "Menabung",
+        "D": "Bermusyawarah"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 32,
+      "domain": "sila_nilai_penerapan",
+      "text": "Tidak mengganggu teman yang sedang berdoa adalah penerapan sila ke ___",
       "image": null,
       "options": {
         "A": "Pertama",
@@ -70,931 +462,539 @@
         "D": "Keempat"
       },
       "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 5,
-      "domain": "surah_at_tin",
-      "text": "Lafal 'وَالتِّيْنِ' memiliki arti...",
-      "image": null,
-      "options": {
-        "A": "Demi buah Tin",
-        "B": "Demi buah Zaitun",
-        "C": "Demi gunung Sinai",
-        "D": "Demi negeri yang aman"
-      },
-      "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 6,
-      "domain": "surah_at_tin",
-      "text": "Lafal 'فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُوْنٍ' — arti dari kata 'أَجْرٌ' yang digarisbawahi adalah...",
-      "image": null,
-      "options": {
-        "A": "Adil",
-        "B": "Buah",
-        "C": "Pahala",
-        "D": "Pembukaan"
-      },
-      "answer": "C",
-      "difficulty": "medium"
-    },
-    {
-      "id": 7,
-      "domain": "surah_at_tin",
-      "text": "Salah satu isi pesan pokok surah At-Tin adalah...",
-      "image": null,
-      "options": {
-        "A": "Manusia diciptakan dalam bentuk yang sempurna",
-        "B": "Matahari terbenam di timur",
-        "C": "Bulan lebih besar dari bumi",
-        "D": "Langit berwarna biru"
-      },
-      "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 8,
-      "domain": "surah_at_tin",
-      "text": "Manusia adalah makhluk yang diciptakan dalam bentuk yang paling...",
-      "image": null,
-      "options": {
-        "A": "Jelek",
-        "B": "Biasa",
-        "C": "Baik",
-        "D": "Asing"
-      },
-      "answer": "C",
       "difficulty": "easy"
-    },
-    {
-      "id": 9,
-      "domain": "surah_at_tin",
-      "text": "Ayat 1 surah At-Tin dimulai dengan sumpah 'Demi buah Tin dan buah...'",
-      "image": null,
-      "options": {
-        "A": "Apel",
-        "B": "Zaitun",
-        "C": "Mangga",
-        "D": "Jeruk"
-      },
-      "answer": "B",
-      "difficulty": "medium"
-    },
-    {
-      "id": 10,
-      "domain": "hadis_silaturahmi",
-      "text": "Salah satu isi pokok hadis tentang silaturahmi adalah...",
-      "image": null,
-      "options": {
-        "A": "Silaturahmi dapat memperpanjang umur",
-        "B": "Silaturahmi membuat hati menjadi keras",
-        "C": "Silaturahmi membuang waktu",
-        "D": "Silaturahmi tidak penting"
-      },
-      "answer": "A",
-      "difficulty": "easy"
-    },
-    {
-      "id": 11,
-      "domain": "hadis_silaturahmi",
-      "text": "Selain memperpanjang umur, isi pokok hadis silaturahmi yang lain adalah...",
-      "image": null,
-      "options": {
-        "A": "Memperbanyak musuh",
-        "B": "Memperluas rezeki",
-        "C": "Mengurangi teman",
-        "D": "Membuat sedih"
-      },
-      "answer": "B",
-      "difficulty": "medium"
-    },
-    {
-      "id": 12,
-      "domain": "hadis_silaturahmi",
-      "text": "Penerapan hadis silaturahmi dalam kehidupan sehari-hari yang paling tepat adalah...",
-      "image": null,
-      "options": {
-        "A": "Berkunjung dengan niat silaturahmi",
-        "B": "Menjauhi tetangga",
-        "C": "Tidak menyapa saudara",
-        "D": "Berbohong kepada keluarga"
-      },
-      "answer": "A",
-      "difficulty": "easy"
-    },
-    {
-      "id": 13,
-      "domain": "hadis_silaturahmi",
-      "text": "Berikut ini adalah penerapan hadis silaturahmi, kecuali...",
-      "image": null,
-      "options": {
-        "A": "Menjaga hubungan silaturahmi",
-        "B": "Menyambung tali persaudaraan",
-        "C": "Menghindari saudara yang membutuhkan",
-        "D": "Berkunjung ke rumah kerabat"
-      },
-      "answer": "C",
-      "difficulty": "medium"
-    },
-    {
-      "id": 14,
-      "domain": "hadis_silaturahmi",
-      "text": "Salah satu hikmah silaturahmi adalah...",
-      "image": null,
-      "options": {
-        "A": "Memperkuat tali persaudaraan",
-        "B": "Memutus tali keluarga",
-        "C": "Mendapat musuh baru",
-        "D": "Menghilangkan rezeki"
-      },
-      "answer": "A",
-      "difficulty": "easy"
-    },
-    {
-      "id": 15,
-      "domain": "hadis_silaturahmi",
-      "text": "Hikmah silaturahmi yang lain adalah...",
-      "image": null,
-      "options": {
-        "A": "Mendapat masalah",
-        "B": "Mendapatkan rahmat",
-        "C": "Mendapat kesusahan",
-        "D": "Mendapat penyakit"
-      },
-      "answer": "B",
-      "difficulty": "medium"
-    },
-    {
-      "id": 16,
-      "domain": "hadis_silaturahmi",
-      "text": "Sikap yang bertentangan dengan nilai silaturahmi adalah...",
-      "image": null,
-      "options": {
-        "A": "Saling mengunjungi",
-        "B": "Berbagi rezeki",
-        "C": "Memutus hubungan dengan keluarga",
-        "D": "Mendoakan saudara"
-      },
-      "answer": "C",
-      "difficulty": "hard"
-    },
-    {
-      "id": 17,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Apa yang dimaksud dengan izhar dalam hukum tajwid?",
-      "image": null,
-      "options": {
-        "A": "Jelas",
-        "B": "Buram",
-        "C": "Berbayang",
-        "D": "Samar"
-      },
-      "answer": "A",
-      "difficulty": "easy"
-    },
-    {
-      "id": 18,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Idgham artinya adalah...",
-      "image": null,
-      "options": {
-        "A": "Mendengung",
-        "B": "Memasukkan",
-        "C": "Menyembunyikan",
-        "D": "Menjelaskan"
-      },
-      "answer": "B",
-      "difficulty": "easy"
-    },
-    {
-      "id": 19,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Ikhfa artinya adalah...",
-      "image": null,
-      "options": {
-        "A": "Memasukkan",
-        "B": "Mendengung",
-        "C": "Menyamakan",
-        "D": "Mengubah"
-      },
-      "answer": "B",
-      "difficulty": "easy"
-    },
-    {
-      "id": 20,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Iqlab artinya adalah...",
-      "image": null,
-      "options": {
-        "A": "Mendengung",
-        "B": "Nunsukun",
-        "C": "Memasukkan",
-        "D": "Menjelaskan"
-      },
-      "answer": "B",
-      "difficulty": "easy"
-    },
-    {
-      "id": 21,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Ketika nun sukun atau tanwin bertemu dengan huruf 'ب' (ba), maka disebut...",
-      "image": null,
-      "options": {
-        "A": "Izhar",
-        "B": "Iqlab",
-        "C": "Idgham",
-        "D": "Ikhfa"
-      },
-      "answer": "B",
-      "difficulty": "medium"
-    },
-    {
-      "id": 22,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Huruf 'ك' (kaf) termasuk dalam hukum tajwid...",
-      "image": null,
-      "options": {
-        "A": "Izhar",
-        "B": "Ikhfa",
-        "C": "Idgham",
-        "D": "Iqlab"
-      },
-      "answer": "B",
-      "difficulty": "hard"
-    },
-    {
-      "id": 23,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Yang termasuk huruf-huruf ikhfa adalah...",
-      "image": null,
-      "options": {
-        "A": "fa, kaf, tsa, sin",
-        "B": "alif, ba, ta, tsa",
-        "C": "jim, dal, ra, za",
-        "D": "mim, nun, waw, ya"
-      },
-      "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 24,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Huruf 'ث' (tsa) termasuk dalam hukum bacaan...",
-      "image": null,
-      "options": {
-        "A": "Izhar",
-        "B": "Ikhfa",
-        "C": "Idgham",
-        "D": "Iqlab"
-      },
-      "answer": "B",
-      "difficulty": "medium"
-    },
-    {
-      "id": 25,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Contoh penerapan izhar adalah ketika nun sukun bertemu huruf...",
-      "image": null,
-      "options": {
-        "A": "Ba",
-        "B": "Kaf",
-        "C": "Jim",
-        "D": "Lam"
-      },
-      "answer": "C",
-      "difficulty": "hard"
-    },
-    {
-      "id": 26,
-      "domain": "tajwid_izhar_idgham_ikhfa_iqlab",
-      "text": "Manakah yang merupakan huruf ikhfa dari daftar berikut?",
-      "image": null,
-      "options": {
-        "A": "Ba",
-        "B": "Kaf",
-        "C": "Dal",
-        "D": "Jim"
-      },
-      "answer": "B",
-      "difficulty": "hard"
-    },
-    {
-      "id": 27,
-      "domain": "nabi_rasul_sifat",
-      "text": "Perbedaan nabi dan rasul adalah...",
-      "image": null,
-      "options": {
-        "A": "Nabi tidak diberi kitab, rasul diberi kitab",
-        "B": "Nabi dan rasul sama saja",
-        "C": "Nabi lebih utama dari rasul",
-        "D": "Rasul tidak menerima wahyu"
-      },
-      "answer": "A",
-      "difficulty": "easy"
-    },
-    {
-      "id": 28,
-      "domain": "nabi_rasul_sifat",
-      "text": "Rasul ululazmi adalah rasul yang memiliki kesabaran yang...",
-      "image": null,
-      "options": {
-        "A": "Biasa",
-        "B": "Luar biasa",
-        "C": "Sedikit",
-        "D": "Tidak ada"
-      },
-      "answer": "B",
-      "difficulty": "easy"
-    },
-    {
-      "id": 29,
-      "domain": "nabi_rasul_sifat",
-      "text": "Yang termasuk rasul ululazmi adalah...",
-      "image": null,
-      "options": {
-        "A": "Nabi Nuh, Nabi Ibrahim, Nabi Musa, Nabi Isa, Nabi Muhammad",
-        "B": "Nabi Adam, Nabi Idris, Nabi Hud, Nabi Shaleh, Nabi Luth",
-        "C": "Nabi Yunus, Nabi Ayyub, Nabi Dzulkifli, Nabi Harun, Nabi Sulaiman",
-        "D": "Nabi Daud, Nabi Zakaria, Nabi Yahya, Nabi Ismail, Nabi Ishaq"
-      },
-      "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 30,
-      "domain": "nabi_rasul_sifat",
-      "text": "Yang TIDAK termasuk rasul ululazmi ialah...",
-      "image": null,
-      "options": {
-        "A": "Nabi Nuh",
-        "B": "Nabi Ibrahim",
-        "C": "Nabi Ismail",
-        "D": "Nabi Isa"
-      },
-      "answer": "C",
-      "difficulty": "medium"
-    },
-    {
-      "id": 31,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat wajib rasul yang artinya 'jujur' adalah...",
-      "image": null,
-      "options": {
-        "A": "Amanah",
-        "B": "Tablig",
-        "C": "Sidik",
-        "D": "Fatanah"
-      },
-      "answer": "C",
-      "difficulty": "medium"
-    },
-    {
-      "id": 32,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat wajib rasul yang artinya 'dapat dipercaya' adalah...",
-      "image": null,
-      "options": {
-        "A": "Sidik",
-        "B": "Amanah",
-        "C": "Tablig",
-        "D": "Fatanah"
-      },
-      "answer": "B",
-      "difficulty": "medium"
     },
     {
       "id": 33,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat wajib rasul yang artinya 'menyampaikan' adalah...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Membantu teman dan memberi sumbangan kepada korban bencana alam adalah penerapan sila ke ___",
       "image": null,
       "options": {
-        "A": "Sidik",
-        "B": "Amanah",
-        "C": "Tablig",
-        "D": "Fatanah"
+        "A": "Pertama",
+        "B": "Kedua",
+        "C": "Keempat",
+        "D": "Kelima"
       },
-      "answer": "C",
-      "difficulty": "medium"
+      "answer": "B",
+      "difficulty": "easy"
     },
     {
       "id": 34,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat wajib rasul yang artinya 'cerdas' adalah...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Nilai sila kedua Pancasila adalah ___",
       "image": null,
       "options": {
-        "A": "Sidik",
-        "B": "Amanah",
-        "C": "Tablig",
-        "D": "Fatanah"
+        "A": "Ketuhanan",
+        "B": "Kemanusiaan",
+        "C": "Persatuan",
+        "D": "Keadilan"
       },
-      "answer": "D",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
       "id": 35,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat mustahil rasul 'Kitman' artinya...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Menyanyi lagu daerah dan menghargai perbedaan adalah penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Bohong",
-        "B": "Bodoh",
-        "C": "Menyembunyikan",
-        "D": "Berkhianat"
-      },
-      "answer": "C",
-      "difficulty": "hard"
-    },
-    {
-      "id": 36,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat mustahil rasul 'Kizib' artinya...",
-      "image": null,
-      "options": {
-        "A": "Bohong",
-        "B": "Bodoh",
-        "C": "Menyembunyikan",
-        "D": "Berkhianat"
-      },
-      "answer": "A",
-      "difficulty": "hard"
-    },
-    {
-      "id": 37,
-      "domain": "nabi_rasul_sifat",
-      "text": "Sifat mustahil rasul 'Baladah' artinya...",
-      "image": null,
-      "options": {
-        "A": "Bohong",
-        "B": "Bodoh",
-        "C": "Menyembunyikan",
-        "D": "Berkhianat"
-      },
-      "answer": "B",
-      "difficulty": "hard"
-    },
-    {
-      "id": 38,
-      "domain": "nabi_rasul_sifat",
-      "text": "Iman kepada rasul termasuk rukun iman yang ke...",
-      "image": null,
-      "options": {
-        "A": "Kedua",
-        "B": "Ketiga",
-        "C": "Keempat",
+        "A": "Pertama",
+        "B": "Kedua",
+        "C": "Ketiga (Persatuan Indonesia)",
         "D": "Kelima"
       },
       "answer": "C",
       "difficulty": "medium"
     },
     {
-      "id": 39,
-      "domain": "iman_nabi_rasul_penerapan",
-      "text": "Salah satu tujuan diutusnya para rasul adalah...",
+      "id": 36,
+      "domain": "sila_nilai_penerapan",
+      "text": "Bermusyawarah untuk menyelesaikan masalah adalah penerapan sila ke ___",
       "image": null,
       "options": {
-        "A": "Menyampaikan wahyu kepada umatnya",
-        "B": "Mengumpulkan harta sebanyak-banyaknya",
-        "C": "Mendapatkan keturunan banyak",
-        "D": "Mendirikan kerajaan besar"
-      },
-      "answer": "A",
-      "difficulty": "easy"
-    },
-    {
-      "id": 40,
-      "domain": "iman_nabi_rasul_penerapan",
-      "text": "Tujuan diutusnya para rasul yang lain adalah...",
-      "image": null,
-      "options": {
-        "A": "Menyempurnakan akhlak",
-        "B": "Membuat manusia saling bermusuhan",
-        "C": "Menghilangkan akhlak",
-        "D": "Membuat manusia lupa"
+        "A": "Keempat (Kerakyatan)",
+        "B": "Pertama",
+        "C": "Ketiga",
+        "D": "Kelima"
       },
       "answer": "A",
       "difficulty": "medium"
     },
     {
-      "id": 41,
-      "domain": "iman_nabi_rasul_penerapan",
-      "text": "Penerapan iman kepada nabi dan rasul dalam kehidupan sehari-hari adalah...",
+      "id": 37,
+      "domain": "sila_nilai_penerapan",
+      "text": "Mendengarkan orang lain saat mengemukakan ide adalah penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Meneladani ketaatan para rasul",
-        "B": "Mengabaikan nasihat rasul",
-        "C": "Menolak ajaran rasul",
-        "D": "Melanggar perintah rasul"
+        "A": "Kelima",
+        "B": "Keempat",
+        "C": "Kedua",
+        "D": "Pertama"
       },
-      "answer": "A",
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "domain": "sila_nilai_penerapan",
+      "text": "Menabung uang di celengan dan semua mendapat hak yang sama adalah penerapan sila ___",
+      "image": null,
+      "options": {
+        "A": "Ketiga",
+        "B": "Keempat",
+        "C": "Kelima (Keadilan sosial)",
+        "D": "Pertama"
+      },
+      "answer": "C",
       "difficulty": "easy"
     },
     {
-      "id": 42,
-      "domain": "iman_nabi_rasul_penerapan",
-      "text": "Salah satu penerapan iman kepada nabi dalam sehari-hari adalah...",
+      "id": 39,
+      "domain": "sila_nilai_penerapan",
+      "text": "Nilai sila kelima Pancasila adalah ___",
       "image": null,
       "options": {
-        "A": "Melupakan ajaran rasul",
-        "B": "Meneladani pelajaran yang disampaikan rasul",
-        "C": "Membantah perintah rasul",
-        "D": "Menolak dakwah rasul"
+        "A": "Kerakyatan",
+        "B": "Keadilan",
+        "C": "Kemanusiaan",
+        "D": "Persatuan"
       },
       "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 40,
+      "domain": "sila_nilai_penerapan",
+      "text": "Rani beribadah bersama keluarganya pada hari Minggu, sedangkan tetangganya beribadah hari Jumat. Sikap Rani dan tetangganya mencerminkan penerapan sila ___",
+      "image": null,
+      "options": {
+        "A": "Pertama dan ketiga",
+        "B": "Kedua dan keempat",
+        "C": "Ketiga dan kelima",
+        "D": "Keempat dan kelima"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 41,
+      "domain": "sila_nilai_penerapan",
+      "text": "Sikap yang dapat kita contoh dari para perumus Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Rela berkorban dan mencintai tanah air",
+        "B": "Sering mengeluh",
+        "C": "Mudah menyerah",
+        "D": "Mementingkan diri sendiri"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "domain": "sila_nilai_penerapan",
+      "text": "Mementingkan kepentingan bersama di atas kepentingan pribadi mencerminkan sikap para perumus Pancasila. Contohnya adalah ___",
+      "image": null,
+      "options": {
+        "A": "Mengerjakan tugas kelompok bersama",
+        "B": "Menyimpan bekal sendiri",
+        "C": "Pulang cepat tanpa pamit",
+        "D": "Menolak berdiskusi"
+      },
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 43,
-      "domain": "iman_nabi_rasul_penerapan",
-      "text": "Jumlah rasul dan nabi Allah yang wajib kita imani ada...",
+      "domain": "pancasila_terapan_situasi",
+      "text": "Saat pemilihan ketua kelas, setiap anak boleh menyampaikan pendapat dan memilih secara bebas. Ini penerapan sila ke ___",
       "image": null,
       "options": {
-        "A": "10",
-        "B": "20",
-        "C": "25",
-        "D": "30"
+        "A": "Keempat",
+        "B": "Pertama",
+        "C": "Kedua",
+        "D": "Kelima"
       },
-      "answer": "C",
-      "difficulty": "medium"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 44,
-      "domain": "iman_nabi_rasul_penerapan",
-      "text": "Nabi terakhir yang diutus oleh Allah adalah Nabi...",
+      "domain": "pancasila_terapan_situasi",
+      "text": "Kelas 5A memiliki teman baru yang berbeda agama. Mereka tetap berteman dan bekerja sama. Ini mencerminkan sila ___",
       "image": null,
       "options": {
-        "A": "Isa",
-        "B": "Ibrahim",
-        "C": "Musa",
-        "D": "Muhammad"
+        "A": "Pertama dan ketiga",
+        "B": "Kedua saja",
+        "C": "Keempat saja",
+        "D": "Kelima saja"
       },
-      "answer": "D",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 45,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Hukum shalat Jum'at bagi laki-laki muslim yang sudah baligh, berakal, dan tidak ada uzur adalah...",
+      "domain": "gotong_royong",
+      "text": "Perbedaan gotong royong tingkat kota dan kabupaten: menanam pohon di pinggir jalan biasanya dilakukan di lingkungan ___",
       "image": null,
       "options": {
-        "A": "Makruh",
-        "B": "Fardu ain",
-        "C": "Haram",
-        "D": "Sunah muakad"
+        "A": "Kota",
+        "B": "Sawah",
+        "C": "Gunung",
+        "D": "Laut"
       },
-      "answer": "B",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 46,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Dalil kewajiban shalat Jum'at terdapat dalam surah...",
+      "domain": "gotong_royong",
+      "text": "Hajatan tetangga diberi bantuan berupa makanan oleh warga. Bentuk gotong royong ini adalah memberi ___",
       "image": null,
       "options": {
-        "A": "Al-Baqarah ayat 183",
-        "B": "Al-Jumu'ah ayat 9",
-        "C": "Al-Ikhlas ayat 2",
-        "D": "An-Nas ayat 1"
+        "A": "Barang",
+        "B": "Tenaga",
+        "C": "Cuma-cuma",
+        "D": "Pinjaman"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 47,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Berikut yang BUKAN termasuk syarat wajib shalat Jum'at adalah...",
+      "domain": "gotong_royong",
+      "text": "Gotong royong membuat hidup kita menjadi lebih ___",
       "image": null,
       "options": {
-        "A": "Islam",
-        "B": "Laki-laki",
-        "C": "Baligh",
-        "D": "Sehat jasmani"
+        "A": "Sulit",
+        "B": "Harmonis",
+        "C": "Sibuk",
+        "D": "Mahal"
       },
-      "answer": "D",
-      "difficulty": "medium"
+      "answer": "B",
+      "difficulty": "easy"
     },
     {
       "id": 48,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Seseorang tidak wajib melaksanakan shalat Jum'at apabila...",
+      "domain": "gotong_royong",
+      "text": "Gotong royong juga bisa dilakukan di sekolah, contohnya ___",
       "image": null,
       "options": {
-        "A": "Laki-laki dewasa",
-        "B": "Sedang bepergian (safar)",
-        "C": "Tinggal di desa",
-        "D": "Sudah baligh"
+        "A": "Membersihkan kelas bersama",
+        "B": "Membeli jajan",
+        "C": "Bermain sendiri",
+        "D": "Membawa buku"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 49,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Orang yang berkhotbah pada shalat Jum'at disebut dengan...",
+      "domain": "bpupk_ppki",
+      "text": "Sidang pertama BPUPK membahas ___",
       "image": null,
       "options": {
-        "A": "Imam",
-        "B": "Makmum",
-        "C": "Khatib",
-        "D": "Bilal"
+        "A": "Dasar negara Indonesia merdeka",
+        "B": "Rencana serangan militer",
+        "C": "Pembagian wilayah",
+        "D": "Pemilihan presiden"
       },
-      "answer": "C",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 50,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Berikut ini yang termasuk rukun khotbah adalah...",
+      "domain": "bpupk_ppki",
+      "text": "Tanggal 18 Agustus 1945 adalah hari penting karena ___",
       "image": null,
       "options": {
-        "A": "Memuji Allah",
-        "B": "Menyanyi bersama",
-        "C": "Menari di mimbar",
-        "D": "Tidur di masjid"
+        "A": "Pancasila disahkan",
+        "B": "Proklamasi dibacakan",
+        "C": "BPUPK dibentuk",
+        "D": "Soekarno wafat"
       },
       "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 51,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Jumlah rakaat shalat Jum'at berjumlah...",
+      "domain": "pancasila_makna",
+      "text": "Jika ada aturan baru dibuat pemerintah, aturan itu tidak boleh bertentangan dengan ___",
       "image": null,
       "options": {
-        "A": "2 rakaat",
-        "B": "3 rakaat",
-        "C": "4 rakaat",
-        "D": "5 rakaat"
+        "A": "Pancasila",
+        "B": "Lagu nasional",
+        "C": "Bendera",
+        "D": "Tanggal merah"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 52,
+      "domain": "pancasila_makna",
+      "text": "Lambang sila pertama Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Bintang",
+        "B": "Rantai",
+        "C": "Pohon beringin",
+        "D": "Padi dan kapas"
       },
       "answer": "A",
       "difficulty": "easy"
     },
     {
-      "id": 52,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Shalat Jum'at didahului oleh...",
+      "id": 53,
+      "domain": "pancasila_makna",
+      "text": "Lambang sila ketiga Pancasila adalah ___",
       "image": null,
       "options": {
-        "A": "1 khotbah",
-        "B": "2 khotbah",
-        "C": "3 khotbah",
-        "D": "Tidak ada khotbah"
+        "A": "Bintang",
+        "B": "Pohon beringin",
+        "C": "Kepala banteng",
+        "D": "Padi dan kapas"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 54,
+      "domain": "pancasila_makna",
+      "text": "Lambang sila kelima Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Bintang",
+        "B": "Rantai",
+        "C": "Kepala banteng",
+        "D": "Padi dan kapas"
+      },
+      "answer": "D",
+      "difficulty": "medium"
+    },
+    {
+      "id": 55,
+      "domain": "pancasila_makna",
+      "text": "Lambang sila kedua Pancasila adalah ___",
+      "image": null,
+      "options": {
+        "A": "Bintang",
+        "B": "Rantai",
+        "C": "Pohon beringin",
+        "D": "Padi dan kapas"
       },
       "answer": "B",
       "difficulty": "easy"
     },
     {
-      "id": 53,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Sunnah shalat Jum'at yang utama adalah...",
+      "id": 56,
+      "domain": "pancasila_makna",
+      "text": "Lambang sila keempat Pancasila adalah ___",
       "image": null,
       "options": {
-        "A": "Mandi",
-        "B": "Tidur siang",
-        "C": "Bermain game",
-        "D": "Menonton TV"
+        "A": "Kepala banteng",
+        "B": "Rantai",
+        "C": "Bintang",
+        "D": "Pohon beringin"
       },
       "answer": "A",
       "difficulty": "medium"
     },
     {
-      "id": 54,
-      "domain": "shalat_jumat_hukum_syarat",
-      "text": "Makmum masbuk yang tertinggal satu rakaat shalat Jum'at harus...",
-      "image": null,
-      "options": {
-        "A": "Membatalkan shalat",
-        "B": "Menambah satu rakaat setelah imam salam",
-        "C": "Pulang dan mengulang",
-        "D": "Mengganti di hari Sabtu"
-      },
-      "answer": "B",
-      "difficulty": "hard"
-    },
-    {
-      "id": 55,
-      "domain": "adab_guru_siswa",
-      "text": "Saat pelajaran berlangsung dan teman mengajak mengobrol, sikap terbaik kita adalah...",
-      "image": null,
-      "options": {
-        "A": "Ikut mengobrol karena sudah paham",
-        "B": "Mengabaikan guru",
-        "C": "Tetap fokus dan menghargai guru",
-        "D": "Keluar kelas diam-diam"
-      },
-      "answer": "C",
-      "difficulty": "easy"
-    },
-    {
-      "id": 56,
-      "domain": "adab_guru_siswa",
-      "text": "Jika tidak setuju dengan penjelasan guru, sikap yang tepat adalah...",
-      "image": null,
-      "options": {
-        "A": "Membantah dengan keras",
-        "B": "Diam saja tanpa hormat",
-        "C": "Menyampaikan dengan sopan dan santun",
-        "D": "Mengajak teman menolak"
-      },
-      "answer": "C",
-      "difficulty": "easy"
-    },
-    {
       "id": 57,
-      "domain": "adab_guru_siswa",
-      "text": "Hadis tentang menghormati orang yang mengajarkan ilmu menunjukkan bahwa...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Jika teman berbeda agama sedang beribadah, sikap kita adalah ___",
       "image": null,
       "options": {
-        "A": "Guru tidak perlu dihormati",
-        "B": "Guru memiliki kedudukan mulia",
-        "C": "Guru hanya teman biasa",
-        "D": "Guru harus ditakuti"
+        "A": "Mengganggunya",
+        "B": "Menghormati dan tidak mengganggu",
+        "C": "Mengajak bermain",
+        "D": "Menertawakannya"
       },
       "answer": "B",
       "difficulty": "medium"
     },
     {
       "id": 58,
-      "domain": "adab_guru_siswa",
-      "text": "Membantu guru membawa buku tanpa diminta menunjukkan perilaku...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Warga menggalang dana untuk korban banjir. Tindakan ini sesuai sila ___",
       "image": null,
       "options": {
-        "A": "Ingin dipuji",
-        "B": "Sikap berlebihan",
-        "C": "Akhlak terpuji kepada guru",
-        "D": "Membebani diri"
-      },
-      "answer": "C",
-      "difficulty": "medium"
-    },
-    {
-      "id": 59,
-      "domain": "adab_guru_siswa",
-      "text": "Salah satu cara berbakti kepada guru adalah...",
-      "image": null,
-      "options": {
-        "A": "Bersikap sombong",
-        "B": "Bersikap sopan",
-        "C": "Memotong pembicaraan guru",
-        "D": "Melawan nasihat guru"
-      },
-      "answer": "B",
-      "difficulty": "easy"
-    },
-    {
-      "id": 60,
-      "domain": "adab_guru_siswa",
-      "text": "Cara berbakti kepada guru yang lain adalah...",
-      "image": null,
-      "options": {
-        "A": "Senantiasa bersikap rendah hati",
-        "B": "Membantah pendapat guru",
-        "C": "Mengabaikan nasihat guru",
-        "D": "Tidak memberi salam"
+        "A": "Kedua",
+        "B": "Keempat",
+        "C": "Pertama",
+        "D": "Ketiga"
       },
       "answer": "A",
       "difficulty": "medium"
     },
     {
-      "id": 61,
-      "domain": "adab_guru_siswa",
-      "text": "Manfaat berbakti kepada guru adalah...",
+      "id": 59,
+      "domain": "sila_nilai_penerapan",
+      "text": "Saat piket kelas, semua anak mengerjakan tugasnya tanpa disuruh. Ini mencerminkan sikap ___",
       "image": null,
       "options": {
-        "A": "Guru marah kepada kita",
-        "B": "Kita mendapat pahala",
-        "C": "Dikeluarkan dari sekolah",
-        "D": "Tidak punya teman"
+        "A": "Tanggung jawab",
+        "B": "Egois",
+        "C": "Malas",
+        "D": "Sombong"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 60,
+      "domain": "gotong_royong",
+      "text": "Semangat gotong royong bangsa Indonesia terwujud dalam sila ke ___",
+      "image": null,
+      "options": {
+        "A": "Pertama",
+        "B": "Ketiga",
+        "C": "Keempat",
+        "D": "Kelima"
       },
       "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 61,
+      "domain": "gotong_royong",
+      "text": "Gotong royong mencerminkan pengorbanan ___ demi kepentingan bersama",
+      "image": null,
+      "options": {
+        "A": "Waktu dan tenaga",
+        "B": "Uang saja",
+        "C": "Harta saja",
+        "D": "Barang saja"
+      },
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 62,
-      "domain": "adab_guru_siswa",
-      "text": "Saat bertemu guru di jalan, sikap yang Islami adalah...",
+      "domain": "gotong_royong",
+      "text": "Kampung kita tergenang banjir. Contoh gotong royong yang paling tepat adalah ___",
       "image": null,
       "options": {
-        "A": "Berlari menjauh",
-        "B": "Beri salam kepada guru dengan sopan",
-        "C": "Diam dan pura-pura tidak lihat",
-        "D": "Menyembunyikan diri"
+        "A": "Warga bersama-sama membersihkan saluran air",
+        "B": "Menunggu bantuan saja",
+        "C": "Pindah rumah",
+        "D": "Menyalahkan tetangga"
       },
-      "answer": "B",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 63,
-      "domain": "doa_masjid",
-      "text": "Lafal doa masuk masjid adalah...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Sebelum memulai pelajaran, siswa berdoa bersama sesuai agama masing-masing. Ini penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Bismillahirrahmanirrahim",
-        "B": "Allahumaghfirlii waftahlii abwaaba rohmatika",
-        "C": "Subhanallah",
-        "D": "Allahu Akbar"
+        "A": "Pertama",
+        "B": "Kedua",
+        "C": "Ketiga",
+        "D": "Kelima"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 64,
-      "domain": "doa_masjid",
-      "text": "Arti doa masuk masjid 'Allahumaghfirlii waftahlii abwaaba rohmatika' adalah...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Ketua kelompok meminta pendapat semua anggota sebelum mengerjakan tugas. Ini penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Ya Allah, ampunilah aku",
-        "B": "Ya Allah, ampunilah aku dan bukakanlah untukku pintu-pintu rahmat-Mu",
-        "C": "Ya Allah, berilah aku rezeki",
-        "D": "Ya Allah, jagalah aku"
+        "A": "Keempat",
+        "B": "Pertama",
+        "C": "Kedua",
+        "D": "Kelima"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "hard"
     },
     {
       "id": 65,
-      "domain": "doa_masjid",
-      "text": "Lafal doa keluar masjid adalah...",
+      "domain": "sila_nilai_penerapan",
+      "text": "Berkas buku sekolah dibagikan sama rata ke semua siswa. Ini penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Bismillahirrahmanirrahim",
-        "B": "Allahumaghfirlii waftahlii abwaaba faddlika",
-        "C": "Subhanallah",
-        "D": "Allahu Akbar"
+        "A": "Kelima",
+        "B": "Ketiga",
+        "C": "Kedua",
+        "D": "Pertama"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 66,
-      "domain": "doa_masjid",
-      "text": "Perbedaan doa masuk dan keluar masjid adalah pada kata...",
+      "domain": "pancasila_makna",
+      "text": "Sila-sila Pancasila tercantum dalam ___",
       "image": null,
       "options": {
-        "A": "Allahumaghfirlii",
-        "B": "abwaaba",
-        "C": "rohmatika/faddlika",
-        "D": "waftahlii"
+        "A": "Pembukaan UUD 1945",
+        "B": "Halaman buku tulis",
+        "C": "Lagu kebangsaan",
+        "D": "Poster sekolah"
       },
-      "answer": "C",
-      "difficulty": "hard"
+      "answer": "A",
+      "difficulty": "medium"
     },
     {
       "id": 67,
-      "domain": "hijrah_nabi",
-      "text": "Sikap Kafir Quraisy kepada Nabi Muhammad sebelum hijrah adalah...",
+      "domain": "bpupk_ppki",
+      "text": "Rancangan dasar negara hasil sidang BPUPK dikenal dengan nama ___",
       "image": null,
       "options": {
-        "A": "Ramah dan baik",
-        "B": "Kasar kepada Nabi",
-        "C": "Membantu dakwah Nabi",
-        "D": "Diam saja"
+        "A": "Pancasila",
+        "B": "Piagam Jakarta",
+        "C": "UUD 1945",
+        "D": "Sumpah Pemuda"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 68,
-      "domain": "hijrah_nabi",
-      "text": "Nabi Muhammad ingin melakukan...",
+      "domain": "bpupk_ppki",
+      "text": "Pancasila dijadikan dasar negara secara resmi melalui sidang ___",
       "image": null,
       "options": {
-        "A": "Perjalanan jauh",
-        "B": "Dakwah",
-        "C": "Perdagangan",
-        "D": "Pernikahan"
+        "A": "PPKI",
+        "B": "BPUPK",
+        "C": "KNIP",
+        "D": "MPR"
       },
-      "answer": "B",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 69,
-      "domain": "hijrah_nabi",
-      "text": "Yang membantu Nabi Muhammad dalam berdakwah adalah...",
+      "domain": "pancasila_terapan_situasi",
+      "text": "Ada teman baru di kelas yang kesusahan memahami pelajaran. Sikap yang sesuai sila kedua adalah ___",
       "image": null,
       "options": {
-        "A": "Musuhnya",
-        "B": "Kafir Quraisy",
-        "C": "Teman-temannya",
-        "D": "Orang asing"
+        "A": "Membantunya memahami pelajaran",
+        "B": "Membiarkannya",
+        "C": "Menertawakannya",
+        "D": "Menjauhinya"
       },
-      "answer": "C",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     },
     {
       "id": 70,
-      "domain": "hijrah_nabi",
-      "text": "Hasil dari dakwah Nabi Muhammad SAW adalah...",
+      "domain": "pancasila_terapan_situasi",
+      "text": "Dua teman berebut mainan. Untuk menyelesaikan masalah sesuai sila keempat, mereka sebaiknya ___",
       "image": null,
       "options": {
-        "A": "Nabi gagal",
-        "B": "Nabi berhasil",
-        "C": "Nabi menyerah",
-        "D": "Nabi pergi selamanya"
+        "A": "Bermusyawarah dan bergantian",
+        "B": "Berebut sampai menang",
+        "C": "Meminta guru memarahi",
+        "D": "Membawa pulang mainannya"
       },
-      "answer": "B",
-      "difficulty": "easy"
+      "answer": "A",
+      "difficulty": "hard"
     }
   ]
 }
