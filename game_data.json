@@ -22,12 +22,12 @@
       "text": "Yang BUKAN termasuk gotong royong yang dilakukan di kabupaten adalah ___",
       "image": null,
       "options": {
-        "A": "Menanam pohon di pinggir jalan",
-        "B": "Membantu tetangga yang sedang ada hajatan",
-        "C": "Membantu memperbaiki rumah",
+        "A": "Membantu tetangga yang sedang ada hajatan",
+        "B": "Membantu memperbaiki rumah",
+        "C": "Menanam pohon di pinggir jalan",
         "D": "Membantu memperbaiki jembatan yang roboh"
       },
-      "answer": "A",
+      "answer": "C",
       "difficulty": "easy"
     },
     {
@@ -36,12 +36,12 @@
       "text": "Gotong royong berupa memberikan uang atau makanan merupakan gotong royong dengan memberi ___",
       "image": null,
       "options": {
-        "A": "Tenaga",
-        "B": "Barang",
-        "C": "Beban",
+        "A": "Beban",
+        "B": "Tenaga",
+        "C": "Barang",
         "D": "Ucapan"
       },
-      "answer": "B",
+      "answer": "C",
       "difficulty": "easy"
     },
     {
@@ -50,12 +50,12 @@
       "text": "Membantu memperbaiki jembatan yang roboh termasuk gotong royong tingkat ___",
       "image": null,
       "options": {
-        "A": "RT",
-        "B": "Keluarga",
-        "C": "Kabupaten",
-        "D": "Kelas"
+        "A": "Kelas",
+        "B": "RT",
+        "C": "Keluarga",
+        "D": "Kabupaten"
       },
-      "answer": "C",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -64,12 +64,12 @@
       "text": "Membersihkan halaman kelas bersama-sama adalah contoh gotong royong di ___",
       "image": null,
       "options": {
-        "A": "Sekolah",
-        "B": "Desa",
-        "C": "Kabupaten",
+        "A": "Kabupaten",
+        "B": "Sekolah",
+        "C": "Desa",
         "D": "Kota"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
@@ -78,12 +78,12 @@
       "text": "Gotong royong mengajarkan kita untuk hidup ___",
       "image": null,
       "options": {
-        "A": "Egois",
-        "B": "Saling menolong",
-        "C": "Berdiam diri",
-        "D": "Bersaing"
+        "A": "Berdiam diri",
+        "B": "Bersaing",
+        "C": "Saling menolong",
+        "D": "Egois"
       },
-      "answer": "B",
+      "answer": "C",
       "difficulty": "easy"
     },
     {
@@ -94,24 +94,24 @@
       "options": {
         "A": "Memberi uang",
         "B": "Menyumbang makanan",
-        "C": "Membersihkan selokan bersama",
-        "D": "Memberi baju"
+        "C": "Memberi baju",
+        "D": "Membersihkan selokan bersama"
       },
-      "answer": "C",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
       "id": 7,
       "domain": "gotong_royong",
-      "text": "Gotong royong di tingkat RT biasanya dilakukan dengan cara ___",
+      "text": "Warga RT 05 membersihkan saluran air bersama-sama pada hari Minggu. Kegiatan ini disebut ___",
       "image": null,
       "options": {
-        "A": "Kerja bakti",
-        "B": "Lomba",
-        "C": "Belanja",
-        "D": "Liburan"
+        "A": "Lomba",
+        "B": "Arisan",
+        "C": "Rapat",
+        "D": "Kerja bakti"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -120,12 +120,12 @@
       "text": "Manfaat terbesar gotong royong bagi masyarakat adalah pekerjaan berat menjadi ___",
       "image": null,
       "options": {
-        "A": "Lebih berat",
-        "B": "Lebih ringan",
-        "C": "Lebih mahal",
-        "D": "Lebih lama"
+        "A": "Lebih mahal",
+        "B": "Lebih lama",
+        "C": "Lebih berat",
+        "D": "Lebih ringan"
       },
-      "answer": "B",
+      "answer": "D",
       "difficulty": "hard"
     },
     {
@@ -134,38 +134,38 @@
       "text": "Sikap yang harus dijaga saat gotong royong adalah ___",
       "image": null,
       "options": {
-        "A": "Memilih-milih pekerjaan",
-        "B": "Bekerja sungguh-sungguh",
+        "A": "Diam saja",
+        "B": "Memilih-milih pekerjaan",
         "C": "Menunggu perintah",
-        "D": "Diam saja"
+        "D": "Bekerja sungguh-sungguh"
       },
-      "answer": "B",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
       "id": 10,
       "domain": "gotong_royong",
-      "text": "Kerja bakti membersihkan lingkungan dilakukan oleh ___",
+      "text": "Manakah yang BUKAN bentuk gotong royong di sekolah?",
       "image": null,
       "options": {
-        "A": "Satu orang saja",
-        "B": "Warga bersama-sama",
-        "C": "Tetangga sebelah saja",
-        "D": "Petugas kebersihan saja"
+        "A": "Membersihkan halaman sekolah",
+        "B": "Membantu guru membawa buku",
+        "C": "Membeli jajan di kantin",
+        "D": "Piket kelas bersama"
       },
-      "answer": "B",
+      "answer": "C",
       "difficulty": "easy"
     },
     {
       "id": 11,
       "domain": "bpupk_ppki",
-      "text": "BPUPK singkatan dari ___",
+      "text": "Huruf acak: 'Badan Usaha Penyelidik Kemerdekaan Persiapan'. Susun menjadi nama lengkap badan yang benar!",
       "image": null,
       "options": {
-        "A": "Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan",
-        "B": "Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia",
+        "A": "Persiapan Badan Penyelidik Kemerdekaan Usaha-Usaha",
+        "B": "Badan Penyelidik Persiapan Kemerdekaan Usaha-Usaha",
         "C": "Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia",
-        "D": "Badan Penyelidikan Usaha Persiapan Kemerdekaan"
+        "D": "Badan Usaha Penyelidik Kemerdekaan Persiapan Indonesia"
       },
       "answer": "C",
       "difficulty": "easy"
@@ -173,29 +173,29 @@
     {
       "id": 12,
       "domain": "bpupk_ppki",
-      "text": "Pancasila disahkan oleh PPKI pada tanggal ___",
+      "text": "Proklamasi kemerdekaan dibacakan hari pertama. Keesokan harinya, PPKI mengesahkan Pancasila. Kapan Pancasila disahkan?",
       "image": null,
       "options": {
-        "A": "17 Agustus 1945",
-        "B": "18 Agustus 1945",
-        "C": "1 Juni 1945",
+        "A": "18 Agustus 1945",
+        "B": "1 Juni 1945",
+        "C": "17 Agustus 1945",
         "D": "22 Juni 1945"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 13,
       "domain": "bpupk_ppki",
-      "text": "Mengapa Jepang membentuk BPUPK? Untuk ___",
+      "text": "Perhatikan fakta berikut: Jepang sedang kalah perang pada 1945, dan rakyat Indonesia semakin berani menuntut kemerdekaan. Berdasarkan fakta itu, Jepang membentuk BPUPK dengan maksud ___",
       "image": null,
       "options": {
-        "A": "Menarik simpati bangsa Indonesia",
-        "B": "Mengajari Indonesia berperang",
-        "C": "Menjajah Indonesia lagi",
-        "D": "Membuka sekolah baru"
+        "A": "Menyiapkan Indonesia menjadi wilayah Jepang tetap",
+        "B": "Mengajarkan bahasa Jepang kepada rakyat",
+        "C": "Membantu Indonesia memerangi Sekutu",
+        "D": "Menarik simpati bangsa Indonesia agar tetap mendukung Jepang"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -204,24 +204,24 @@
       "text": "PPKI singkatan dari ___",
       "image": null,
       "options": {
-        "A": "Panitia Persiapan Kemerdekaan Indonesia",
-        "B": "Penyelidik Usaha Persiapan Kemerdekaan",
-        "C": "Badan Penyelidik Usaha-Usaha Persiapan",
+        "A": "Badan Penyelidik Usaha-Usaha Persiapan",
+        "B": "Panitia Persiapan Kemerdekaan Indonesia",
+        "C": "Penyelidik Usaha Persiapan Kemerdekaan",
         "D": "Panitia Kecil Kemerdekaan Indonesia"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
       "id": 15,
       "domain": "bpupk_ppki",
-      "text": "BPUPK dibentuk oleh pemerintah pendudukan ___",
+      "text": "Pada masa pendudukan, rakyat Indonesia dilarang berorganisasi. Tetapi pada 1945, pemerintah pendudukan Jepang justru membentuk badan khusus untuk Indonesia. Badan tersebut adalah ___",
       "image": null,
       "options": {
-        "A": "Belanda",
-        "B": "Portugis",
-        "C": "Jepang",
-        "D": "Inggris"
+        "A": "PETA",
+        "B": "Volksraad",
+        "C": "BPUPK",
+        "D": "Seinendan"
       },
       "answer": "C",
       "difficulty": "hard"
@@ -229,69 +229,69 @@
     {
       "id": 16,
       "domain": "bpupk_ppki",
-      "text": "Tugas utama BPUPK adalah ___",
+      "text": "BPUPK mengadakan dua kali sidang besar. Hasil kedua sidang tersebut kemudian dibawa ke PPKI untuk disahkan. Jadi tugas utama BPUPK adalah ___",
       "image": null,
       "options": {
-        "A": "Menyusun dasar negara Indonesia merdeka",
-        "B": "Memperbaiki jalan raya",
-        "C": "Membuat seragam sekolah",
-        "D": "Menghitung pajak"
-      },
-      "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 17,
-      "domain": "bpupk_ppki",
-      "text": "Setelah BPUPK dibubarkan, tugasnya melanjutkan penyusunan dasar negara diambil alih oleh ___",
-      "image": null,
-      "options": {
-        "A": "PPKI",
-        "B": "KNIP",
-        "C": "DPR",
-        "D": "BPK"
-      },
-      "answer": "A",
-      "difficulty": "hard"
-    },
-    {
-      "id": 18,
-      "domain": "bpupk_ppki",
-      "text": "Proklamasi kemerdekaan Indonesia dibacakan pada tanggal ___",
-      "image": null,
-      "options": {
-        "A": "18 Agustus 1945",
-        "B": "17 Agustus 1945",
-        "C": "1 Juni 1945",
-        "D": "10 November 1945"
+        "A": "Membagikan beras kepada rakyat",
+        "B": "Menyusun rancangan dasar negara Indonesia merdeka",
+        "C": "Membentuk angkatan darat dan laut",
+        "D": "Menandatangani proklamasi kemerdekaan"
       },
       "answer": "B",
       "difficulty": "medium"
     },
     {
-      "id": 19,
+      "id": 17,
       "domain": "bpupk_ppki",
-      "text": "Pada tanggal 18 Agustus 1945, PPKI mengesahkan ___",
+      "text": "BPUPK selesai tugasnya pada 7 Agustus 1945. Satu hari kemudian, dibentuk badan baru yang tugasnya melanjutkan penyusunan dasar negara. Badan itu adalah ___",
       "image": null,
       "options": {
-        "A": "UUD 1945 dan Pancasila",
-        "B": "Bendera merah",
-        "C": "Lagu Indonesia Raya",
-        "D": "Garuda Pancasila"
+        "A": "DPR",
+        "B": "PPKI",
+        "C": "BPK",
+        "D": "KNIP"
       },
-      "answer": "A",
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "domain": "bpupk_ppki",
+      "text": "Proklamasi dibacakan 17 Agustus, dan Pancasila disahkan 18 Agustus 1945. Kedua peristiwa penting tersebut terjadi pada bulan ___",
+      "image": null,
+      "options": {
+        "A": "Oktober",
+        "B": "Juni",
+        "C": "Agustus",
+        "D": "Desember"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "domain": "bpupk_ppki",
+      "text": "Dua hal penting disahkan PPKI pada 18 Agustus 1945, yaitu UUD 1945 dan ___",
+      "image": null,
+      "options": {
+        "A": "Lagu Indonesia Raya",
+        "B": "Garuda Pancasila",
+        "C": "Pancasila sebagai dasar negara",
+        "D": "Bendera merah putih"
+      },
+      "answer": "C",
       "difficulty": "medium"
     },
     {
       "id": 20,
       "domain": "bpupk_ppki",
-      "text": "Kemerdekaan Indonesia diproklamasikan oleh ___",
+      "text": "Di buku sejarah, dua tokoh terlihat berdiri membacakan teks di depan rumah di Jalan Pegangsaan Timur 56. Keduanya adalah ___",
       "image": null,
       "options": {
         "A": "Soekarno dan Mohammad Hatta",
-        "B": "Jenderal Sudirman",
-        "C": "Sutan Sjahrir",
-        "D": "Tan Malaka"
+        "B": "Mohammad Yamin dan Soepomo",
+        "C": "Sutan Sjahrir dan Amir Sjarifuddin",
+        "D": "Jenderal Sudirman dan Bung Tomo"
       },
       "answer": "A",
       "difficulty": "easy"
@@ -299,15 +299,15 @@
     {
       "id": 21,
       "domain": "pancasila_makna",
-      "text": "Kedudukan Pancasila sebagai kepribadian bangsa artinya ___",
+      "text": "Bangsa Indonesia punya jati diri yang tidak dimiliki bangsa lain di dunia. Jati diri bangsa tersebut tercermin dalam Pancasila, sehingga Pancasila disebut sebagai ___",
       "image": null,
       "options": {
-        "A": "Identitas bangsa Indonesia yang tidak dimiliki negara manapun",
-        "B": "Pedoman bagi bangsa Indonesia",
-        "C": "Dasar utama kehidupan bernegara",
+        "A": "Dasar utama negara tetangga",
+        "B": "Kepribadian bangsa Indonesia",
+        "C": "Pedoman hidup warga sekolah",
         "D": "Sumber dari segala sumber hukum"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
@@ -316,82 +316,82 @@
       "text": "Makna 'Pancasila merupakan sumber dari segala sumber hukum di Indonesia' adalah ___",
       "image": null,
       "options": {
-        "A": "Pancasila ditulis di buku hukum",
-        "B": "Semua aturan dan peraturan di Indonesia bersumber dari Pancasila",
+        "A": "Semua aturan dan peraturan di Indonesia bersumber dari Pancasila",
+        "B": "Pancasila ditulis di buku hukum",
         "C": "Pancasila dibuat oleh hakim",
         "D": "Pancasila hanya berlaku di pengadilan"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "hard"
     },
     {
       "id": 23,
       "domain": "pancasila_makna",
-      "text": "Pancasila adalah dasar ___",
+      "text": "Manakah urutan TIGA sila pertama Pancasila yang benar?",
       "image": null,
       "options": {
-        "A": "Bermain",
-        "B": "Bernegara Republik Indonesia",
-        "C": "Berjualan",
-        "D": "Bercocok tanam"
+        "A": "Ketuhanan, Kemanusiaan, Persatuan",
+        "B": "Persatuan, Ketuhanan, Kemanusiaan",
+        "C": "Ketuhanan, Persatuan, Kemanusiaan",
+        "D": "Kemanusiaan, Ketuhanan, Persatuan"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "easy"
     },
     {
       "id": 24,
       "domain": "pancasila_makna",
-      "text": "Pancasila sebagai pedoman hidup berarti menjadi ___",
+      "text": "Rara selalu berdoa, membantu teman, dan berani menyampaikan pendapat dengan sopan. Tindakan Rara sehari-hari tersebut menunjukkan bahwa Pancasila menjadi ___",
       "image": null,
       "options": {
-        "A": "Panduan dalam berperilaku sehari-hari",
-        "B": "Koleksi bacaan",
-        "C": "Lambang sekolah",
-        "D": "Nyanyian nasional"
-      },
-      "answer": "A",
-      "difficulty": "medium"
-    },
-    {
-      "id": 25,
-      "domain": "pancasila_makna",
-      "text": "Pancasila terdiri dari ___ sila",
-      "image": null,
-      "options": {
-        "A": "Tiga",
-        "B": "Empat",
-        "C": "Lima",
-        "D": "Enam"
+        "A": "Nama kelompoknya",
+        "B": "Lambang sekolahnya",
+        "C": "Pedoman hidupnya",
+        "D": "Bacaan sebelum tidurnya"
       },
       "answer": "C",
       "difficulty": "medium"
     },
     {
-      "id": 26,
+      "id": 25,
       "domain": "pancasila_makna",
-      "text": "Bunyi sila pertama Pancasila adalah ___",
+      "text": "Manakah yang BUKAN lambang sila Pancasila?",
       "image": null,
       "options": {
-        "A": "Ketuhanan Yang Maha Esa",
-        "B": "Kemanusiaan yang Adil dan Beradab",
-        "C": "Persatuan Indonesia",
-        "D": "Keadilan sosial"
+        "A": "Rantai",
+        "B": "Bulan sabit",
+        "C": "Padi dan kapas",
+        "D": "Bintang"
       },
-      "answer": "A",
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "domain": "pancasila_makna",
+      "text": "Rara dan temannya beragama berbeda-beda, tetapi mereka tetap berdoa menurut agama masing-masing dengan penuh hormat. Nilai yang mereka pegang adalah bunyi sila ___",
+      "image": null,
+      "options": {
+        "A": "Ketiga: Persatuan Indonesia",
+        "B": "Pertama: Ketuhanan Yang Maha Esa",
+        "C": "Keempat: Kerakyatan",
+        "D": "Kedua: Kemanusiaan yang Adil dan Beradab"
+      },
+      "answer": "B",
       "difficulty": "medium"
     },
     {
       "id": 27,
       "domain": "pancasila_makna",
-      "text": "Bunyi sila ketiga Pancasila adalah ___",
+      "text": "Manakah yang BUKAN bunyi sila dalam Pancasila?",
       "image": null,
       "options": {
-        "A": "Kerakyatan",
+        "A": "Keadilan sosial bagi seluruh rakyat Indonesia",
         "B": "Persatuan Indonesia",
-        "C": "Keadilan sosial",
-        "D": "Kemanusiaan"
+        "C": "Kemanusiaan yang adil dan beradab",
+        "D": "Gotong royong menuju masyarakat makmur"
       },
-      "answer": "B",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -401,9 +401,9 @@
       "image": null,
       "options": {
         "A": "Ketuhanan Yang Maha Esa",
-        "B": "Persatuan Indonesia",
+        "B": "Keadilan sosial bagi seluruh rakyat Indonesia",
         "C": "Kemanusiaan yang Adil dan Beradab",
-        "D": "Keadilan sosial bagi seluruh rakyat Indonesia"
+        "D": "Persatuan Indonesia"
       },
       "answer": "C",
       "difficulty": "hard"
@@ -414,24 +414,24 @@
       "text": "Sila keempat Pancasila adalah Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam ___",
       "image": null,
       "options": {
-        "A": "Permusyawaratan/perwakilan",
-        "B": "Pertandingan",
-        "C": "Perjalanan",
-        "D": "Permainan"
+        "A": "Perjalanan",
+        "B": "Permusyawaratan/perwakilan",
+        "C": "Permainan",
+        "D": "Pertandingan"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
       "id": 30,
       "domain": "pancasila_makna",
-      "text": "Sila kelima Pancasila adalah ___",
+      "text": "Manakah pernyataan yang BENAR tentang Pancasila?",
       "image": null,
       "options": {
-        "A": "Keadilan sosial bagi seluruh rakyat Indonesia",
-        "B": "Persatuan Indonesia",
-        "C": "Ketuhanan Yang Maha Esa",
-        "D": "Kemanusiaan yang adil"
+        "A": "Pancasila terdiri dari lima sila",
+        "B": "Pancasila dibuat tahun 1950",
+        "C": "Pancasila hanya berlaku di sekolah",
+        "D": "Pancasila terdiri dari tiga sila"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -439,15 +439,15 @@
     {
       "id": 31,
       "domain": "sila_nilai_penerapan",
-      "text": "Contoh penerapan sila pertama (Ketuhanan Yang Maha Esa) adalah ___",
+      "text": "Sebelum makan, Naya mengucapkan doa. Saat pelajaran agama, ia mendengarkan gurunya dengan baik. Tindakan Naya ini adalah penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Berdoa setiap hari",
-        "B": "Menyumbang korban bencana",
-        "C": "Menabung",
-        "D": "Bermusyawarah"
+        "A": "Ketiga",
+        "B": "Pertama",
+        "C": "Kedua",
+        "D": "Keempat"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "easy"
     },
     {
@@ -456,40 +456,40 @@
       "text": "Tidak mengganggu teman yang sedang berdoa adalah penerapan sila ke ___",
       "image": null,
       "options": {
-        "A": "Pertama",
-        "B": "Kedua",
-        "C": "Ketiga",
-        "D": "Keempat"
+        "A": "Ketiga",
+        "B": "Keempat",
+        "C": "Kedua",
+        "D": "Pertama"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "easy"
     },
     {
       "id": 33,
       "domain": "sila_nilai_penerapan",
-      "text": "Membantu teman dan memberi sumbangan kepada korban bencana alam adalah penerapan sila ke ___",
+      "text": "Kelas 5A menggalang dana untuk korban gempa. Tindakan mereka mencerminkan nilai kemanusiaan, yang merupakan sila ke ___",
       "image": null,
       "options": {
-        "A": "Pertama",
-        "B": "Kedua",
-        "C": "Keempat",
-        "D": "Kelima"
+        "A": "Dua",
+        "B": "Satu",
+        "C": "Lima",
+        "D": "Empat"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "easy"
     },
     {
       "id": 34,
       "domain": "sila_nilai_penerapan",
-      "text": "Nilai sila kedua Pancasila adalah ___",
+      "text": "Pasangan nilai sila dan contoh penerapannya yang BENAR adalah ___",
       "image": null,
       "options": {
-        "A": "Ketuhanan",
-        "B": "Kemanusiaan",
-        "C": "Persatuan",
-        "D": "Keadilan"
+        "A": "Ketuhanan — menabung di celengan",
+        "B": "Keadilan — menyanyi lagu daerah",
+        "C": "Kemanusiaan — membantu korban bencana alam",
+        "D": "Persatuan — berdoa setiap hari"
       },
-      "answer": "B",
+      "answer": "C",
       "difficulty": "medium"
     },
     {
@@ -498,12 +498,12 @@
       "text": "Menyanyi lagu daerah dan menghargai perbedaan adalah penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Pertama",
-        "B": "Kedua",
-        "C": "Ketiga (Persatuan Indonesia)",
-        "D": "Kelima"
+        "A": "Kedua",
+        "B": "Kelima",
+        "C": "Pertama",
+        "D": "Ketiga (Persatuan Indonesia)"
       },
-      "answer": "C",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -513,8 +513,8 @@
       "image": null,
       "options": {
         "A": "Keempat (Kerakyatan)",
-        "B": "Pertama",
-        "C": "Ketiga",
+        "B": "Ketiga",
+        "C": "Pertama",
         "D": "Kelima"
       },
       "answer": "A",
@@ -523,15 +523,15 @@
     {
       "id": 37,
       "domain": "sila_nilai_penerapan",
-      "text": "Mendengarkan orang lain saat mengemukakan ide adalah penerapan sila ___",
+      "text": "Saat diskusi kelompok, Bima diam dan mendengarkan pendapat temannya sampai selesai sebelum ia menanggapi. Sikap Bima adalah penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Kelima",
-        "B": "Keempat",
-        "C": "Kedua",
-        "D": "Pertama"
+        "A": "Ketiga",
+        "B": "Kelima",
+        "C": "Pertama",
+        "D": "Keempat"
       },
-      "answer": "B",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -540,26 +540,26 @@
       "text": "Menabung uang di celengan dan semua mendapat hak yang sama adalah penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Ketiga",
-        "B": "Keempat",
-        "C": "Kelima (Keadilan sosial)",
-        "D": "Pertama"
+        "A": "Keempat",
+        "B": "Kelima (Keadilan sosial)",
+        "C": "Pertama",
+        "D": "Ketiga"
       },
-      "answer": "C",
+      "answer": "B",
       "difficulty": "easy"
     },
     {
       "id": 39,
       "domain": "sila_nilai_penerapan",
-      "text": "Nilai sila kelima Pancasila adalah ___",
+      "text": "Manakah yang BUKAN nilai sila dalam Pancasila?",
       "image": null,
       "options": {
-        "A": "Kerakyatan",
-        "B": "Keadilan",
-        "C": "Kemanusiaan",
-        "D": "Persatuan"
+        "A": "Kebebasan berbelanja",
+        "B": "Ketuhanan",
+        "C": "Persatuan",
+        "D": "Keadilan sosial"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "hard"
     },
     {
@@ -568,12 +568,12 @@
       "text": "Rani beribadah bersama keluarganya pada hari Minggu, sedangkan tetangganya beribadah hari Jumat. Sikap Rani dan tetangganya mencerminkan penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Pertama dan ketiga",
-        "B": "Kedua dan keempat",
-        "C": "Ketiga dan kelima",
-        "D": "Keempat dan kelima"
+        "A": "Ketiga dan kelima",
+        "B": "Keempat dan kelima",
+        "C": "Kedua dan keempat",
+        "D": "Pertama dan ketiga"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "hard"
     },
     {
@@ -584,8 +584,8 @@
       "options": {
         "A": "Rela berkorban dan mencintai tanah air",
         "B": "Sering mengeluh",
-        "C": "Mudah menyerah",
-        "D": "Mementingkan diri sendiri"
+        "C": "Mementingkan diri sendiri",
+        "D": "Mudah menyerah"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -598,8 +598,8 @@
       "options": {
         "A": "Mengerjakan tugas kelompok bersama",
         "B": "Menyimpan bekal sendiri",
-        "C": "Pulang cepat tanpa pamit",
-        "D": "Menolak berdiskusi"
+        "C": "Menolak berdiskusi",
+        "D": "Pulang cepat tanpa pamit"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -610,12 +610,12 @@
       "text": "Saat pemilihan ketua kelas, setiap anak boleh menyampaikan pendapat dan memilih secara bebas. Ini penerapan sila ke ___",
       "image": null,
       "options": {
-        "A": "Keempat",
-        "B": "Pertama",
-        "C": "Kedua",
-        "D": "Kelima"
+        "A": "Kelima",
+        "B": "Keempat",
+        "C": "Pertama",
+        "D": "Kedua"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "hard"
     },
     {
@@ -624,12 +624,12 @@
       "text": "Kelas 5A memiliki teman baru yang berbeda agama. Mereka tetap berteman dan bekerja sama. Ini mencerminkan sila ___",
       "image": null,
       "options": {
-        "A": "Pertama dan ketiga",
-        "B": "Kedua saja",
-        "C": "Keempat saja",
-        "D": "Kelima saja"
+        "A": "Kelima saja",
+        "B": "Pertama dan ketiga",
+        "C": "Kedua saja",
+        "D": "Keempat saja"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "hard"
     },
     {
@@ -638,12 +638,12 @@
       "text": "Perbedaan gotong royong tingkat kota dan kabupaten: menanam pohon di pinggir jalan biasanya dilakukan di lingkungan ___",
       "image": null,
       "options": {
-        "A": "Kota",
-        "B": "Sawah",
-        "C": "Gunung",
-        "D": "Laut"
+        "A": "Gunung",
+        "B": "Laut",
+        "C": "Kota",
+        "D": "Sawah"
       },
-      "answer": "A",
+      "answer": "C",
       "difficulty": "hard"
     },
     {
@@ -652,12 +652,12 @@
       "text": "Hajatan tetangga diberi bantuan berupa makanan oleh warga. Bentuk gotong royong ini adalah memberi ___",
       "image": null,
       "options": {
-        "A": "Barang",
-        "B": "Tenaga",
+        "A": "Tenaga",
+        "B": "Pinjaman",
         "C": "Cuma-cuma",
-        "D": "Pinjaman"
+        "D": "Barang"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -666,12 +666,12 @@
       "text": "Gotong royong membuat hidup kita menjadi lebih ___",
       "image": null,
       "options": {
-        "A": "Sulit",
-        "B": "Harmonis",
+        "A": "Mahal",
+        "B": "Sulit",
         "C": "Sibuk",
-        "D": "Mahal"
+        "D": "Harmonis"
       },
-      "answer": "B",
+      "answer": "D",
       "difficulty": "easy"
     },
     {
@@ -681,9 +681,9 @@
       "image": null,
       "options": {
         "A": "Membersihkan kelas bersama",
-        "B": "Membeli jajan",
-        "C": "Bermain sendiri",
-        "D": "Membawa buku"
+        "B": "Membawa buku",
+        "C": "Membeli jajan",
+        "D": "Bermain sendiri"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -696,8 +696,8 @@
       "options": {
         "A": "Dasar negara Indonesia merdeka",
         "B": "Rencana serangan militer",
-        "C": "Pembagian wilayah",
-        "D": "Pemilihan presiden"
+        "C": "Pemilihan presiden",
+        "D": "Pembagian wilayah"
       },
       "answer": "A",
       "difficulty": "hard"
@@ -705,27 +705,27 @@
     {
       "id": 50,
       "domain": "bpupk_ppki",
-      "text": "Tanggal 18 Agustus 1945 adalah hari penting karena ___",
+      "text": "Perhatikan urutan peristiwa: (1) Proklamasi dibacakan, (2) ___? (3) UUD 1945 disahkan. Peristiwa yang tepat untuk mengisi (2) adalah ___",
       "image": null,
       "options": {
-        "A": "Pancasila disahkan",
-        "B": "Proklamasi dibacakan",
+        "A": "Sumpah Pemuda diikrarkan",
+        "B": "Pancasila disahkan sebagai dasar negara",
         "C": "BPUPK dibentuk",
-        "D": "Soekarno wafat"
+        "D": "Belanda menyerah kepada Jepang"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
       "id": 51,
       "domain": "pancasila_makna",
-      "text": "Jika ada aturan baru dibuat pemerintah, aturan itu tidak boleh bertentangan dengan ___",
+      "text": "Pemerintah hendak membuat aturan baru. Aturan tersebut tidak boleh bertentangan dengan Pancasila karena Pancasila adalah ___",
       "image": null,
       "options": {
-        "A": "Pancasila",
-        "B": "Lagu nasional",
-        "C": "Bendera",
-        "D": "Tanggal merah"
+        "A": "Sumber dari segala sumber hukum",
+        "B": "Tulisan presiden pertama",
+        "C": "Aturan untuk hari besar saja",
+        "D": "Teks yang mudah diingat"
       },
       "answer": "A",
       "difficulty": "hard"
@@ -733,13 +733,13 @@
     {
       "id": 52,
       "domain": "pancasila_makna",
-      "text": "Lambang sila pertama Pancasila adalah ___",
+      "text": "Bintang bercahaya dipilih sebagai lambang sila pertama. Sinar bintang bermakna cahaya ___",
       "image": null,
       "options": {
-        "A": "Bintang",
-        "B": "Rantai",
-        "C": "Pohon beringin",
-        "D": "Padi dan kapas"
+        "A": "Ketuhanan yang menerangi setiap manusia",
+        "B": "Kekayaan alam Indonesia",
+        "C": "Kepahlawanan bangsa",
+        "D": "Kemerdekaan negara"
       },
       "answer": "A",
       "difficulty": "easy"
@@ -747,27 +747,27 @@
     {
       "id": 53,
       "domain": "pancasila_makna",
-      "text": "Lambang sila ketiga Pancasila adalah ___",
+      "text": "Pasangan sila dan lambang yang BENAR adalah ___",
       "image": null,
       "options": {
-        "A": "Bintang",
-        "B": "Pohon beringin",
-        "C": "Kepala banteng",
-        "D": "Padi dan kapas"
+        "A": "Sila ketiga — pohon beringin",
+        "B": "Sila kelima — kepala banteng",
+        "C": "Sila pertama — rantai",
+        "D": "Sila kedua — padi dan kapas"
       },
-      "answer": "B",
+      "answer": "A",
       "difficulty": "medium"
     },
     {
       "id": 54,
       "domain": "pancasila_makna",
-      "text": "Lambang sila kelima Pancasila adalah ___",
+      "text": "Padi dan kapas melambangkan makanan dan pakaian. Lambang ini digunakan untuk sila ___",
       "image": null,
       "options": {
-        "A": "Bintang",
-        "B": "Rantai",
-        "C": "Kepala banteng",
-        "D": "Padi dan kapas"
+        "A": "Pertama: Ketuhanan Yang Maha Esa",
+        "B": "Ketiga: Persatuan Indonesia",
+        "C": "Keempat: Kerakyatan",
+        "D": "Kelima: Keadilan sosial bagi seluruh rakyat Indonesia"
       },
       "answer": "D",
       "difficulty": "medium"
@@ -775,29 +775,29 @@
     {
       "id": 55,
       "domain": "pancasila_makna",
-      "text": "Lambang sila kedua Pancasila adalah ___",
+      "text": "Lambang rantai pada Pancasila melambangkan persatuan yang ___",
       "image": null,
       "options": {
-        "A": "Bintang",
-        "B": "Rantai",
-        "C": "Pohon beringin",
-        "D": "Padi dan kapas"
+        "A": "Berat dan resah",
+        "B": "Mahal harganya",
+        "C": "Kuat dan saling terhubung",
+        "D": "Mudah putus"
       },
-      "answer": "B",
+      "answer": "C",
       "difficulty": "easy"
     },
     {
       "id": 56,
       "domain": "pancasila_makna",
-      "text": "Lambang sila keempat Pancasila adalah ___",
+      "text": "Kepala banteng dipilih sebagai lambang sila keempat karena banteng terkenal suka berkumpul bersama temannya. Sesuai bunyi sila keempat, sikap berkumpul itu dilakukan dalam bentuk ___",
       "image": null,
       "options": {
-        "A": "Kepala banteng",
-        "B": "Rantai",
-        "C": "Bintang",
-        "D": "Pohon beringin"
+        "A": "Tanding satu lawan satu",
+        "B": "Menyendiri di hutan",
+        "C": "Musyawarah dan perwakilan",
+        "D": "Berburu malam hari"
       },
-      "answer": "A",
+      "answer": "C",
       "difficulty": "medium"
     },
     {
@@ -807,11 +807,11 @@
       "image": null,
       "options": {
         "A": "Mengganggunya",
-        "B": "Menghormati dan tidak mengganggu",
+        "B": "Menertawakannya",
         "C": "Mengajak bermain",
-        "D": "Menertawakannya"
+        "D": "Menghormati dan tidak mengganggu"
       },
-      "answer": "B",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -821,9 +821,9 @@
       "image": null,
       "options": {
         "A": "Kedua",
-        "B": "Keempat",
-        "C": "Pertama",
-        "D": "Ketiga"
+        "B": "Pertama",
+        "C": "Ketiga",
+        "D": "Keempat"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -831,13 +831,13 @@
     {
       "id": 59,
       "domain": "sila_nilai_penerapan",
-      "text": "Saat piket kelas, semua anak mengerjakan tugasnya tanpa disuruh. Ini mencerminkan sikap ___",
+      "text": "Meskipun guru tidak ada di kelas, Dodi tetap menyapu lantai dan membersihkan papan tulis sesuai jadwal piket. Sikap Dodi disebut ___",
       "image": null,
       "options": {
         "A": "Tanggung jawab",
-        "B": "Egois",
-        "C": "Malas",
-        "D": "Sombong"
+        "B": "Malas",
+        "C": "Takut",
+        "D": "Pamer"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -848,12 +848,12 @@
       "text": "Semangat gotong royong bangsa Indonesia terwujud dalam sila ke ___",
       "image": null,
       "options": {
-        "A": "Pertama",
-        "B": "Ketiga",
-        "C": "Keempat",
+        "A": "Keempat",
+        "B": "Pertama",
+        "C": "Ketiga",
         "D": "Kelima"
       },
-      "answer": "B",
+      "answer": "C",
       "difficulty": "medium"
     },
     {
@@ -862,12 +862,12 @@
       "text": "Gotong royong mencerminkan pengorbanan ___ demi kepentingan bersama",
       "image": null,
       "options": {
-        "A": "Waktu dan tenaga",
-        "B": "Uang saja",
-        "C": "Harta saja",
-        "D": "Barang saja"
+        "A": "Barang saja",
+        "B": "Waktu dan tenaga",
+        "C": "Uang saja",
+        "D": "Harta saja"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
@@ -876,12 +876,12 @@
       "text": "Kampung kita tergenang banjir. Contoh gotong royong yang paling tepat adalah ___",
       "image": null,
       "options": {
-        "A": "Warga bersama-sama membersihkan saluran air",
+        "A": "Pindah rumah",
         "B": "Menunggu bantuan saja",
-        "C": "Pindah rumah",
-        "D": "Menyalahkan tetangga"
+        "C": "Menyalahkan tetangga",
+        "D": "Warga bersama-sama membersihkan saluran air"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "hard"
     },
     {
@@ -890,12 +890,12 @@
       "text": "Sebelum memulai pelajaran, siswa berdoa bersama sesuai agama masing-masing. Ini penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Pertama",
+        "A": "Kelima",
         "B": "Kedua",
         "C": "Ketiga",
-        "D": "Kelima"
+        "D": "Pertama"
       },
-      "answer": "A",
+      "answer": "D",
       "difficulty": "medium"
     },
     {
@@ -904,24 +904,24 @@
       "text": "Ketua kelompok meminta pendapat semua anggota sebelum mengerjakan tugas. Ini penerapan sila ___",
       "image": null,
       "options": {
-        "A": "Keempat",
+        "A": "Kelima",
         "B": "Pertama",
-        "C": "Kedua",
-        "D": "Kelima"
+        "C": "Keempat",
+        "D": "Kedua"
       },
-      "answer": "A",
+      "answer": "C",
       "difficulty": "hard"
     },
     {
       "id": 65,
       "domain": "sila_nilai_penerapan",
-      "text": "Berkas buku sekolah dibagikan sama rata ke semua siswa. Ini penerapan sila ___",
+      "text": "Guru membagikan buku tulis sama banyak kepada seluruh murid, tanpa membeda-bedakan. Nilai keadilan ini adalah bunyi sila ___",
       "image": null,
       "options": {
-        "A": "Kelima",
-        "B": "Ketiga",
-        "C": "Kedua",
-        "D": "Pertama"
+        "A": "Keadilan sosial bagi seluruh rakyat Indonesia",
+        "B": "Persatuan Indonesia",
+        "C": "Ketuhanan Yang Maha Esa",
+        "D": "Kemanusiaan yang adil dan beradab"
       },
       "answer": "A",
       "difficulty": "medium"
@@ -929,15 +929,15 @@
     {
       "id": 66,
       "domain": "pancasila_makna",
-      "text": "Sila-sila Pancasila tercantum dalam ___",
+      "text": "Ketika membaca Pembukaan UUD 1945, Dinda menemukan bunyi lima sila. Kumpulan sila tersebut disebut ___",
       "image": null,
       "options": {
-        "A": "Pembukaan UUD 1945",
-        "B": "Halaman buku tulis",
-        "C": "Lagu kebangsaan",
-        "D": "Poster sekolah"
+        "A": "Sumpah Pemuda",
+        "B": "Pancasila",
+        "C": "Bhinneka Tunggal Ika",
+        "D": "Piagam Jakarta"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
@@ -946,12 +946,12 @@
       "text": "Rancangan dasar negara hasil sidang BPUPK dikenal dengan nama ___",
       "image": null,
       "options": {
-        "A": "Pancasila",
-        "B": "Piagam Jakarta",
-        "C": "UUD 1945",
+        "A": "UUD 1945",
+        "B": "Pancasila",
+        "C": "Piagam Jakarta",
         "D": "Sumpah Pemuda"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "medium"
     },
     {
@@ -960,12 +960,12 @@
       "text": "Pancasila dijadikan dasar negara secara resmi melalui sidang ___",
       "image": null,
       "options": {
-        "A": "PPKI",
-        "B": "BPUPK",
-        "C": "KNIP",
-        "D": "MPR"
+        "A": "MPR",
+        "B": "PPKI",
+        "C": "BPUPK",
+        "D": "KNIP"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "hard"
     },
     {
@@ -974,12 +974,12 @@
       "text": "Ada teman baru di kelas yang kesusahan memahami pelajaran. Sikap yang sesuai sila kedua adalah ___",
       "image": null,
       "options": {
-        "A": "Membantunya memahami pelajaran",
+        "A": "Menjauhinya",
         "B": "Membiarkannya",
-        "C": "Menertawakannya",
-        "D": "Menjauhinya"
+        "C": "Membantunya memahami pelajaran",
+        "D": "Menertawakannya"
       },
-      "answer": "A",
+      "answer": "C",
       "difficulty": "hard"
     },
     {
@@ -988,12 +988,12 @@
       "text": "Dua teman berebut mainan. Untuk menyelesaikan masalah sesuai sila keempat, mereka sebaiknya ___",
       "image": null,
       "options": {
-        "A": "Bermusyawarah dan bergantian",
-        "B": "Berebut sampai menang",
+        "A": "Berebut sampai menang",
+        "B": "Bermusyawarah dan bergantian",
         "C": "Meminta guru memarahi",
         "D": "Membawa pulang mainannya"
       },
-      "answer": "A",
+      "answer": "B",
       "difficulty": "hard"
     }
   ]
